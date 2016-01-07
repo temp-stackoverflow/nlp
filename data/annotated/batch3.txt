@@ -1,0 +1,13466 @@
+@NOSTRA/USR
+:/:
+RESULT_OK/C NA
+is/VBZ
+a/DT
+public/C NA
+static/C NA
+final/C NA
+constant/C NA
+declared/VBN
+in/IN
+Activity/C NA
+./.
+@Gibron/USR
+:/:
+I/PRP
+just/RB
+put/VBD
+the/DT
+whole/JJ
+stack-trace/NN
+here/RB
+./.
+
+You/PRP
+can/MD
+see/VB
+there/EX
+is/VBZ
+not/RB
+a/DT
+single/JJ
+class/NN
+//CC
+method/NN
+list/NN
+from/IN
+my/PRP$
+application/NN
+code/NN
+,/,
+but/CC
+only/RB
+the/DT
+android/NNP
+code/NN
+is/VBZ
+here/RB
+./.
+
+So/RB
+I/PRP
+do/VBP
+n't/RB
+know/VB
+what/WDT
+code/NN
+need/VBP
+to/TO
+share/VB
+:)/UH
+
+I/PRP
+am/VBP
+ca/MD
+n't/RB
+share/VBP
+code/NN
+for/IN
+my/PRP$
+whole/JJ
+application/NN
+./.
+@Arslan/USR
+insight/NN
+into/IN
+your/PRP$
+architecture/NN
+will/MD
+only/RB
+help/VB
+others/NNS
+help/VBP
+you/PRP
+./.
+
+If/IN
+you/PRP
+ca/MD
+nt/RB
+provide/VB
+code/NN
+,/,
+provide/VB
+more/JJR
+info/NN
+that/WDT
+could/MD
+be/VB
+relevant/JJ
+./.
+I/PRP
+have/VBP
+already/RB
+added/VBN
+</C NA
+uses-permission/C NA
+android/C NA
+:/C NA
+name/C NA
+=/C NA
+"/C NA
+android/C NA
+./C NA
+permission/C NA
+./C NA
+INTERNET/C NA
+"/C NA
+/>/C NA
+Upon/IN
+further/JJ
+inspection/NN
+my/PRP$
+question/NN
+appears/VBZ
+to/TO
+be/VB
+a/DT
+duplicate/VB
+./.
+
+A/DT
+question/NN
+with/IN
+a/DT
+code/NN
+sample/NN
+of/IN
+what/WP
+to/TO
+use/VB
+is/VBZ
+here/RB
+:/.
+
+http://stackoverflow.com/q/1223552/957245/URI
+This/DT
+is/VBZ
+n't/RB
+a/DT
+duplicate/NN
+but/CC
+explains/VBZ
+our/PRP$
+options/NNS
+nicely/RB
+:/.
+
+http://stackoverflow.com/q/995719/957245/URI
+@AedonEtLIRA/USR
+I/PRP
+m/VBP
+trying/VBG
+to/TO
+create/VB
+an/DT
+event/NN
+recorder/NN
+for/IN
+a/DT
+native/JJ
+application/NN
+./.
+
+For/IN
+example/NN
+if/IN
+i/PRP
+have/VBP
+a/DT
+login/NN
+application/NN
+then/RB
+i/PRP
+can/MD
+record/VB
+the/DT
+events/NNS
+to/TO
+login/VB
+like/IN
+touch/VB
+,/,
+keyboard/NN
+input/NN
+etc/FW
+.../F
+
+So/RB
+i/PRP
+can/MD
+reply/VB
+the/DT
+recorded/VBN
+events/NNS
+and/CC
+the/DT
+login/NN
+would/MD
+be/VB
+automated/VBN
+./.
+
+I/PRP
+m/VBP
+trying/VBG
+to/TO
+minimize/VB
+altering/VBG
+the/DT
+application/NN
+source/NN
+as/IN
+much/RB
+as/IN
+possible/JJ
+./.
+
+Please/VB
+advise/VB
+./.
+
+Thanks/NNS
+@typedef1/USR
+:/:
+"/``
+screen2/JC NA
+objs2/JC NA
+=/JC NA
+new/JC NA
+screen2/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+"/''
+-/--
+NEVER/RB
+use/VB
+this/DT
+sort/NN
+of/IN
+code/NN
+to/TO
+create/VB
+an/DT
+instance/NN
+of/IN
+an/DT
+Activity/C
+./.
+
+As/IN
+mentioned/VBN
+in/IN
+the/DT
+answers/NNS
+,/,
+create/VBP
+an/DT
+Intent/C
+and/CC
+add/VB
+'/``
+extra/JJ
+'/''
+data/NNS
+to/TO
+it/PRP
+then/RB
+pass/VBP
+it/PRP
+to/TO
+startActivity/JC
+(/JC
+.../F
+)/JC
+or/CC
+startActivityForResulrt/JC
+(/JC
+.../F
+)/JC
+@siva/USR
+i/PRP
+do/VBP
+nt/RB
+get/VB
+any/DT
+err/NN
+../.
+
+it/PRP
+s/VBZ
+jus/RB
+the/DT
+animaton/NN
+is/VBZ
+not/RB
+veiwed/VBN
+../.
+@sony/USR
+i/PRP
+have/VBP
+tried/VBN
+to/TO
+implement/VB
+the/DT
+runnable/C
+but/CC
+still/RB
+its/PRP$
+not/RB
+workin/VBG
+Seem/VB
+spinner/NN
+is/VBZ
+null/NN
+,/,
+not/RB
+the/DT
+prompt/NN
+./.
+
+I/PRP
+can/MD
+you/PRP
+please/VB
+share/NN
+your/PRP$
+code/NN
+of/IN
+"/``
+form_pilih_lokasi_kelompok.xml/URI
+"/''
+?/C
+
+So/RB
+just/RB
+comment/VB
+the/DT
+line/NN
+68/CD
+and/CC
+still/RB
+you/PRP
+will/MD
+get/VB
+exception/NN
+on/IN
+69/CD
+.?/.
+@goto10/USR
+i/PRP
+would/MD
+like/VB
+to/TO
+edit/VB
+the/DT
+dispatchTouchEvent/C
+function/NN
+in/IN
+the/DT
+view/NN
+class/NN
+so/IN
+that/IN
+i/PRP
+can/MD
+log/VB
+the/DT
+event/NN
+then/RB
+pass/VB
+it/PRP
+to/TO
+be/VB
+processed/VBN
+./.
+
+The/DT
+reason/NN
+i/PRP
+do/VBP
+nt/RB
+want/VBP
+to/TO
+extend/VB
+the/DT
+class/NN
+is/VBZ
+because/IN
+i/PRP
+have/VBP
+alot/NN
+of/IN
+activities/NNS
+and/CC
+changing/VBG
+all/DT
+view/NN
+classes/NNS
+to/TO
+my/PRP$
+new/JJ
+extended/VBN
+class/NN
+does/VBZ
+nt/RB
+make/VB
+sense/NN
+Are/VBP
+you/PRP
+developing/VBG
+for/IN
+Android/NNP
+1.5/CD
+?/.
+
+The/DT
+-/C
+hdpi/C
+,/,
+-/C
+mdpi/C
+,/,
+-/C
+ldpi/C
+folders/NNS
+were/VBD
+included/VBN
+in/IN
+1.6/CD
+The/DT
+image/NN
+name/NN
+is/VBZ
+hello.png/URI
+?/.
+
+Are/VBP
+you/PRP
+sure/JJ
+the/DT
+image/NN
+has/VBZ
+valid/JJ
+characters/NNS
+?/.
+
+Is/VBZ
+the/DT
+image/NN
+is/VBZ
+a/DT
+9-patch/C
+?/.
+
+maybe/RB
+is/VBZ
+wrong/JJ
+./.
+found/VBN
+my/PRP$
+answer/NN
+
+i/JC NA
+./JC NA
+setFlags/JC NA
+(/JC NA
+Intent/JC NA
+./JC NA
+FLAG_ACTIVITY_REORDER_TO_FRONT/JC NA
+)/JC NA
+;/JC NA
+Why/WRB
+would/MD
+your/PRP$
+class/NN
+keep/VB
+a/DT
+list/NN
+of/IN
+subclasses/NNS
+?/.
+
+And/CC
+why/WRB
+do/VBP
+you/PRP
+think/VB
+having/VBG
+getter/NN
+//CC
+setter/NN
+for/IN
+every/DT
+class/NN
+member/NN
+is/VBZ
+great/JJ
+for/IN
+oo/NN
+?/.
+
+Having/VBG
+getter/NN
+//CC
+setter/NN
+for/IN
+every/DT
+member/NN
+is/VBZ
+the/DT
+same/JJ
+as/IN
+having/VBG
+every/DT
+member/NN
+public/C
+which/WDT
+means/VBZ
+no/DT
+encapsulation/NN
+at/IN
+all/DT
+./.
+
+Perhaps/RB
+,/,
+you/PRP
+should/MD
+start/VB
+from/IN
+the/DT
+other/JJ
+end/NN
+-/--
+implement/VB
+what/WP
+your/PRP$
+program/NN
+is/VBZ
+supposed/VBN
+to/TO
+do/VB
+and/CC
+only/RB
+after/IN
+that/DT
+beautify/VBP
+it/PRP
+./.
+@MartijnCourteaux/USR
+:/:
+Pet/NN
+peeve/NN
+?/.
+Jan/NNP
+you/PRP
+see/VBP
+what/WP
+I/PRP
+'m/VBP
+trying/VBG
+to/TO
+do/VB
+right/JJ
+?/.
+
+If/IN
+the/DT
+phone/NN
+does/VBZ
+n't/RB
+have/VB
+internet/NN
+or/CC
+is/VBZ
+in/IN
+airplane/NN
+mode/NN
+../,
+I/PRP
+want/VBP
+the/DT
+app/NN
+to/TO
+switch/VB
+from/IN
+a/DT
+VoiceRecognition/C
+to/TO
+manual/JJ
+entry/NN
+.../.
+
+Darren/NNP
+Check/VB
+this/DT
+answer/NN
+by/IN
+Romain/NNP
+Guy/NN
+:/.
+
+http://stackoverflow.com/questions/2597230/loop-through-all-subviews-of-an-android-view/URI
+@balbanshah/USR
+u/PRP
+need/VBP
+to/TO
+set/VB
+display/NN
+orientation/NN
+of/IN
+camera/NN
+first/RB
+then/RB
+set/VB
+the/DT
+camera/NN
+to/TO
+the/DT
+media/NNS
+recorder/VBP
+like/IN
+camera/JC NA
+./JC NA
+setdisplayorientation/JC NA
+(/JC NA
+90/JC NA
+)/JC NA
+and/CC
+then/RB
+set/VB
+it/PRP
+to/TO
+mediarecorder/C NA
+but/CC
+as/IN
+Peter/NNP
+suggested/VBD
+do/VBP
+it/PRP
+in/IN
+proper/JJ
+manner/NN
+./.
+Use/VB
+the/DT
+uuid/NN
+class/NN
+./.
+
+http://stackoverflow.com/questions/2982748/create-a-guid-in-java/URI
+what/WP
+i/PRP
+want/VBP
+is/VBZ
+an/DT
+application/NN
+that/WDT
+has/VBZ
+multiple/JJ
+email/NN
+accounts/NNS
+,/,
+but/CC
+shows/VBZ
+in/IN
+one/CD
+Common/JJ
+"/``
+Inbox/NN
+"/''
+./.
+
+No/DT
+separate/JJ
+"/``
+Inbox/NN
+"/''
+for/IN
+different/JJ
+accounts/NNS
+./.
+
+for/IN
+example/NN
+,/,
+i/PRP
+have/VBP
+acocunts/NNS
+a@gmail.com/URI
+,/,
+b@gmail.com/URI
+,/,
+c@yahoo.com/URI
+,/,
+d@hotmail.com/URI
+added/VBN
+in/IN
+my/PRP$
+application/NN
+./.
+
+Now/RB
+what/WP
+i/PRP
+want/VBP
+is/VBZ
+in/IN
+single/JJ
+folder/NN
+(/-LRB-
+or/CC
+named/VBN
+something/NN
+)/-RRB-
+"/``
+Inbox/NN
+"/''
+all/DT
+mails/NNS
+//CC
+messages/NNS
+should/MD
+be/VB
+there/RB
+./.
+of/IN
+course/NN
+i/PRP
+want/VBP
+to/TO
+write/VB
+a/DT
+program.plus/URI
+i/PRP
+have/VBP
+k-9/C
+mail/C
+source.SO/URI
+,/,
+
+if/IN
+are/VBP
+there/EX
+any/DT
+ways/NNS
+to/TO
+modify/VB
+k-9/C
+or/CC
+build/VB
+app/NN
+from/IN
+scratch/NN
+./.
+I/PRP
+figured/VBD
+it/PRP
+out/RP
+,/,
+it/PRP
+looks/VBZ
+something/NN
+like/IN
+
+Question/JC NA
+q_class/JC NA
+=/JC NA
+new/JC NA
+Question/JC NA
+(/JC NA
+questions/JC NA
+[/JC NA
+counter/JC NA
+]/JC NA
+,/JC NA
+answers_correct/JC NA
+[/JC NA
+counter/JC NA
+]/JC NA
+,/JC NA
+answers_wrong/JC NA
+[/JC NA
+counter/JC NA
+]/JC NA
+,/JC NA
+counter/JC NA
+)/JC NA
+;/JC NA
+
+String/JC NA
+question/JC NA
+=/JC NA
+q_class/JC NA
+./JC NA
+getQuestion/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+
+question_tv/JC NA
+./JC NA
+setText/JC NA
+(/JC NA
+question/JC NA
+)/JC NA
+;/JC NA
+
+,/--
+yes/UH
+?/.
+@Robert/USR
+,/,
+not/RB
+INTENTIONALLY/RB
+,/,
+it/PRP
+just/RB
+happens/VBZ
+to/TO
+be/VB
+so/RB
+./.
+
+I/PRP
+do/VBP
+n't/RB
+think/VB
+it/PRP
+'s/VBZ
+a/DT
+problem/NN
+./.
+To/TO
+improve/VB
+on/IN
+this/DT
+answer/NN
+:/.
+
+Bitmap/JC NA
+myImage/JC NA
+=/JC NA
+BitmapFactory/JC NA
+./JC NA
+decodeResource/JC NA
+(/JC NA
+getResources/JC NA
+(/JC NA
+)/JC NA
+,/JC NA
+R/JC NA
+./JC NA
+drawable/JC NA
+./JC NA
+myImageName/JC NA
+)/JC NA
+;/JC NA
+@slayton/USR
+I/PRP
+tagged/VBD
+the/DT
+question/NN
+for/IN
+both/DT
+actually/RB
+hoping/VBG
+to/TO
+receive/VB
+a/DT
+proper/JJ
+answer/NN
+:)/UH
+This/DT
+may/MD
+work/VB
+for/IN
+you/PRP
+i/PRP
+guess/VB
+:/.
+
+http://stackoverflow.com/a/3145655/265167/URI
+@Hiral/USR
+:/:
+Then/RB
+I/PRP
+ca/MD
+n't/RB
+{/-LRB-
+do/VB
+stuff/NN
+}/-RRB-
+in/IN
+static/JJ
+context/NN
+./.
+@MH./USR
+:/:
+Basically/RB
+I/PRP
+'m/VBP
+modifying/VBG
+properties/NNS
+of/IN
+running/VBG
+Box2D/NNP
+simulation/NN
+and/CC
+its/PRP$
+bodies/NNS
+on/IN
+the/DT
+fly/NN
+./.
+
+As/IN
+it/PRP
+turns/VBZ
+out/RP
+,/,
+tweaking/VBG
+the/DT
+dialog/NN
+constructor/NN
+a/DT
+little/JJ
+bit/NN
+might/MD
+be/VB
+enough/RB
+for/IN
+my/PRP$
+concept/NN
+to/TO
+work/VB
+./.
+
+I/PRP
+will/MD
+see/VB
+later/RB
+./.
+please/VB
+go/VB
+through/IN
+it/PRP
+
+http://stackoverflow.com/questions/3882064/how-to-change-color-of-button-in-android-when-clicked/URI
+As/IN
+it/PRP
+was/VBD
+pointed/VBN
+out/RP
+by/IN
+GrAnd/USR
+Layouts/NNS
+are/VBP
+n't/RB
+meant/VBN
+to/TO
+display/VB
+large/JJ
+amounts/NNS
+of/IN
+data/NNS
+,/,
+that/WDT
+is/VBZ
+my/PRP$
+case/NN
+unfortunately/RB
+./.
+
+@visista/USR
+I/PRP
+initially/RB
+tried/VBD
+Sencha/C NA
+Touch/C NA
+with/IN
+phonegap/C NA
+for/IN
+this/DT
+project/NN
+,/,
+but/CC
+the/DT
+amount/NN
+of/IN
+RAM/NN
+the/DT
+prototype/NN
+used/VBD
+was/VBD
+unacceptable/JJ
+(/-LRB-
+22/CD
+Mb/NN
+)/-RRB-
+,/,
+so/IN
+I/PRP
+decided/VBD
+to/TO
+go/VB
+native/C NA
+./.
+@tstenner/USR
+I/PRP
+'m/VBP
+pretty/RB
+sure/JJ
+"/``
+greater/JJR
+than/IN
+"/''
+is/VBZ
+available/JJ
+in/IN
+Java/NNP
+./.
+@Amadan/USR
+,/,
+I/PRP
+added/VBD
+iso2/JC NA
+./JC NA
+equals/JC NA
+(/JC NA
+abbr/JC NA
+)/JC NA
+to/TO
+a/DT
+watch/NN
+variable/NN
+in/IN
+the/DT
+debugger/NN
+@MikeStewart/USR
+:/:
+I/PRP
+do/VBP
+n't/RB
+trust/VB
+it/PRP
+./.
+
+What/WP
+if/IN
+you/PRP
+redefined/VBD
+String/JC
+./JC
+equals/JC
+so/IN
+that/IN
+it/PRP
+toggles/VBZ
+its/PRP$
+truth/NN
+value/NN
+on/IN
+alternate/JJ
+calls/NNS
+?/.
+:P/UH
+@MikeStewart/USR
+:/:
+For/IN
+checking/VBG
+try/NN
+only/RB
+with/IN
+one/CD
+condition/NN
+in/IN
+if/IN
+like/IN
+if/JC
+(/JC
+iso2/JC
+./JC
+equals/JC
+(/JC
+abbr/JC
+)/JC
+)/JC
+and/CC
+then/RB
+if/JC
+(/JC
+iso2/JC
+./JC
+equals/JC
+(/JC
+abbr/JC
+)/JC
+)/JC
+./.
+
+And/CC
+if/IN
+it/PRP
+still/RB
+fails/VBZ
+then/RB
+it/PRP
+might/MD
+be/VB
+some/DT
+issue/NN
+with/IN
+encoding/NN
+//CC
+Locales/NNS
+of/IN
+both/DT
+strings/NNS
+./.
+@Amadan/USR
+I/PRP
+think/VBP
+if/IN
+String/C
+./C
+equals/C
+was/VBD
+redefined/VBN
+the/DT
+OP/NN
+has/VBZ
+enough/RB
+of/IN
+a/DT
+grasp/NN
+of/IN
+AOP/NN
+//CC
+byte-code/JJ
+manipulation/NN
+to/TO
+figure/VB
+out/RP
+that/IN
+having/VBG
+done/VBN
+so/RB
+might/MD
+be/VB
+the/DT
+issue/NN
+./.
+@DaveNewton/USR
+:/:
+I/PRP
+admit/VBP
+that/WDT
+was/VBD
+facetious/JJ
+./.
+
+I/PRP
+'m/VBP
+just/RB
+saying/VBG
+there/EX
+'s/VBZ
+many/JJ
+reasons/NNS
+I/PRP
+can/MD
+theoretically/RB
+think/VB
+of/IN
+why/WRB
+a/DT
+value/NN
+calculated/VBN
+in/IN
+a/DT
+watch/VBP
+dialog/NN
+and/CC
+a/DT
+value/NN
+calculated/VBD
+again/RB
+somewhere/RB
+in/IN
+the/DT
+code/NN
+might/MD
+have/VB
+a/DT
+different/JJ
+value/NN
+,/,
+and/CC
+that/IN
+a/DT
+reliable/JJ
+test/NN
+would/MD
+simplify/VB
+that/IN
+into/IN
+just/RB
+one/CD
+invocation/NN
+whose/WP$
+value/NN
+is/VBZ
+cached/VBN
+and/CC
+reused/VBN
+for/IN
+actual/JJ
+code/NN
+and/CC
+debugging/NN
+./.
+This/DT
+one/PRP
+did/VBD
+the/DT
+trick/NN
+for/IN
+me/PRP
+
+public/JC NA
+void/JC NA
+onDestroy/JC NA
+(/JC NA
+)/JC NA
+{/JC NA
+super/JC NA
+./JC NA
+onDestroy/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+System/JC NA
+./JC NA
+runFinalizersOnExit/JC NA
+(/JC NA
+true/JC NA
+)/JC NA
+;/JC NA
+System/JC NA
+./JC NA
+exit/JC NA
+(/JC NA
+0/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+@Tudor/USR
+:/:
+Presumably/RB
+that/IN
+the/DT
+scope/NN
+of/IN
+the/DT
+variables/NNS
+is/VBZ
+limited/VBN
+to/TO
+inside/IN
+the/DT
+if-else/C
+blocks/NNS
+./.
+@android_man1/USR
+see/VB
+my/PRP$
+answer/NN
+for/IN
+an/DT
+explanation/NN
+of/IN
+why/WRB
+you/PRP
+should/MD
+use/VB
+./JC
+compareTo/JC
+(/JC
+.../F
+)/JC
+==/JC
+0/JC
+over/IN
+./JC
+equals/JC
+(/JC
+.../F
+)/JC
+./.
+Noting/VBG
+@zeisemer/USR
+'s/POS
+answer/NN
+below/IN
+,/,
+the/DT
+way/NN
+you/PRP
+worded/VBD
+your/PRP$
+question/NN
+(/-LRB-
+with/IN
+two/CD
+bounding/VBG
+points/NNS
+)/-RRB-
+kind/NN
+of/IN
+restricts/VBZ
+your/PRP$
+"/``
+map/NN
+"/''
+to/TO
+being/VBG
+a/DT
+simple/JJ
+line/NN
+./.
+
+If/IN
+you/PRP
+want/VBP
+to/TO
+specify/VB
+a/DT
+region/NN
+with/IN
+more/JJR
+than/IN
+one/CD
+dimension/NN
+,/,
+then/RB
+you/PRP
+'ll/MD
+need/VB
+at/IN
+least/JJS
+three/CD
+points/NNS
+,/,
+such/JJ
+as/IN
+orlando/NNP
+,/,
+chicago/NNP
+,/,
+and/CC
+new/NNP
+york/NNP
+./.
+even/RB
+changing/VBG
+if/JC NA
+(/JC NA
+actionId/JC NA
+==/JC NA
+EditorInfo/JC NA
+./JC NA
+IME_NULL/JC NA
+)/JC NA
+{/JC NA
+startActivity/JC NA
+(/JC NA
+new/JC NA
+Intent/JC NA
+(/JC NA
+"com.easyPhys.start.calculator"/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+with/IN
+only/JJ
+startActivity/JC NA
+(/JC NA
+new/JC NA
+Intent/JC NA
+(/JC NA
+"com.easyPhys.start.calculator"/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+gives/VBZ
+the/DT
+same/JJ
+@Ali/USR
+-/:
+I/PRP
+'m/VBP
+not/RB
+impressed/VBN
+with/IN
+your/PRP$
+architect/NN
+./.
+
+IMO/UH
+,/,
+it/PRP
+is/VBZ
+a/DT
+better/JJR
+idea/NN
+to/TO
+detect/VB
+and/CC
+deal/VB
+with/IN
+nulls/NNS
+at/IN
+source/NN
+rather/RB
+than/IN
+at/IN
+every/DT
+API/NN
+./.
+
+Apart/RB
+from/IN
+that/DT
+,/,
+treat/VBP
+unexpected/JJ
+nulls/NNS
+as/IN
+bugs/NNS
+and/CC
+let/VB
+them/PRP
+turn/VB
+into/IN
+NPEs/C
+./.
+
+The/DT
+trouble/NN
+with/IN
+explicitly/RB
+testing/NN
+for/IN
+nulls/NNS
+is/VBZ
+that/IN
+your/PRP$
+code/NN
+is/VBZ
+cluttered/VBN
+with/IN
+pointless/JJ
+checks/NNS
+,/,
+and/CC
+you/PRP
+may/MD
+fall/VB
+into/IN
+the/DT
+trap/NN
+of/IN
+"/``
+fixing/VBG
+"/''
+the/DT
+nulls/NNS
+by/IN
+turning/VBG
+them/PRP
+into/IN
+empty/JJ
+strings/NNS
+(/-LRB-
+for/IN
+example/NN
+)/-RRB-
+./.
+@Entreco/USR
+:/:
+I/PRP
+was/VBD
+hoping/VBG
+there/EX
+would/MD
+be/VB
+an/DT
+elegant/JJ
+way/NN
+of/IN
+doing/VBG
+the/DT
+same/JJ
+thing/NN
+./.
+
+I/PRP
+do/VBP
+want/VB
+to/TO
+get/VB
+the/DT
+ApplicationContext/C NA
+,/,
+and/CC
+I/PRP
+think/VBP
+that/IN
+it/PRP
+makes/VBZ
+sense/NN
+to/TO
+accept/VB
+a/DT
+singleton/NN
+in/IN
+this/DT
+case/NN
+./.
+
+I/PRP
+actually/RB
+downloaded/VBD
+the/DT
+entire/JJ
+android/NNP
+source/NN
+for/IN
+Froyo/NNP
+and/CC
+looked/VBD
+at/IN
+the/DT
+way/NN
+google/NNP
+is/VBZ
+handling/VBG
+this/DT
+problem/NN
+./.
+
+It/PRP
+turns/VBZ
+out/RP
+that/IN
+for/IN
+all/DT
+of/IN
+the/DT
+classes/NNS
+I/PRP
+'ve/VBP
+looked/VBN
+at/IN
+the/DT
+context/NN
+is/VBZ
+passed/VBN
+around/IN
+as/IN
+a/DT
+parameter/NN
+,/,
+either/CC
+as/IN
+an/DT
+arg/C NA
+./C NA
+to/TO
+the/DT
+Ctor/C NA
+or/CC
+arg/C NA
+./C NA
+to/TO
+the/DT
+function/NN
+./.
+
+More/RBR
+specifically/RB
+if/IN
+you/PRP
+look/VBP
+inside/IN
+the/DT
+froyo/NN
+release/NN
+,/,
+under/IN
+this/DT
+path/NN
+packages/apps/Contacts/src/com/android/contacts/util/*/URI
+@DaveJohnston/USR
+it/PRP
+forwords/VBZ
+to/TO
+the/DT
+transfer/VB
+code/NN
+activity/NN
+when/WRB
+i/PRP
+dismiss/VBP
+the/DT
+equals/NNS
+@user1015086/USR
+That/DT
+was/VBD
+n't/RB
+his/PRP$
+question/NN
+,/,
+his/PRP$
+was/VBD
+"/``
+are/VBP
+you/PRP
+comparing/VBG
+the/DT
+values/NNS
+you/PRP
+think/VBP
+you/PRP
+are/VBP
+"/''
+./.
+@user1015086/USR
+what/WP
+I/PRP
+meant/VBD
+was/VBD
+you/PRP
+should/MD
+add/VB
+a/DT
+statement/NN
+to/TO
+your/PRP$
+code/NN
+to/TO
+print/VB
+the/DT
+values/NNS
+of/IN
+code/C NA
+[/C NA
+i/C NA
+]/C NA
+and/CC
+mn/C NA
+to/TO
+the/DT
+console/NN
+or/CC
+file/NN
+or/CC
+wherever/WRB
+you/PRP
+are/VBP
+doing/VBG
+your/PRP$
+logging/VBG
+and/CC
+then/RB
+you/PRP
+will/MD
+see/VB
+if/IN
+the/DT
+values/NNS
+are/VBP
+what/WP
+you/PRP
+expect/VBP
+them/PRP
+to/TO
+be/VB
+(/-LRB-
+a/DT
+very/RB
+basic/JJ
+debugging/NN
+technique/NN
+)/-RRB-
+./.
+@DaveJohnston/USR
+ahha/UH
+that/DT
+'s/VBZ
+ok/UH
+LinearLayout/C
+,/,
+sorry/UH
+./.
+
+I/PRP
+was/VBD
+able/JJ
+to/TO
+set/VB
+it/PRP
+manually/RB
+in/IN
+the/DT
+XML/NNP
+file/NN
+to/TO
+something/NN
+smaller/JJR
+,/,
+but/CC
+still/RB
+have/VBP
+n't/RB
+been/VBN
+able/JJ
+to/TO
+set/VB
+it/PRP
+dynamically/RB
+at/IN
+runtime/NN
+./.
+@user1108339/USR
+Since/IN
+you/PRP
+figured/VBD
+it/PRP
+out/RP
+,/,
+you/PRP
+should/MD
+post/NN
+an/DT
+answer/NN
+for/IN
+the/DT
+question/NN
+saying/VBG
+how/WRB
+you/PRP
+fixed/VBD
+it/PRP
+and/CC
+why/WRB
+it/PRP
+fixed/JJ
+it/PRP
+./.
+
+And/CC
+then/RB
+accept/VB
+your/PRP$
+answer/NN
+when/WRB
+StackOverflow/NNP
+allows/VBZ
+(/-LRB-
+24/CD
+hours/NNS
+later/RB
+or/CC
+so/RB
+,/,
+I/PRP
+think/VBP
+)/-RRB-
+./.
+Is/VBZ
+the/DT
+decoding/NN
+function/NN
+holding/VBG
+any/DT
+other/JJ
+resources/NNS
+in/IN
+streams/NNS
+?/.
+
+And/CC
+where/WRB
+exactly/RB
+is/VBZ
+the/DT
+error/NN
+thrown/VBD
+?/.
+Thanks/VBZ
+for/IN
+pointing/VBG
+out/RP
+,/,
+folked/VBN
+around/IN
+so/IN
+i/PRP
+did/VBD
+this/DT
+to/TO
+my/PRP$
+.java/URI
+
+WebView/JC NA
+webView/JC NA
+=/JC NA
+(/JC NA
+WebView/JC NA
+)/JC NA
+findViewById/JC NA
+(/JC NA
+R/JC NA
+./JC NA
+id/JC NA
+./JC NA
+webview1/JC NA
+)/JC NA
+;/JC NA
+
+webView/JC NA
+./JC NA
+getSettings/JC NA
+(/JC NA
+)/JC NA
+./JC NA
+setJavaScriptEnabled/JC NA
+(/JC NA
+true/JC NA
+)/JC NA
+;/JC NA
+
+webView/JC NA
+./JC NA
+loadUrl/JC NA
+(/JC NA
+"file:///android_asset/lgf.jpg"/JC NA
+)/JC NA
+;/JC NA
+
+webView/JC NA
+./JC NA
+setWebViewClient/JC NA
+(/JC NA
+new/JC NA
+HelloWebViewClient/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+
+and/CC
+this/DT
+to/TO
+my/PRP$
+.xml/URI
+</C NA
+WebView/C NA
+android/C NA
+:/C NA
+id/C NA
+=/C NA
+"@+id/webview1"/C NA
+android/C NA
+:/C NA
+layout_width/C NA
+=/C NA
+"match_parent"/C NA
+android/C NA
+:/C NA
+layout_height/C NA
+=/C NA
+"match_parent"/C NA
+/>/C NA
+with/IN
+linear/JJ
+layout/NN
+@mithun/USR
+it/PRP$
+s/VBZ
+different/JJ
+not/RB
+convert/VBN
+in/IN
+hh/C
+:/C
+mm/C
+:/C
+AM/C
+This/DT
+answer/NN
+was/VBD
+allready/RB
+solved/VBN
+
+[/-LRB-
+See/VB
+this/DT
+question/NN
+]/-RRB-
+[/-LRB-
+1/CD
+]/-RRB-
+
+[/-LRB-
+1/CD
+]/-RRB-
+:/:
+http://stackoverflow.com/questions/7223582/android-screen-orientation-data-lose-prevention/7224074#7224074/URI
+@azad/USR
+see/VB
+my/PRP$
+question/NN
+.../F
+@SunilKumar/USR
+:/:
+the/DT
+strings/NNS
+are/VBP
+not/RB
+same/JJ
+i/PRP
+want/VBP
+to/TO
+remove/VB
+all/PDT
+the/DT
+spaces/NNS
+and/CC
+commas/NNS
+after/IN
+"/``
+mark/VB
+"/''
+word/NN
+./.
+@MártonMolnár/C
+Well/RB
+I/PRP
+ca/MD
+n't/RB
+find/VB
+it/PRP
+if/IN
+the/DT
+title/NN
+is/VBZ
+not/RB
+equal/JJ
+to/TO
+mine/NN
+./.
+@schijndelvanjos/USR
+Anyway/RB
+,/,
+now/RB
+you/PRP
+have/VBP
+the/DT
+answer/NN
+for/IN
+your/PRP$
+question/NN
+;-)/UH
+
+I/PRP
+googled/VBD
+for/IN
+"/``
+findviewbyid/C
+string/C
+"/''
+./.
+@Mishal/USR
+At/IN
+this/DT
+moment/NN
+,/,
+I/PRP
+used/VBD
+the/DT
+solution/NN
+proposed/VBD
+by/IN
+Flo/NNP
+shown/VBN
+below/IN
+./.
+
+The/DT
+problem/NN
+is/VBZ
+,/,
+that/IN
+I/PRP
+have/VBP
+to/TO
+load/VB
+my/PRP$
+XML/NNP
+file/NN
+before/IN
+I/PRP
+can/MD
+use/VB
+the/DT
+FindViewById/C NA
+function/NN
+./.
+
+This/DT
+means/VBZ
+that/IN
+every/DT
+time/NN
+I/PRP
+change/VBP
+the/DT
+layout/NN
+XML/NNP
+,/,
+I/PRP
+have/VBP
+to/TO
+recreate/VB
+the/DT
+array/NN
+of/IN
+buttons/NNS
+locally/RB
+./.
+
+I/PRP
+can/MD
+not/RB
+declare/VB
+the/DT
+buttons/NNS
+as/IN
+public/C NA
+static/C NA
+final/C NA
+variables/NNS
+at/IN
+the/DT
+start/NN
+,/,
+because/IN
+Android/NNP
+can/MD
+not/RB
+find/VB
+them/PRP
+./.
+
+Also/RB
+in/IN
+the/DT
+onCreate/C NA
+function/NN
+I/PRP
+have/VBP
+a/DT
+problem/NN
+,/,
+since/IN
+the/DT
+buttons/NNS
+are/VBP
+not/RB
+in/IN
+the/DT
+layout/NN
+I/PRP
+want/VBP
+to/TO
+start/VB
+with/IN
+./.
+minanjal.com@gmail.com/URI
+These/DT
+solutions/NNS
+does/VBZ
+not/RB
+solve/VB
+my/PRP$
+problem/NN
+,/.
+
+my/PRP$
+problem/NN
+is/VBZ
+in/IN
+the/DT
+first/JJ
+activity/NN
+which/WDT
+runs/VBZ
+with/IN
+the/DT
+default/NN
+local/NN
+at/IN
+the/DT
+first/JJ
+run/VBP
+after/IN
+each/DT
+time/NN
+the/DT
+user/NN
+force/NN
+my/PRP$
+app/NN
+to/TO
+close/JJ
+,/.
+
+do/VBP
+you/PRP
+have/VB
+any/DT
+solution/NN
+?/.
+@Karthik/USR
+Caused/ER
+by/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+reflect/ER
+./ER
+InvocationTargetException/ER
+
+at/ER
+com/ER
+./ER
+remotepanel/ER
+./ER
+View/ER
+./ER
+CustomRelativeLayout/ER
+./ER
+</ER
+init/ER
+>/ER
+(/ER
+CustomRelativeLayout/ER
+./ER
+java/ER
+:/ER
+14/ER
+)/ER
+
+at/ER
+java/ER
+./ER
+lang/ER
+./ER
+reflect/ER
+./ER
+Constructor/ER
+./ER
+constructNative/ER
+(/ER
+Native/ER
+Method/ER
+)/ER
+
+at/ER
+java/ER
+./ER
+lang/ER
+./ER
+reflect/ER
+./ER
+Constructor/ER
+./ER
+newInstance/ER
+(/ER
+Constructor/ER
+./ER
+java/ER
+:/ER
+446/ER
+)/ER
+
+at/ER
+android/ER
+./ER
+view/ER
+./ER
+LayoutInflater/ER
+./ER
+createView/ER
+(/ER
+LayoutInflater/ER
+./ER
+java/ER
+:/ER
+500/ER
+)/ER
+Here/RB
+'s/VBZ
+code/NN
+that/WDT
+throws/VBZ
+eror/NN
+:/.
+
+public/JC NA
+CustomRelativeLayout/JC NA
+(/JC NA
+Context/JC NA
+context/JC NA
+,/JC NA
+AttributeSet/JC NA
+attrs/JC NA
+)/JC NA
+{/JC NA
+super/JC NA
+(/JC NA
+context/JC NA
+,/JC NA
+attrs/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+I/PRP
+mean/VBP
+that/IN
+i/PRP
+want/VBP
+to/TO
+check/VB
+isNextQuestion/C NA
+(/C NA
+)/C NA
+until/IN
+i/PRP
+stop/VBP
+the/DT
+Thread/C NA
+./.
+
+With/IN
+Future/C NA
+Callables/C NA
+,/,
+i/PRP
+can/MD
+just/RB
+check/VB
+it/PRP
+once/RB
+and/CC
+get/VB
+a/DT
+return/NN
+value/NN
+which/WDT
+will/MD
+be/VB
+false/JJ
+./.
+
+But/CC
+it/PRP
+could/MD
+turn/VB
+true/JJ
+while/IN
+the/DT
+Thread/C NA
+is/VBZ
+alive/JJ
+../.
+
+so/IN
+i/PRP
+want/VBP
+to/TO
+check/VB
+it/PRP
+permanently/RB
+and/CC
+want/VB
+to/TO
+receive/VB
+the/DT
+correct/JJ
+result/NN
+until/IN
+i/PRP
+finish/VBP
+the/DT
+Thread/C NA
+@Selvin/USR
+Help/VBP
+others/NNS
+so/RB
+in/IN
+future/JJ
+someone/NN
+help/NN
+you/PRP
+..../.
+@yshak/USR
+do/VBP
+nt/RB
+depressed/VBN
+../,
+i/PRP
+will/MD
+help/VB
+you/PRP
+to/TO
+solve/VB
+your/PRP$
+problem/NN
+i/PRP
+tried/VBD
+to/TO
+do/VB
+if/JC NA
+(/JC NA
+mediaFile/JC NA
+./JC NA
+exists/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+{/JC NA
+mediaFile/JC NA
+./JC NA
+delete/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+but/CC
+it/PRP
+did/VBD
+n't/RB
+help/VB
+,/,
+i/PRP
+still/RB
+have/VBP
+2/CD
+files/NNS
+@DejanLekic/USR
+sure/JJ
+,/,
+but/CC
+as/IN
+the/DT
+sample/NN
+shows/VBZ
+(/-LRB-
+type-wise/JJ
+)/-RRB-
+identical/JJ
+arrays/NNS
+for/IN
+both/DT
+elements/NNS
+.../.
+@fge/USR
+:/:
+My/PRP$
+understanding/NN
+was/VBD
+that/IN
+he/PRP
+wants/VBZ
+to/TO
+keep/VB
+it/PRP
+simple/JJ
+./.
+
+I/PRP
+do/VBP
+_/--
+not/RB
+_/--
+think/VB
+that/IN
+you/PRP
+are/VBP
+wrong/JJ
+./.
+
+Your/PRP$
+suggestion/NN
+is/VBZ
+correct/JJ
+./.
+:)/UH
+@DejanLekic/USR
+for/IN
+some/DT
+definition/NN
+of/IN
+"/``
+simple/JJ
+"/''
+;)/UH
+
+Off-by-one/JJ
+errors/NNS
+in/IN
+array/NN
+offsets/NNS
+are/VBP
+a/DT
+frequent/JJ
+source/NN
+of/IN
+bugs/NNS
+:p/UH
+@Vanathi/USR
+:/:
+Can/MD
+u/PRP
+answer/NN
+my/PRP$
+Question/NN
+?/.
+
+Is/VBZ
+I/PRP
+am/VBP
+going/VBG
+correct/JJ
+way/NN
+?/.
+I/PRP
+'m/VBP
+stuck/VBN
+with/IN
+the/DT
+same/JJ
+issue/NN
+./.
+
+File/JC
+sdCard/JC
+=/JC
+Environment/JC
+./JC
+getExternalStorageDirectory/JC
+(/JC
+)/JC
+;/JC
+
+Toast/JC
+./JC
+makeText/JC
+(/JC
+getApplicationContext/JC
+(/JC
+)/JC
+,/JC
+sdCard/JC
+./JC
+canRead/JC
+(/JC
+)/JC
+?/JC
+"READ PERMISSIONS"/JC
+:/JC
+"NO READ PERMISSIONS"/JC
+,/JC
+Toast/JC
+./JC
+LENGTH_SHORT/JC
+)/JC
+./JC
+show/JC
+(/JC
+)/JC
+;/JC
+
+I/PRP
+'m/VBP
+using/VBG
+Android/NNP
+1.5/CD
+and/CC
+I/PRP
+'m/VBP
+really/RB
+stuck/VBN
+over/IN
+here/RB
+./.
+
+can/MD
+someone/NN
+help/NN
+please/VB
+./.
+@ScarletAmaranth/USR
+,/,
+no/UH
+,/,
+I/PRP
+was/VBD
+running/VBG
+(/-LRB-
+temporarily/RB
+)/-RRB-
+the/DT
+Server/NN
+Socket/NN
+on/IN
+an/DT
+AsyncTask/C
+,/,
+before/IN
+using/VBG
+Services/NNS
+!/.
+
+The/DT
+obviously/JJ
+problem/NN
+of/IN
+that/DT
+solution/NN
+is/VBZ
+that/IN
+I/PRP
+ca/MD
+n't/RB
+run/VB
+the/DT
+server/NN
+in/IN
+background/NN
+./.
+Thanks/VBZ
+@0cool/USR
+,/,
+I/PRP
+have/VBP
+seen/VBN
+that/IN
+post/NN
+but/CC
+I/PRP
+'m/VBP
+not/RB
+sure/JJ
+that/IN
+a/DT
+android/JC
+./JC
+graphics/JC
+./JC
+Bitmap/JC
+(/-LRB-
+not/RB
+android/JC
+./JC
+graphics/JC
+./JC
+drawable/JC
+./JC
+BitmapDrawable/JC
+)/-RRB-
+is/VBZ
+also/RB
+a/DT
+Drawable/C
+./.
+
+Is/VBZ
+that/IN
+indeed/RB
+the/DT
+case/NN
+?/.
+Resource/NN
+at/IN
+R.raw/URI
+is/VBZ
+made/VBN
+at/IN
+the/DT
+compilation/NN
+of/IN
+the/DT
+R/C
+class/NN
+which/WDT
+creates/VBZ
+the/DT
+IDs/NNS
+for/IN
+the/DT
+resources/NNS
+./.
+
+The/DT
+URI/JC NA
+./JC NA
+parse/JC NA
+(/JC NA
+)/JC NA
+requires/VBZ
+an/DT
+RFC/NNP
+2396-compliant/JJ
+,/,
+encoded/VBN
+URI/NN
+PARAMETER/NN
+./.
+
+R/JC NA
+./JC NA
+raw/JC NA
+./JC NA
+song/JC NA
+is/VBZ
+the/DT
+int/NN
+ID/NN
+of/IN
+this/DT
+song/NN
+./.
+
+You/PRP
+might/MD
+want/VB
+to/TO
+read/VB
+something/NN
+like/IN
+this/DT
+http://stackoverflow.com/questions/559902/android-how-can-i-convert-android-net-uri-object-to-java-net-uri-object/URI
+and/CC
+check/VB
+how/WRB
+to/TO
+make/VB
+a/DT
+Uri/NN
+from/IN
+a/DT
+File/NN
+object/NN
+./.
+
+Thanks/NNS
+org/ER
+./ER
+xml/ER
+./ER
+sax/ER
+./ER
+SAXParseException/ER
+:/ER
+Unexpected/ER
+token/ER
+(/ER
+position/ER
+:/ER
+TEXT/ER
+@/ER
+1/ER
+:/ER
+2/ER
+in/ER
+java/ER
+./ER
+io/ER
+./ER
+StringReader/ER
+@/ER
+41369600/ER
+)/ER
+@ErnestFriedman-Hill/USR
+It/PRP
+will/MD
+if/IN
+the/DT
+string/NN
+is/VBZ
+Hello0x00World/C
+!/C
+;)/UH
+@thinksteep/USR
+:/:
+It/PRP
+'s/VBZ
+working/VBG
+on/IN
+Port/NN
+80/CD
+and/CC
+as/IN
+I/PRP
+said/VBD
+I/PRP
+am/VBP
+successfully/RB
+able/JJ
+to/TO
+see/VB
+the/DT
+text/NN
+when/WRB
+I/PRP
+paste/VBP
+the/DT
+same/JJ
+url/NN
+in/IN
+google/NNP
+chrome/NNP
+./.
+@Jan-Henk/NNP
+Status/NN
+code/NN
+I/PRP
+received/VBD
+is/VBZ
+200/CD
+./.
+
+And/CC
+when/WRB
+I/PRP
+paste/VBP
+the/DT
+same/JJ
+URL/NN
+in/IN
+android/NNP
+emulator/NN
+browser/NN
+I/PRP
+do/VBP
+n't/RB
+see/VB
+anything/PRP
+,/,
+Am/VBP
+I/PRP
+missing/VBG
+something/NN
+?/.
+@styfle/USR
+nop/UH
+,/,
+it/PRP
+throws/VBZ
+UnknownHost/C
+when/WRB
+my/PRP$
+internet/NN
+is/VBZ
+down/RP
+./.
+@RolfRander/USR
+If/IN
+not/RB
+for/IN
+the/DT
+fact/NN
+that/IN
+both/DT
+times/NNS
+were/VBD
+UnknownHostException/C
+,/,
+we/PRP
+would/MD
+be/VB
+able/JJ
+to/TO
+determine/VB
+which/WDT
+case/NN
+is/VBZ
+which/WDT
+is/VBZ
+n't/RB
+it/PRP
+?/.
+@Pacerier/USR
+ca/MD
+n't/RB
+you/PRP
+just/RB
+use/VBP
+the/DT
+ConnectivityManager/C
+like/IN
+in/IN
+[/-LRB-
+this/DT
+answer/NN
+]/-RRB-
+(/-LRB-
+http://stackoverflow.com/a/4530974/562935/URI
+)/-RRB-
+?/.
+I/PRP
+would/MD
+recommend/VB
+using/VBG
+the/DT
+solution/NN
+from/IN
+[/-LRB-
+here/RB
+]/-RRB-
+[/-LRB-
+1/CD
+]/-RRB-
+./.
+
+[/-LRB-
+1/CD
+]/-RRB-
+:/:
+http://stackoverflow.com/questions/2883355/how-to-render-pdf-in-android//URI
+How/WRB
+can/MD
+I/PRP
+get/VB
+notified/VBN
+when/WRB
+a/DT
+SMS/NN
+is/VBZ
+read/VBN
+?/.
+
+And/CC
+what/WP
+do/VBP
+you/PRP
+mean/VB
+by/IN
+polling/C
+content://sms/sent/URI
+?/.
+Maybe/RB
+I/PRP
+did/VBD
+n't/RB
+explain/VB
+it/PRP
+good/JJ
+enough/RB
+./.
+
+My/PRP$
+English/NNP
+is/VBZ
+not/RB
+good/JJ
+enough/RB
+for/IN
+this/DT
+:P/UH
+
+But/CC
+I/PRP
+will/MD
+try/VB
+./.
+
+For/IN
+example/NN
+,/,
+what/WP
+I/PRP
+want/VBP
+to/TO
+get/VB
+from/IN
+the/DT
+button/NN
+:/:
+
+int/JC NA
+i/JC NA
+=/JC NA
+button/JC NA
+./JC NA
+getId/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+Have/VBP
+you/PRP
+tried/VBD
+using/VBG
+an/DT
+array/NN
+instead/RB
+of/IN
+a/DT
+list/NN
+?/.
+
+String/JC
+[/JC
+]/JC
+myarray/JC
+=/JC
+new/JC
+String/JC
+[/JC
+10/JC
+]/JC
+;/JC
+In/IN
+addition/NN
+to/TO
+what/WP
+@Derek/USR
+brought/VBN
+up/RP
+,/,
+it/PRP
+'s/VBZ
+usually/RB
+good/JJ
+form/NN
+to/TO
+include/VB
+the/DT
+relevant/JJ
+code/NN
+snippets/NNS
+whenever/WRB
+asking/VBG
+questions/NNS
+here/RB
+on/IN
+SO/NNP
+-/--
+you/PRP
+'ll/MD
+stand/VB
+a/DT
+better/JJR
+chance/NN
+of/IN
+getting/VBG
+your/PRP$
+question/NN
+answered/VBN
+./.
+
+Ohh/UH
+,/,
+and/CC
+welcome/VB
+to/TO
+Stack/NNP
+Overflow/NNP
+:)/UH
+The/DT
+java/NNP
+books/NNS
+are/VBP
+1000/CD
+pages/NNS
+long/RB
+,/,
+i/PRP
+just/RB
+do/VBP
+n't/RB
+have/VB
+the/DT
+time/NN
+to/TO
+read/VB
+all/DT
+about/IN
+it/PRP
+:-(/UH
+
+I/PRP
+have/VBP
+gone/VBN
+through/IN
+the/DT
+Lynda.com/URI
+course/NN
+and/CC
+read/VB
+a/DT
+quick/JJ
+tour/NN
+on/IN
+java/NNP
+for/IN
+android/NNP
+beginners/NNS
+which/WDT
+i/PRP
+found/VBN
+on/IN
+the/DT
+web/NN
+./.
+
+I/PRP
+just/RB
+hoped/VBD
+that/IN
+reusing/VBG
+code/NN
+would/MD
+be/VB
+somewhat/RB
+simpler/JJR
+so/IN
+no/DT
+code/NN
+examples/NNS
+where/VBD
+needed/VBN
+:o)/UH
+@LuxuryMode/USR
+its/PRP$
+wat/WP
+owlstead/NNP
+said/VBD
+exactly/RB
+../:
+its/PRP$
+a/DT
+small/JJ
+light/NN
+that/WDT
+is/VBZ
+usually/RB
+on/IN
+the/DT
+shift/NN
+button/NN
+./.
+@thinksteep/USR
+the/DT
+list_content_simple.xml/URI
+is/VBZ
+not/RB
+mentioned/VBN
+in/IN
+the/DT
+tutorial/NN
+there/RB
+./.
+
+I/PRP
+did/VBD
+find/VB
+it/PRP
+out/RP
+the/DT
+SDK/NN
+folders/NNS
+and/CC
+added/VBN
+it/PRP
+to/TO
+my/PRP$
+res/layout/URI
+but/CC
+still/RB
+same/JJ
+error/NN
+./.
+@Hiccup/USR
+:/:
+hum/UH
+,/,
+in/IN
+your/PRP$
+code/NN
+fstream/C
+can/MD
+not/RB
+be/VB
+null/C
+,/,
+new/C
+always/RB
+returns/VBZ
+an/DT
+allocated/JJ
+object/NN
+or/CC
+throws/VBZ
+an/DT
+exception/NN
+./.
+@Marvin/USR
+Pinto/USR
+:/:
+I/PRP
+just/RB
+use/VBP
+Bundle/JC NA
+extras/JC NA
+=/JC NA
+getIntent/JC NA
+(/JC NA
+)/JC NA
+./JC NA
+getExtras/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+./.
+
+The/DT
+user/NN
+enter/VBP
+in/IN
+editext/C
+the/DT
+data/NNS
+i/PRP
+am/VBP
+saying/VBG
+./.
+
+For/IN
+final_cores/C NA
+i/PRP
+use/VBP
+ArrayList/JC NA
+</JC NA
+Double/JC NA
+>/JC NA
+final_cores/JC NA
+=/JC NA
+new/JC NA
+ArrayList/JC NA
+</JC NA
+Double/JC NA
+>/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+as/IN
+you/PRP
+can/MD
+see/VB
+./.
+
+(/-LRB-
+i/PRP
+do/VBP
+n't/RB
+know/VB
+if/IN
+i/PRP
+answered/VBD
+your/PRP$
+question/NN
+,/,
+forgive/VBP
+me/PRP
+,/,
+am/VBP
+new/JJ
+to/TO
+java-android/NN
+)/-RRB-
+Sorry/VB
+for/IN
+any/DT
+confusion/NN
+i/PRP
+am/VBP
+new/JJ
+in/IN
+this/DT
+./.
+
+Previously/RB
+autoComplete/C
+was/VBD
+initialized/VBN
+with/IN
+AutoCompleteTextView/C
+but/CC
+that/DT
+would/MD
+led/VBD
+to/TO
+"/``
+Cannot/ER
+refer/ER
+to/ER
+a/ER
+non/ER
+-/ER
+final/ER
+variable/ER
+autoComplete/ER
+inside/ER
+an/ER
+inner/ER
+class/ER
+defined/ER
+in/ER
+a/ER
+different/ER
+method/ER
+./ER
+"/''
+
+And/CC
+once/RB
+i/PRP
+declare/VBP
+autoComplete/C
+with/IN
+final/C
+,/,
+it/PRP
+tells/VBZ
+me/PRP
+i/PRP
+have/VBP
+variable/NN
+duplication/NN
+./.
+
+Any/DT
+of/IN
+you/PRP
+can/MD
+head/VB
+over/IN
+here/RB
+and/CC
+have/VB
+a/DT
+look/NN
+?/.
+
+http://stackoverflow.com/questions/8997684/autocompletetextview-or-searchdialog//URI
+String/JC NA
+tempStr/JC NA
+=/JC NA
+"\nAspen Social Club\nBar Basque\nCrimson\nForum\nLexicon\n"/JC NA
+;/JC NA
+
+String/JC NA
+[/JC NA
+]/JC NA
+splitArr/JC NA
+=/JC NA
+tempStr/JC NA
+./JC NA
+split/JC NA
+(/JC NA
+"\n"/JC NA
+)/JC NA
+;/JC NA
+
+for/JC NA
+(/JC NA
+int/JC NA
+i/JC NA
+=/JC NA
+0/JC NA
+;/JC NA
+i/JC NA
+</JC NA
+splitArr/JC NA
+./JC NA
+length/JC NA
+;/JC NA
+i/JC NA
+++/JC NA
+)/JC NA
+{/JC NA
+System/JC NA
+./JC NA
+out/JC NA
+./JC NA
+println/JC NA
+(/JC NA
+"Split size is: "/JC NA
++/JC NA
+splitArr/JC NA
+[/JC NA
+i/JC NA
+]/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+@lohoris/USR
+thanks/UH
+,/,
+that/WDT
+was/VBD
+my/PRP$
+problem/NN
+./.
+
+i/PRP
+'d/MD
++/SYM
+1/CD
+you/PRP
+if/IN
+you/PRP
+had/VBD
+written/VBN
+it/PRP
+as/IN
+an/DT
+answer/NN
+:)/UH
+java/ER
+./ER
+util/ER
+./ER
+ConcurrentModificationException/ER
+
+at/ER
+java/ER
+./ER
+util/ER
+./ER
+ArrayList$ArrayListIterator/ER
+./ER
+next/ER
+(/ER
+ArrayList/ER
+./ER
+java/ER
+:/ER
+573/ER
+)/ER
+
+com/ER
+./ER
+google/ER
+./ER
+android/ER
+./ER
+maps/ER
+./ER
+OverlayBundle/ER
+./ER
+draw/ER
+(/ER
+OverlayBundle/ER
+./ER
+java/ER
+:/ER
+44/ER
+)/ER
+
+com/ER
+./ER
+google/ER
+./ER
+android/ER
+./ER
+maps/ER
+./ER
+MapView/ER
+./ER
+onDraw/ER
+(/ER
+MapView/ER
+./ER
+java/ER
+:/ER
+494/ER
+)/ER
+
+android/ER
+./ER
+view/ER
+./ER
+View/ER
+./ER
+draw/ER
+(/ER
+View/ER
+./ER
+java/ER
+:/ER
+6740/ER
+)/ER
+
+android/ER
+./ER
+view/ER
+./ER
+ViewGroup/ER
+./ER
+drawChild/ER
+(/ER
+ViewGroup/ER
+./ER
+java/ER
+:/ER
+1640/ER
+)/ER
+
+android/ER
+./ER
+view/ER
+./ER
+ViewGroup/ER
+./ER
+dispatchDraw/ER
+(/ER
+ViewGroup/ER
+./ER
+java/ER
+:/ER
+1367/ER
+)/ER
+
+android/ER
+./ER
+view/ER
+./ER
+ViewGroup/ER
+./ER
+drawChild/ER
+(/ER
+ViewGroup/ER
+./ER
+java/ER
+:/ER
+1638/ER
+)/ER
+Thanks/UH
+./.
+
+i/PRP
+do/VBP
+nt/RB
+know/VB
+the/DT
+functionality/NN
+before/IN
+./.
+
+it/PRP
+'s/VBZ
+very/RB
+useful/JJ
+./.
+
+@his/USR
+I/PRP
+want/VBP
+to/TO
+move/NN
+my/PRP$
+txt/NN
+file/NN
+to/TO
+x/C
+place/NN
+;/.
+
+x/C
+place/NN
+:/:
+which/WDT
+I/PRP
+reach/VBP
+there/EX
+in/IN
+code/NN
+dinamic/NN
+./.
+
+every/DT
+phone/NN
+can/MD
+access/VB
+i/PRP
+use/VBP
+the/DT
+mksdcard/NN
+tool/NN
+./.
+
+I/PRP
+have/VBP
+tried/VBN
+using/VBG
+full/JJ
+path/NN
+as/RB
+well/RB
+./.
+
+But/CC
+that/DT
+does/VBZ
+not/RB
+work/VB
+either/CC
+./.
+@Lalit/USR
+Poptani/USR
+:/:
+i/PRP
+red/VBP
+the/DT
+article/NN
+but/CC
+it/PRP
+does/VBZ
+n't/RB
+say/VB
+why/WRB
+my/PRP$
+onHandle/C
+intent/C
+is/VBZ
+not/RB
+called/VBN
+./.
+
+i/PRP
+have/VBP
+pretty/RB
+the/DT
+same/JJ
+code/NN
+:(/UH
+
+I/PRP
+apprciate/VBP
+your/PRP$
+help/NN
+!/.
+@L7ColWinters/USR
+:/:
+It/PRP
+'s/VBZ
+the/DT
+"/``
+y/JC
+./JC
+add/JC
+(/JC
+mylab/JC
+[/JC
+i/JC
+]/JC
+)/JC
+;/JC
+"/''
+in/IN
+the/DT
+for/C
+loop/NN
+./.
+@L7ColWinters/USR
+:/:
+You/PRP
+mean/VBP
+like/IN
+that/DT
+?/.
+
+int/JC NA
+temp/JC NA
+=/JC NA
+(/JC NA
+int/JC NA
+)/JC NA
+(/JC NA
+mytime/JC NA
+)/JC NA
+;/JC NA
+and/CC
+then/RB
+for/JC NA
+(/JC NA
+int/JC NA
+i/JC NA
+=/JC NA
+0/JC NA
+;/JC NA
+i/JC NA
+<=/JC NA
+temp/JC NA
+;/JC NA
+i/JC NA
+++/JC NA
+)/JC NA
+{/JC NA
+../F
+
+Still/RB
+the/DT
+same/JJ
+with/IN
+that/DT
+./.
+
+(/-LRB-
+The/DT
+extras/NNS
+i/PRP
+have/VBP
+them/PRP
+in/IN
+the/DT
+onCreate/C NA
+)/-RRB-
+@L7ColWinters/USR
+:/:
+I/PRP
+have/VBP
+"/``
+Bundle/JC
+extras/JC
+=/JC
+getIntent/JC
+(/JC
+)/JC
+./JC
+getExtras/JC
+(/JC
+)/JC
+;/JC
+"/''
+(/-LRB-
+updated/VBN
+)/-RRB-
+./.
+
+I/PRP
+am/VBP
+not/RB
+sure/JJ
+if/IN
+you/PRP
+mean/VBP
+that/IN
+,/,
+sorry/UH
+./.
+'/``
+trim/C NA
+(/C NA
+)/C NA
+'/''
+gave/VBD
+me/PRP
+fatal/JJ
+error/NN
+on/IN
+Main/C NA
+../.
+
+if/JC
+(/JC
+str/JC
+./JC
+replaceAll/JC
+(/JC
+"\n"/JC
+,/JC
+""/JC
+)/JC
+./JC
+equals/JC
+(/JC
+"hello"/JC
+)/JC
+)/JC
+-/--
+returned/VBD
+same/JJ
+ELSE/C NA
+result/NN
+./.
+@Snicolas/USR
+:/:
+I/PRP
+used/VBD
+Math/JC NA
+./JC NA
+round/JC NA
+(/JC NA
+)/JC NA
+but/CC
+still/RB
+the/DT
+same/JJ
+./.
+
+The/DT
+value/NN
+of/IN
+ttime/C NA
+is/VBZ
+whatever/WDT
+the/DT
+user/NN
+inputs/VBZ
+./.
+
+(/-LRB-
+i/PRP
+am/VBP
+not/RB
+familiar/JJ
+with/IN
+Log/C NA
+./C NA
+d/C NA
+.../F
+)/-RRB-
+yes/UH
+,/,
+and/CC
+the/DT
+remoteViews/JC NA
+./JC NA
+setTextViewText/JC NA
+(/JC NA
+R/JC NA
+./JC NA
+id/JC NA
+./JC NA
+Clock/JC NA
+,/JC NA
+dateFormat/JC NA
+./JC NA
+format/JC NA
+(/JC NA
+date/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+
+appWidgetManager/JC NA
+./JC NA
+updateAppWidget/JC NA
+(/JC NA
+thisWidget/JC NA
+,/JC NA
+remoteViews/JC NA
+)/JC NA
+;/JC NA
+Check/VB
+out/RP
+this/DT
+link/NN
+./.
+
+Hope/VB
+you/PRP
+will/MD
+get/VB
+your/PRP$
+answer/NN
+[/-LRB-
+http://stackoverflow.com/questions/3831019/how-to-read-a-pdf-in-android/URI
+]/-RRB-
+[/-LRB-
+1/CD
+]/-RRB-
+
+[/-LRB-
+1/CD
+]/-RRB-
+:/:
+http://stackoverflow.com/questions/3831019/how-to-read-a-pdf-in-android/URI
+@Traroth/USR
+http://pastebin.com/ttVvzJqK/URI
+@thinksteep/USR
+http://pastebin.com/ttVvzJqK/URI
+image1/JC NA
+./JC NA
+setImageResource/JC NA
+(/JC NA
+cardsdeck/JC NA
+[/JC NA
+i/JC NA
+]/JC NA
+)/JC NA
+;/JC NA
+
+this/DT
+means/VBZ
+every/DT
+times/NNS
+the/DT
+code/NN
+executes/VBZ
+this/DT
+will/MD
+show/VB
+last/JJ
+image/NN
+in/IN
+array/NN
+its/PRP$
+obvious/JJ
+./.
+Looks/VBZ
+like/IN
+you/PRP
+want/VBP
+to/TO
+know/VB
+what/WP
+the/DT
+operator/NN
+was/VBD
+before/IN
+'/``
+=/SYM
+'/''
+is/VBZ
+clicked/VBN
+./.
+
+If/IN
+that/DT
+'s/VBZ
+the/DT
+case/NN
+,/,
+you/PRP
+should/MD
+make/VB
+that/IN
+a/DT
+member/NN
+variable/NN
+as/IN
+suggested/VBN
+by/IN
+@Eng.Fouad/USR
+You/PRP
+need/VBP
+to/TO
+check/VB
+for/IN
+not/RB
+null/NN
+
+if/JC NA
+(/JC NA
+table/JC NA
+!=/JC NA
+null/JC NA
+)/JC NA
+{/JC NA
+Iterator/JC NA
+</JC NA
+Element/JC NA
+>/JC NA
+ite/JC NA
+=/JC NA
+table/JC NA
+./JC NA
+select/JC NA
+(/JC NA
+"/JC NA
+td/JC NA
+[/JC NA
+align/JC NA
+=/JC NA
+right/JC NA
+]/JC NA
+"/JC NA
+)/JC NA
+./JC NA
+iterator/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+Iterator/JC NA
+</JC NA
+Element/JC NA
+>/JC NA
+destinacions/JC NA
+=/JC NA
+table/JC NA
+./JC NA
+select/JC NA
+(/JC NA
+"/JC NA
+td/JC NA
+[/JC NA
+align/JC NA
+=/JC NA
+left/JC NA
+]/JC NA
+"/JC NA
+)/JC NA
+./JC NA
+iterator/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+Before/IN
+I/PRP
+added/VBD
+the/DT
+changeCursor/C
+call/NN
+,/,
+everything/NN
+was/VBD
+happy/JJ
+and/CC
+ran/VBD
+in/IN
+the/DT
+background/NN
+./.
+
+Once/RB
+I/PRP
+added/VBD
+this/DT
+:/.
+
+updateHandler/JC NA
+./JC NA
+post/JC NA
+(/JC NA
+new/JC NA
+Runnable/JC NA
+(/JC NA
+)/JC NA
+{/JC NA
+public/JC NA
+void/JC NA
+run/JC NA
+(/JC NA
+)/JC NA
+{/JC NA
+listAdapter/JC NA
+./JC NA
+changeCursor/JC NA
+(/JC NA
+cur/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+}/JC NA
+)/JC NA
+;/JC NA
+
+Everything/NN
+went/VBD
+to/TO
+crap/NN
+fast/JJ
+./.
+Answering/VBG
+my/PRP$
+own/JJ
+question/NN
+./.
+
+For/IN
+some/DT
+reason/NN
+i/PRP
+had/VBD
+to/TO
+call/VB
+both/DT
+
+canvas/JC NA
+./JC NA
+drawColor/JC NA
+(/JC NA
+Color/JC NA
+./JC NA
+TRANSPARENT/JC NA
+,/JC NA
+PorterDuff/JC NA
+./JC NA
+Mode/JC NA
+./JC NA
+CLEAR/JC NA
+)/JC NA
+;/JC NA
+
+this/JC NA
+./JC NA
+framebuffer/JC NA
+./JC NA
+eraseColor/JC NA
+(/JC NA
+Color/JC NA
+./JC NA
+TRANSPARENT/JC NA
+)/JC NA
+;/JC NA
+
+But/CC
+it/PRP
+was/VBD
+still/RB
+flickering/VBG
+./.
+
+The/DT
+flickering/NN
+was/VBD
+due/JJ
+to/TO
+the/DT
+double/JJ
+buffering/NN
+behaviour/NN
+of/IN
+the/DT
+surfaceview/NN
+./.
+
+http://stackoverflow.com/questions/6847323/android-surfaceview-canvas-flickering-after-trying-to-clear-it/URI
+Intent/JC NA
+intent/JC NA
+=/JC NA
+new/JC NA
+Intent/JC NA
+(/JC NA
+Intent/JC NA
+./JC NA
+ACTION_VIEW/JC NA
+,/JC NA
+Uri/JC NA
+./JC NA
+parse/JC NA
+(/JC NA
+"http://www.vogella.de"/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+
+intent/JC NA
+./JC NA
+addFlags/JC NA
+(/JC NA
+Intent/JC NA
+./JC NA
+FLAG_ACTIVITY_NEW_TASK/JC NA
+)/JC NA
+;/JC NA
+
+try/JC NA
+{/JC NA
+startActivity/JC NA
+(/JC NA
+intent/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+catch/JC NA
+(/JC NA
+Exception/JC NA
+e/JC NA
+)/JC NA
+{/JC NA
+e/JC NA
+./JC NA
+printStackTrace/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+@Eng.Fouad/USR
+,/,
+Ah/UH
+,/,
+I/PRP
+was/VBD
+n't/RB
+aware/JJ
+of/IN
+that/DT
+./.
+:D/UH
+@Aleks/USR
+G/USR
+-/:
+are/VBP
+you/PRP
+sure/JJ
+about/IN
+the/DT
+16/CD
+MB/NN
+limit/NN
+?/.
+
+The/DT
+emulator/NN
+seems/VBZ
+to/TO
+grow/VB
+the/DT
+heap/NN
+up/RP
+to/TO
+~/SYM
+44/CD
+MB/NN
+before/IN
+crashing/VBG
+./.
+
+I/PRP
+have/VBP
+n't/RB
+tried/VBN
+it/PRP
+yet/RB
+,/,
+but/CC
+I/PRP
+ca/MD
+n't/RB
+really/RB
+imagine/VB
+loading/VBG
+the/DT
+images/NNS
+from/IN
+resources/NNS
+and/CC
+then/RB
+releasing/VBG
+them/PRP
+allowing/VBG
+me/PRP
+to/TO
+keep/VB
+a/DT
+decent/JJ
+FPS/NN
+./.
+
+Maybe/RB
+I/PRP
+will/MD
+have/VB
+to/TO
+resize/VB
+them/PRP
+,/,
+but/CC
+I/PRP
+'m/VBP
+still/RB
+hoping/VBG
+there/EX
+'s/VBZ
+a/DT
+better/JJR
+way/NN
+./.
+tr1/JC NA
+./JC NA
+addView/JC NA
+(/JC NA
+textview/JC NA
+)/JC NA
+;/JC NA
+
+chatbox/JC NA
+./JC NA
+addView/JC NA
+(/JC NA
+tr1/JC NA
+,/JC NA
+new/JC NA
+TableLayout/JC NA
+./JC NA
+LayoutParams/JC NA
+(/JC NA
+LayoutParams/JC NA
+./JC NA
+FILL_PARENT/JC NA
+,/JC NA
+LayoutParams/JC NA
+./JC NA
+WRAP_CONTENT/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+@/JC NA
+Override/JC NA
+public/JC NA
+boolean/JC NA
+onLongClick/JC NA
+(/JC NA
+View/JC NA
+v/JC NA
+)/JC NA
+{/JC NA
+switch/JC NA
+(/JC NA
+v/JC NA
+./JC NA
+getId/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+{/JC NA
+some/JC NA
+case/JC NA
+here/JC NA
+}/JC NA
+TextView/JC NA
+textview/JC NA
+=/JC NA
+(/JC NA
+TextView/JC NA
+)/JC NA
+findViewById/JC NA
+(/JC NA
+v/JC NA
+./JC NA
+getid/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+..../F
+}/JC NA
+///CCM
+i/PRP|CCM
+want/VBP|CCM
+to/TO|CCM
+add/VB|CCM
+a/DT|CCM
+vibrate/NN|CCM
+event/NN|CCM
+to/TO|CCM
+the/DT|CCM
+textview/C|CCM
+./.|CCM
+But/CC|CCM
+i/PRP|CCM
+have/VBP|CCM
+a/DT|CCM
+mistake/NN|CCM
+,/,|CCM
+did/VBD|CCM
+you/PRP|CCM
+know/VB|CCM
+how/WRB|CCM
+to/TO|CCM
+do/VB|CCM
+?/.|CCM
+thx/UH|CCM
+!/.|CCM
+03/ER
+-/ER
+05/ER
+09/ER
+:/ER
+48/ER
+:/ER
+11.677/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+549/ER
+)/ER
+:/ER
+Caused/ER
+by/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+NullPointerException/ER
+
+03/ER
+-/ER
+05/ER
+09/ER
+:/ER
+48/ER
+:/ER
+11.677/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+549/ER
+)/ER
+:/ER
+at/ER
+com/ER
+./ER
+coursework/ER
+./ER
+braintrain/ER
+./ER
+Game/ER
+./ER
+Easy12/ER
+(/ER
+Game/ER
+./ER
+java/ER
+:/ER
+160/ER
+)/ER
+
+03/ER
+-/ER
+05/ER
+09/ER
+:/ER
+48/ER
+:/ER
+11.677/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+549/ER
+)/ER
+:/ER
+at/ER
+com/ER
+./ER
+coursework/ER
+./ER
+braintrain/ER
+./ER
+Game/ER
+./ER
+getPuzzle/ER
+(/ER
+Game/ER
+./ER
+java/ER
+:/ER
+175/ER
+)/ER
+
+03/ER
+-/ER
+05/ER
+09/ER
+:/ER
+48/ER
+:/ER
+11.677/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+549/ER
+)/ER
+:/ER
+at/ER
+com/ER
+./ER
+coursework/ER
+./ER
+braintrain/ER
+./ER
+Game/ER
+./ER
+onCreate/ER
+(/ER
+Game/ER
+./ER
+java/ER
+:/ER
+37/ER
+)/ER
+
+03/ER
+-/ER
+05/ER
+09/ER
+:/ER
+48/ER
+:/ER
+11.677/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+549/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+app/ER
+./ER
+Activity/ER
+./ER
+performCreate/ER
+(/ER
+Activity/ER
+./ER
+java/ER
+:/ER
+4465/ER
+)/ER
+
+is/VBZ
+that/IN
+the/DT
+kinda/FW
+stuff/NN
+you/PRP
+were/VBD
+looking/VBG
+for/IN
+from/IN
+the/DT
+logcat/NN
+?/.
+
+Sorry/VB
+for/IN
+bad/JJ
+formatting/NN
+@imrankhan/USR
+many/JJ
+thanks/NNS
+,/.
+That/DT
+'s/VBZ
+what/WP
+'s/VBZ
+confusing/VBG
+me/PRP
+./.
+
+The/DT
+error/NN
+is/VBZ
+talking/VBG
+about/IN
+that/DT
+one/CD
+semicolon/NN
+,/,
+but/CC
+it/PRP
+'s/VBZ
+definitely/RB
+standard/JJ
+code/NN
+./.
+
+Nothing/PRP
+too/RB
+difficult/JJ
+./.
+
+@BrandtSolovij/USR
+I/PRP
+'ll/MD
+clean/VB
+the/DT
+project/NN
+and/CC
+see/VB
+if/IN
+that/DT
+works/VBZ
+./.
+@xibao/USR
+You/PRP
+probably/RB
+figured/VBD
+this/DT
+out/RP
+by/IN
+now/RB
+,/,
+but/CC
+calling/VBG
+await/C
+(/C
+)/C
+automatically/RB
+releases/VBZ
+the/DT
+lock/NN
+and/CC
+reacquires/VBZ
+it/PRP
+when/WRB
+await/C
+(/C
+)/C
+finishes/VBZ
+./.
+
+[/-LRB-
+See/VB
+here/RB
+]/-RRB-
+(/-LRB-
+http://developer.android.com/reference/java/util/concurrent/locks/Condition.html#await/URI
+(/-LRB-
+)/-RRB-
+)/-RRB-
+./.
+
+Also/RB
+,/,
+maybe/RB
+I/PRP
+am/VBP
+misunderstanding/VBG
+something/NN
+,/,
+but/CC
+should/MD
+n't/RB
+it/PRP
+be/VB
+someFlag/JC
+=/JC
+false/JC
+;/JC
+after/IN
+System/JC
+./JC
+out/JC
+./JC
+println/JC
+(/JC
+"Did some stuff"/JC
+)/JC
+;/JC
+?/.
+ask/VB
+James/NNP
+Bond/NNP
+007@intelligence.uk/URI
+
+He/PRP
+should/MD
+know/VB
+./.
+:)/UH
+public/JC NA
+void/JC NA
+endElement/JC NA
+(/JC NA
+./JC NA
+./JC NA
+String/JC NA
+qName/JC NA
+)/JC NA
+throws/JC NA
+SAXException/JC NA
+{/JC NA
+
+System/JC NA
+./JC NA
+out/JC NA
+./JC NA
+println/JC NA
+(/JC NA
+"qName= "/JC NA
++/JC NA
+qName/JC NA
+)/JC NA
+;/JC NA
+
+-/--
+This/DT
+prints/VBZ
+null/NN
+value/NN
+../.
+@Donal/USR
+updated/VBD
+my/PRP$
+qn/NN
+./.
+
+i/PRP
+strongly/RB
+believe/VBP
+the/DT
+problem/NN
+stems/NNS
+from/IN
+beginTransaction/C NA
+,/,
+setTransactionSuccessful/C NA
+and/CC
+endTransaction/C NA
+because/IN
+if/IN
+I/PRP
+comment/VBP
+those/DT
+out/RP
+and/CC
+use/VB
+regular/JJ
+execSQL/C NA
+statement/NN
+,/,
+the/DT
+dialog/NN
+shows/VBZ
+but/CC
+insertion/NN
+now/RB
+becomes/VBZ
+painfully/RB
+slow/JJ
+./.
+Is/VBZ
+this/DT
+"/``
+developer@companydomain.com/URI
+"/''
+synched/VBN
+with/IN
+your/PRP$
+android/NNP
+phone/NN
+?/.
+I/PRP
+am/VBP
+bit/RB
+confused/VBN
+.../.
+
+To/TO
+add/VB
+after/IN
+for/JC
+(/JC
+i/JC
+=/JC
+0/JC
+;/JC
+i/JC
+</JC
+LIST_COUN/JC
+;/JC
+i/JC
+++/JC
+)/JC
+musicLists/JC
+./JC
+add/JC
+(/JC
+foo/JC
+)/JC
+when/WRB
+i/PRP
+put/VBD
+musicLists/JC
+./JC
+get/JC
+(/JC
+listNr/JC
+)/JC
+./JC
+add/JC
+(/JC
+new/JC
+Mp3/JC
+(/JC
+id/JC
+,/JC
+filename/JC
+,/JC
+length/JC
+)/JC
+)/JC
+;/JC
+it/PRP
+should/MD
+put/VB
+it/PRP
+in/IN
+the/DT
+list/NN
+in/IN
+listNr/C
+.../,
+or/CC
+Im/PRP
+I/PRP
+understanding/VBG
+it/PRP
+wrong/JJ
+?/.
+@YuviDroid/USR
+-/:
+ah/UH
+,/,
+I/PRP
+did/VBD
+miss/VBP
+that/IN
+,/,
+thanks/UH
+:)/UH
+./.
+
+That/DT
+means/VBZ
+I/PRP
+can/MD
+do/VB
+it/PRP
+,/,
+but/CC
+it/PRP
+still/RB
+leaves/VBZ
+someone/NN
+with/IN
+168k/CD
+reputation/NN
+implying/VBG
+I/PRP
+should/MD
+n't/RB
+in/IN
+the/DT
+question/NN
+I/PRP
+linked/VBD
+to/TO
+:/:
+http://stackoverflow.com/questions/4285877/which-one-to-use-onsaveinstancestate-vs-onretainnonconfigurationinstance/URI
+-/--
+I/PRP
+would/MD
+like/VB
+to/TO
+hear/VB
+some/DT
+arguments/NNS
+for/IN
+or/CC
+against/IN
+before/IN
+picking/VBG
+a/DT
+method/NN
+,/,
+because/IN
+I/PRP
+find/VBP
+the/DT
+subject/NN
+very/RB
+confusing/JJ
+./.
+hiiii/UH
+steelaz/USR
+
+given/VBN
+your/PRP$
+question/NN
+i/NN
+hv/VBP
+to/TO
+also/RB
+make/VB
+this/DT
+type/NN
+of/IN
+view/NN
+like/IN
+dayview/C
+./.
+
+hv/VBP
+u/PRP
+made/VBD
+this/DT
+view/NN
+?/.
+
+if/IN
+yes/RB
+then/RB
+share/NN
+me/PRP
+i/PRP
+cant/VBD
+understand/VB
+bcoz/CC
+i/PRP
+am/VBP
+new/JJ
+for/IN
+this/DT
+so/RB
+man/NN
+./.
+My/PRP$
+code/NN
+looks/VBZ
+like/IN
+this/DT
+.../.
+
+if/JC NA
+(/JC NA
+frequency/JC NA
+==/JC NA
+60/JC NA
+)/JC NA
+{/JC NA
+note/JC NA
+./JC NA
+setText/JC NA
+(/JC NA
+"A"/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+else/JC NA
+if/JC NA
+(/JC NA
+frequency/JC NA
+==/JC NA
+62/JC NA
+)/JC NA
+{/JC NA
+note/JC NA
+./JC NA
+setText/JC NA
+(/JC NA
+"B"/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+
+So/RB
+apparently/RB
+there/EX
+are/VBP
+approximately/RB
+35/CD
+conditions/NNS
+having/VBG
+about/IN
+150/CD
+lines/NNS
+of/IN
+coding/VBG
+../.
+Try/VB
+SO/NNP
+-/:
+[/-LRB-
+http://stackoverflow.com/questions/3067586/how-to-capture-the-android-device-screen-content/URI
+]/-RRB-
+[/-LRB-
+1/CD
+]/-RRB-
+
+[/-LRB-
+1/CD
+]/-RRB-
+:/:
+http://stackoverflow.com/questions/3067586/how-to-capture-the-android-device-screen-content/URI
+@user1252434/USR
+:/:
+taillesUS/C NA
+is/VBZ
+a/DT
+static/JJ
+field/NN
+but/CC
+It/PRP
+'s/VBZ
+not/RB
+the/DT
+solution/NN
+./.
+
+The/DT
+class/NN
+is/VBZ
+defined/VBN
+like/IN
+this/DT
+:/:
+public/JC NA
+class/JC NA
+ChooseRepository/JC NA
+extends/JC NA
+Repository/JC NA
+</JC NA
+shoe/JC NA
+>/JC NA
+@LalitPoptani/USR
+on/IN
+line/NN
+354/CD
+i/PRP
+have/VBP
+if/JC NA
+(/JC NA
+(/JC NA
+ioio_thread_/JC NA
+./JC NA
+isAlive/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+{/JC NA
+ioio_thread_/JC NA
+./JC NA
+abort/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+
+And/CC
+at/IN
+this/DT
+point/NN
+ioio_thread_/C
+is/VBZ
+never/RB
+created/VBN
+./.
+@LalitPoptani/USR
+ThreadGroup/ER
+./ER
+uncaughtException/ER
+(/ER
+Thread/ER
+,/ER
+Throwable/ER
+)/ER
+line/ER
+:/ER
+850/ER
+
+I/PRP
+get/VBP
+:/.
+
+W/ER
+//ER
+dalvikvm/ER
+(/ER
+8754/ER
+)/ER
+:/ER
+threadid/ER
+=/ER
+1/ER
+:/ER
+thread/ER
+exiting/ER
+with/ER
+uncaught/ER
+exception/ER
+(/ER
+group/ER
+=/ER
+0x40018578/ER
+)/ER
+
+and/CC
+then/RB
+the/DT
+rest/NN
+of/IN
+the/DT
+errors/NNS
+.../F
+@maerics/USR
+yeah/UH
+,/,
+the/DT
+formatting/NN
+of/IN
+the/DT
+question/NN
+tends/VBZ
+towards/VBZ
+an/DT
+interpretation/NN
+such/JJ
+as/IN
+mine/NN
+,/,
+I/PRP
+recommend/VBP
+the/DT
+poster/NN
+to/TO
+use/VB
+placeholders/NNS
+to/TO
+make/VB
+things/NNS
+clearer/JJR
+such/JJ
+as/IN
+:/:
+for/JC NA
+(/JC NA
+int/JC NA
+i/JC NA
+=/JC NA
+1/JC NA
+;/JC NA
+i/JC NA
+</JC NA
+2000/JC NA
+;/JC NA
+i/JC NA
+++/JC NA
+)/JC NA
+{/JC NA
+/*/CCM
+some/JJ|CCM
+code/NN|CCM
+.../F|CCM
+*//CCM
+}/JC NA
+./.
+i/PRP
+tried/VBD
+ping/VBG
+117.201.12.80/CD
+in/IN
+terminal/NN
+(/-LRB-
+ubuntu/NNP
+)/-RRB-
+../.
+
+it/PRP
+is/VBZ
+keep/VB
+on/IN
+going/VBG
+like/IN
+"/``
+64/C
+bytes/C
+from/C
+117.201.7.138/C
+:/C
+icmp_seq/C
+=/C
+2/C
+ttl/C
+=/C
+128/C
+time/C
+=/C
+0.758/C
+ms/C
+"/''
+
+../F
+it/PRP
+does/VBZ
+n't/RB
+end/VB
+../.
+
+thanks/NNS
+for/IN
+quick/JJ
+response/NN
+../.
+
+Help/VB
+me/PRP
+In/IN
+reference/NN
+to/TO
+your/PRP$
+message/NN
+:/:
+"/``
+Log/JC NA
+./JC NA
+i/JC NA
+(/JC NA
+"Date"/JC NA
+,/JC NA
+""/JC NA
++/JC NA
+last_date_date/JC NA
+)/JC NA
+;/JC NA
+"/''
+
+java/JC NA
+./JC NA
+util/JC NA
+./JC NA
+Date/JC NA
+has/VBZ
+a/DT
+toString/C NA
+(/C NA
+)/C NA
+format/NN
+:/:
+dow/C NA
+mon/C NA
+dd/C NA
+hh/C NA
+:/C NA
+mm/C NA
+:/C NA
+ss/C NA
+zzz/C NA
+yyyy/C NA
+./.
+
+It/PRP
+takes/VBZ
+default/NN
+time/NN
+as/IN
+00/CD
+:/SYM
+00/CD
+:/SYM
+00/CD
+even/RB
+if/IN
+you/PRP
+do/VBP
+n't/RB
+provide/VB
+one/CD
+./.
+http://www.taxmann.com/corporatelaws/fileopencontainer.aspx?Page=CIRNO&amp;id=27000000000000002519&amp;search=;/URI
+
+in/IN
+this/DT
+corporate/JJ
+changes/NNS
+it/PRP
+come/VBP
+some/DT
+time/NN
+direct/JJ
+taxlaws/NNS
+and/CC
+id/NN
+values/NNS
+id/C
+=/C
+.../F
+value/C
+there/EX
+two/CD
+changes/NNS
+in/IN
+target/NN
+href/NN
+@idiottiger/USR
+sorry/UH
+serializer/NN
+means/VBZ
+in/IN
+my/PRP$
+project/NN
+XmlSerializer/JC NA
+serializer/JC NA
+=/JC NA
+Xml/JC NA
+./JC NA
+newSerializer/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+you/PRP
+are/VBP
+mistakable/JJ
+@Nanne/USR
+!!!/.
+Why/WRB
+you/PRP
+make/VBP
+text/NN
+as/IN
+a/DT
+background/NN
+../F
+?/.
+
+If/IN
+you/PRP
+need/VBP
+hint/NN
+then/RB
+use/VB
+"/``
+android/C
+:/C
+hint/C
+"/''
+.../.
+@MarkByers/USR
+tv/NN
+means/VBZ
+TextView/C NA
+Since/IN
+I/PRP
+could/MD
+n't/RB
+post/VBP
+them/PRP
+in/IN
+the/DT
+original/JJ
+post/NN
+due/JJ
+to/TO
+being/VBG
+a/DT
+newbie/NN
+,/,
+here/RB
+are/VBP
+links/NNS
+to/TO
+the/DT
+screenshots/NNS
+
+http://i.imgur.com/ejHvJ.png/URI
+and/CC
+http://i.imgur.com/l1PNU.png/URI
+@MNajib/USR
+:/:
+Add/VB
+appropriate/JJ
+tags/NNS
+./.
+
+Use/VB
+'/``
+Android/NNP
+'/''
+as/IN
+the/DT
+tag/NN
+instead/RB
+of/IN
+'/``
+string/NN
+'/''
+&/CC
+'/``
+int/C
+'/''
+./.
+I/PRP
+can/MD
+implement/VB
+it/PRP
+,/,
+but/CC
+I/PRP
+ca/MD
+n't/RB
+consume/VB
+events/NNS
+with/IN
+it/PRP
+./.
+
+All/PDT
+the/DT
+other/JJ
+functions/NNS
+in/IN
+SimpleOnGestureListener/C
+return/VBP
+a/DT
+boolean/NN
+./.
+
+I/PRP
+can/MD
+use/VB
+that/DT
+boolean/NN
+to/TO
+determine/VB
+whether/IN
+or/CC
+not/RB
+the/DT
+event/NN
+has/VBZ
+been/VBN
+consumed/VBN
+./.
+
+If/IN
+it/PRP
+was/VBD
+been/VBN
+consumed/VBN
+,/,
+I/PRP
+stop/VBP
+any/DT
+further/JJ
+event/NN
+handling/NN
+./.
+
+For/IN
+example/NN
+,/,
+onFling/C
+returns/VBZ
+boolean/NN
+,/,
+so/IN
+I/PRP
+know/VBP
+not/RB
+to/TO
+process/VB
+a/DT
+click/C
+after/IN
+it/PRP
+./.
+
+I/PRP
+ca/MD
+n't/RB
+do/VB
+that/DT
+with/IN
+onLongPress/C
+./.
+@Jave/USR
+ok/UH
+,/,
+so/RB
+there/EX
+is/VBZ
+written/VBN
+that/IN
+long/C
+inTimeInMillis/C
+argument/NN
+is/VBZ
+GMT/NNP
+and/CC
+he/PRP
+is/VBZ
+GMT/C
++/SYM
+6/CD
+.../.
+try/VB
+this/DT
+link/NN
+for/IN
+details/NNS
+
+http://stackoverflow.com/questions/6039398/android-get-pid-of-other-applications/URI
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+07/ER
+:/ER
+15.424/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+450/ER
+)/ER
+:/ER
+FATAL/ER
+EXCEPTION/ER
+:/ER
+main/ER
+
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+07/ER
+:/ER
+15.424/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+450/ER
+)/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+ExceptionInInitializerError/ER
+
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+07/ER
+:/ER
+15.424/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+450/ER
+)/ER
+:/ER
+at/ER
+java/ER
+./ER
+lang/ER
+./ER
+Class/ER
+./ER
+newInstanceImpl/ER
+(/ER
+Native/ER
+Method/ER
+)/ER
+
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+07/ER
+:/ER
+15.424/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+450/ER
+)/ER
+:/ER
+at/ER
+java/ER
+./ER
+lang/ER
+./ER
+Class/ER
+./ER
+newInstance/ER
+(/ER
+Class/ER
+./ER
+java/ER
+:/ER
+1429/ER
+)/ER
+
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+07/ER
+:/ER
+15.424/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+450/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+app/ER
+./ER
+Instrumentation/ER
+./ER
+newActivity/ER
+(/ER
+Instrumentation/ER
+./ER
+java/ER
+:/ER
+1021/ER
+)/ER
+
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+07/ER
+:/ER
+15.424/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+450/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+app/ER
+./ER
+ActivityThread/ER
+./ER
+performLaunchActivity/ER
+(/ER
+ActivityThread/ER
+./ER
+java/ER
+:/ER
+2577/ER
+)/ER
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+13/ER
+:/ER
+48.954/ER
+:/ER
+W/ER
+//ER
+dalvikvm/ER
+(/ER
+479/ER
+)/ER
+:/ER
+Exception/ER
+Ljava/ER
+//ER
+lang/ER
+//ER
+NoClassDefFoundError/ER
+;/ER
+thrown/ER
+during/ER
+Lcom/ER
+//ER
+dropbox/ER
+//ER
+android/ER
+//ER
+sample/ER
+//ER
+DBRoulette/ER
+;/ER
+./ER
+</ER
+clinit/ER
+>/ER
+
+04/ER
+-/ER
+24/ER
+09/ER
+:/ER
+13/ER
+:/ER
+48.963/ER
+:/ER
+W/ER
+//ER
+dalvikvm/ER
+(/ER
+479/ER
+)/ER
+:/ER
+Class/ER
+init/ER
+failed/ER
+in/ER
+newInstance/ER
+call/ER
+(/ER
+Lcom/ER
+//ER
+dropbox/ER
+//ER
+android/ER
+//ER
+sample/ER
+//ER
+DBRoulette/ER
+;/ER
+)/ER
+Hey/UH
+!/.
+
+@Peeyush/USR
+!/.
+
+I/PRP
+understood/VBP
+your/PRP$
+question/NN
+./.
+
+Valid/JJ
+point/NN
+./.
+Might/RB
+be/VB
+some/DT
+problem/NN
+with/IN
+library/NN
+referencing/VBG
+in/IN
+new/JJ
+tools/NNS
+
+When/WRB
+running/VBG
+in/IN
+debug/JJ
+mode/NN
+first/JJ
+error/NN
+message/NN
+in/IN
+LogCat/NN
+is/VBZ
+:/:
+E/ER
+//ER
+dalvikvm/ER
+(/ER
+6212/ER
+)/ER
+:/ER
+Could/ER
+not/ER
+find/ER
+class/ER
+'/ER
+org/ER
+./ER
+apache/ER
+./ER
+commons/ER
+./ER
+net/ER
+./ER
+ftp/ER
+./ER
+FTPClient/ER
+'/ER
+,/ER
+referenced/ER
+from/ER
+method/ER
+*/ER
+*/ER
+*/ER
+./ER
+*/ER
+*/ER
+*/ER
+./ER
+*/ER
+*/ER
+*/ER
+./ER
+*/ER
+*/ER
+*/ER
+./ER
+</ER
+init/ER
+>/ER
+I/PRP
+think/VBP
+this/DT
+should/MD
+solve/VB
+your/PRP$
+problem/NN
+:/:
+[/-LRB-
+ImageButton/C
+selected/VBD
+sate/NN
+]/-RRB-
+[/-LRB-
+1/CD
+]/-RRB-
+
+[/-LRB-
+1/LS
+]/-RRB-
+:/:
+http://stackoverflow.com/questions/2604599/android-imagebutton-with-a-selected-state/URI
+@VivekKumarSrivastava/USR
+i/PRP
+do/VBP
+not/RB
+have/VB
+pressBackButton/C
+function/NN
+,/,
+should/MD
+i/PRP
+add/VB
+it/PRP
+?/.
+
+or/CC
+the/DT
+permission/NN
+is/VBZ
+enough/RB
+?/.
+
+i/PRP
+mean/VBP
+i/PRP
+wanna/FW
+put/VB
+just/RB
+the/DT
+premisson/NN
+AM/VBP
+i/PRP
+right/JJ
+?/.
+@VivekKumarSrivastava/USR
+i/PRP
+do/VBP
+not/RB
+wanna/FW
+close/VB
+the/DT
+app/NN
+,/--
+it/PRP
+is/VBZ
+just/RB
+clean/VB
+the/DT
+form/NN
+,/--
+but/CC
+the/DT
+user/NN
+still/RB
+in/IN
+the/DT
+Home/C
+activity/NN
+Thats/WDT
+sound/VBZ
+simple/RB
+./.
+
+Come/VB
+on/IN
+chat/NN
+simam2@gmail.com/URI
+I/PRP
+sent/VBD
+you/PRP
+request/VBP
+
+Please/VB
+add/VB
+me/PRP
+at/IN
+trapgupta0457@gmail.com/URI
+@NickT/USR
+it/PRP
+doesnt/JJ
+matter/NN
+i/PRP
+only/RB
+integer/NN
+in/IN
+integer/NN
+format/NN
+./.
+
+i/PRP
+do/VBP
+nt/RB
+want/VBP
+ACTING/JJ
+FLOAT/NN
+NUMBER/NN
+(/-LRB-
+like/IN
+1.0/CD
+,/,
+2.0/CD
+is/VBZ
+nothing/NN
+but/CC
+1/CD
+2/CD
+right/UH
+?/.
+)/-RRB-
+@/USR
+EJP/USR
+i/PRP
+do/VBP
+nt/RB
+want/VBP
+ACTING/JJ
+FLOAT/NN
+NUMBERs/NNS
+(/-LRB-
+like/IN
+1.0/CD
+,/,
+2.0/CD
+is/VBZ
+nothing/NN
+but/CC
+1/CD
+2/CD
+right/UH
+?/.
+)/-RRB-
+public/JC NA
+Cursor/JC NA
+fetchWfs/JC NA
+(/JC NA
+)/JC NA
+{/JC NA
+///CCM
+metodo/FW|CCM
+per/FW|CCM
+fare/FW|CCM
+la/FW|CCM
+query/NN|CCM
+di/FW|CCM
+tutti/FW|CCM
+i/FW|CCM
+dati/FW|CCM
+return/JC NA
+mDb/JC NA
+./JC NA
+query/JC NA
+(/JC NA
+WfMetaData/JC NA
+./JC NA
+WF_TABLE/JC NA
+,/JC NA
+null/JC NA
+,/JC NA
+null/JC NA
+,/JC NA
+null/JC NA
+,/JC NA
+null/JC NA
+,/JC NA
+null/JC NA
+,/JC NA
+null/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+
+This/DT
+seems/VBZ
+to/TO
+get/VB
+a/DT
+Null/NN
+Pointer/NN
+@Blundell/USR
+Yeah/UH
+.../,
+that/IN
+seemed/VBN
+like/IN
+a/DT
+good/JJ
+way/NN
+to/TO
+do/VB
+it/PRP
+albeit/RB
+a/DT
+tad/NN
+more/RBR
+complicated/JJ
+(/-LRB-
+then/RB
+again/RB
+you/PRP
+could/MD
+argue/VB
+why/WRB
+a/DT
+programmer/NN
+would/MD
+avoid/VB
+custom/NN
+builds/NNS
+)/-RRB-
+./.
+
+You/PRP
+have/VBP
+reference/NN
+to/TO
+a/DT
+good/JJ
+how-to/NN
+on/IN
+this/DT
+?/.
+
+Maybe/RB
+add/VB
+that/IN
+as/IN
+an/DT
+answer/NN
+.../.
+@slybloty/USR
+i/PRP
+have/VBP
+made/VBN
+layout.xml/URI
+for/IN
+7/CD
+textViews/C NA
+,/,
+calling/VBG
+it/PRP
+again/RB
+and/CC
+again/RB
+and/CC
+adding/VBG
+it/PRP
+in/IN
+my/PRP$
+linear/JJ
+layout/NN
+./.
+
+View/JC NA
+view/JC NA
+=/JC NA
+null/JC NA
+;/JC NA
+
+LayoutInflater/JC NA
+inflator/JC NA
+=/JC NA
+this/JC NA
+./JC NA
+getLayoutInflater/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+
+view/JC NA
+=/JC NA
+inflator/JC NA
+./JC NA
+inflate/JC NA
+(/JC NA
+R/JC NA
+./JC NA
+layout/JC NA
+./JC NA
+words/JC NA
+,/JC NA
+null/JC NA
+)/JC NA
+;/JC NA
+
+final/JC NA
+ViewHolder/JC NA
+viewHolder/JC NA
+=/JC NA
+new/JC NA
+ViewHolder/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+he/PRP
+did/VBD
+not/RB
+know/VB
+it/PRP
+was/VBD
+about/IN
+string/NN
+comparing/VBG
+./.
+@Jon/USR
+@11684/USR
+:/:
+That/DT
+'s/VBZ
+because/IN
+he/PRP
+did/VBD
+n't/RB
+perform/VB
+adequate/JJ
+diagnostic/JJ
+steps/NNS
+before/IN
+posting/VBG
+,/,
+IMO/UH
+./.
+@Imran/USR
+Rana/USR
+Hey/UH
+thanks/NNS
+a/DT
+lot/NN
+./.
+
+I/PRP
+seperated/VBD
+the/DT
+classes/NNS
+into/IN
+different/JJ
+files/NNS
+,/,
+and/CC
+everything/NN
+seems/VBZ
+to/TO
+be/VB
+working/VBG
+fine/RB
+now/RB
+:D/UH
+@Keyser/USR
+"/``
+in/IN
+this/DT
+case/NN
+"/''
+./.
+@Jave/USR
+also/RB
+I/PRP
+solved/VBD
+it/PRP
+in/IN
+this/DT
+way/NN
+:/:
+MyClass/JC NA
+./JC NA
+Sub/JC NA
+sub/JC NA
+=/JC NA
+new/JC NA
+MyClass/JC NA
+./JC NA
+Sub/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+Thanks/NNS
+for/IN
+the/DT
+quick/JJ
+reply/NN
+!/.
+
+I/PRP
+'ll/MD
+throw/VB
+a/DT
+few/JJ
+errors/NNS
+up/RP
+:/.
+@kcoppock/USR
+Done/VBN
+!/.
+
+I/PRP
+have/VBP
+just/RB
+put/VBN
+up/RP
+the/DT
+LogCat/NN
+./.
+
+and/CC
+sleiman/USR
+-/:
+I/PRP
+'ll/MD
+remove/VB
+the/DT
+dot/NN
+and/CC
+check/VB
+again/RB
+./.
+hope/VB
+these/DT
+threads/NNS
+helps/VBZ
+you/PRP
+
+http://stackoverflow.com/questions/3105673/android-how-to-kill-an-application-with-all-its-activities/URI
+
+http://stackoverflow.com/questions/6014028/closing-application-with-exit-button/URI
+No/DT
+dublicate/NN
+,/,
+this/DT
+is/VBZ
+not/RB
+about/IN
+the/DT
+@/C NA
+override/C NA
+issue/NN
+in/IN
+any/DT
+case/NN
+!/.
+
+TY/NN
+very/RB
+much/JJ
+for/IN
+the/DT
+hint/NN
+with/IN
+v4/NN
+supp/JJ
+package/NN
+./.
+
+I/PRP
+did/VBD
+not/RB
+know/VB
+about/IN
+this/DT
+./.
+
+If/IN
+you/PRP
+add/VBP
+this/DT
+again/RB
+as/IN
+an/DT
+answer/NN
+I/PRP
+can/MD
+accept/VB
+yours/PRP$
+./.
+Try/VB
+the/DT
+steps/NNS
+mentioned/VBN
+in/IN
+the/DT
+answer/NN
+of/IN
+this/DT
+[/-LRB-
+SO/NNP
+]/-RRB-
+[/-LRB-
+1/CD
+]/-RRB-
+question/NN
+
+[/-LRB-
+1/LS
+]/-RRB-
+:/:
+http://stackoverflow.com/questions/3593420/android-getting-source-code-from-an-apk-file/URI
+@Tim/USR
+theRating/USR
+is/VBZ
+coming/VBG
+from/IN
+a/DT
+URL/NN
+feed/NN
+that/WDT
+'s/VBZ
+split/VBP
+into/IN
+an/DT
+array/NN
+./.
+
+theRating/JC NA
+=/JC NA
+feedArray/JC NA
+[/JC NA
+4/JC NA
+]/JC NA
+;/JC NA
+
+-/F
+AndrewThompson/USR
+lol/UH
+-/:
+Aggressively/RB
+lots/NNS
+of/IN
+phrases/NNS
+and/CC
+keywords/NNS
+and/CC
+with/IN
+anger/NN
+./.
+
+Nice/JJ
+one/PRP
+@RafaelT/USR
+&/CC
+Jave/USR
+-/:
+While/IN
+it/PRP
+sounds/VBZ
+great/JJ
+,/,
+this/DT
+actually/RB
+does/VBZ
+not/RB
+prevent/VB
+you/PRP
+from/IN
+clicking/VBG
+a/DT
+button/NN
+more/JJR
+than/IN
+once/RB
+./.
+
+If/IN
+you/PRP
+click/VBP
+rapidly/RB
+enough/RB
+you/PRP
+will/MD
+send/VB
+off/RP
+multiple/JJ
+clicks/NNS
+before/IN
+the/DT
+actual/JJ
+even/NN
+handler/NN
+is/VBZ
+called/VBN
+that/WDT
+disables/VBZ
+the/DT
+button/NN
+./.
+
+So/RB
+,/,
+it/PRP
+does/VBZ
+work/VB
+for/IN
+most/JJS
+cases/NNS
+since/IN
+most/JJS
+users/NNS
+are/VBP
+n't/RB
+going/VBG
+to/TO
+try/VB
+and/CC
+click/VB
+buttons/NNS
+like/IN
+crazy/JJ
+../.
+
+however/RB
+,/,
+you/PRP
+will/MD
+always/RB
+have/VB
+that/IN
+one/DT
+guy/NN
+..../F
+@SeanMickeyduring/USR
+runtime/C NA
+Quite/RB
+simply/RB
+,/,
+it/PRP
+appears/VBZ
+that/IN
+userFunction/JC
+./JC
+loginUser/JC
+(/JC
+email/JC
+,/JC
+password/JC
+)/JC
+;/JC
+returns/VBZ
+null/NN
+./.
+
+You/PRP
+need/VBP
+to/TO
+figure/VB
+out/RP
+why/WRB
+by/IN
+analyzing/VBG
+that/DT
+method/NN
+./.
+
+What/WP
+is/VBZ
+loginUrl/C NA
+?/.
+print/VB
+your/PRP$
+logcat/NN
+so/IN
+we/PRP
+can/MD
+help/VB
+you/PRP
+,/,
+we/PRP
+ca/MD
+n't/RB
+figure/VB
+what/WP
+is/VBZ
+your/PRP$
+error/NN
+unless/IN
+you/PRP
+past/VB
+the/DT
+exception/NN
+raised/VBD
+in/IN
+your/PRP$
+logcat/NN
+and/CC
+the/DT
+cause/NN
+of/IN
+it/PRP
+
+in/IN
+logcat/NN
+
+Exception/ER
+...../F
+
+Caused/ER
+By/ER
+..../F
+see/VB
+this/DT
+........................../:
+http://stackoverflow.com/questions/9498155/android-java-update-same-edittext-in-textchanged-event/URI
+Uri/JC NA
+contacts/JC NA
+=/JC NA
+Uri/JC NA
+./JC NA
+parse/JC NA
+(/JC NA
+"content://contacts/people"/JC NA
+)/JC NA
+;/JC NA
+
+Cursor/JC NA
+cur/JC NA
+=/JC NA
+managedQuery/JC NA
+(/JC NA
+contacts/JC NA
+,/JC NA
+projection/JC NA
+,/JC NA
+null/JC NA
+,/JC NA
+null/JC NA
+,/JC NA
+null/JC NA
+)/JC NA
+;/JC NA
+
+if/JC NA
+(/JC NA
+cur/JC NA
+./JC NA
+moveToFirst/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+{/JC NA
+String/JC NA
+name/JC NA
+;/JC NA
+String/JC NA
+phoneNumber/JC NA
+;/JC NA
+int/JC NA
+nameColumn/JC NA
+=/JC NA
+cur/JC NA
+./JC NA
+getColumnIndex/JC NA
+(/JC NA
+People/JC NA
+./JC NA
+NAME/JC NA
+)/JC NA
+;/JC NA
+int/JC NA
+phoneColumn/JC NA
+=/JC NA
+cur/JC NA
+./JC NA
+getColumnIndex/JC NA
+(/JC NA
+People/JC NA
+./JC NA
+NUMBER/JC NA
+)/JC NA
+;/JC NA
+do/JC NA
+{/JC NA
+name/JC NA
+=/JC NA
+cur/JC NA
+./JC NA
+getString/JC NA
+(/JC NA
+nameColumn/JC NA
+)/JC NA
+;/JC NA
+phoneNumber/JC NA
+=/JC NA
+cur/JC NA
+./JC NA
+getString/JC NA
+(/JC NA
+phoneColumn/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+while/JC NA
+(/JC NA
+cur/JC NA
+./JC NA
+moveToNext/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+com.powergroupbd.appfilter.Applications@44297/URI
+is/VBZ
+a/DT
+reference/NN
+in/IN
+memory/NN
+to/TO
+an/DT
+Applications/C
+object/NN
+./.
+
+To/TO
+get/VB
+a/DT
+more/RBR
+descriptive/JJ
+String/NN
+you/PRP
+should/MD
+override/VB
+the/DT
+toString/C
+(/C
+.../F
+)/C
+method/NN
+./.
+Alright/UH
+,/,
+but/CC
+the/DT
+method/NN
+I/PRP
+need/VBP
+to/TO
+use/VB
+only/RB
+exists/VBZ
+in/IN
+3.0/CD
+./.
+
+And/CC
+according/VBG
+to/TO
+http://developer.android.com/resources/dashboard/platform-versions.html/URI
+2.3.3/CD
+is/VBZ
+on/IN
+top/NN
+./.
+I/PRP
+can/MD
+see/VB
+where/WRB
+you/PRP
+are/VBP
+calling/VBG
+getTotal/C
+,/,
+but/CC
+have/VBP
+no/DT
+idea/NN
+where/WRB
+you/PRP
+are/VBP
+calling/VBG
+the/DT
+other/JJ
+methods/NNS
+./.
+
+Please/VB
+post/VB
+more/JJR
+code/NN
+./.
+
+I/PRP
+have/VBP
+a/DT
+feeling/NN
+you/PRP
+'re/VBP
+trying/VBG
+to/TO
+use/VB
+an/DT
+Activity/C
+where/WRB
+a/DT
+Dialog/C
+would/MD
+suffice/VB
+./.
+@ThomasW/USR
+after/IN
+a/DT
+gazillion/CD
+tries/VBZ
+I/PRP
+finally/RB
+got/VBD
+it/PRP
+right/RB
+./.
+"-)/UH
+write/C NA
+(/C NA
+)/C NA
+method/NN
+is/VBZ
+going/VBG
+to/TO
+write/VB
+in/IN
+byte/NN
+format/NN
+,/,
+so/IN
+you/PRP
+ca/MD
+n't/RB
+read/VB
+it/PRP
+with/IN
+normal/JJ
+text/NN
+viewer/NN
+like/IN
+notepad/NN
+@Grant/USR
+Did/VBD
+you/PRP
+checkout/VBP
+this/DT
+tutorial/NN
+:/:
+http://blog.evoxmusic.fr/dev/android-content-observer-get-the-last-sms-sent-and-avoid-multiple-wrong-pickup.html/URI
+
+Kind/NN
+regards/NNS
+,/,
+Bo/NNP
+Yeah/UH
+the/DT
+code/NN
+is/VBZ
+old/JJ
+,/,
+long/JJ
+,/,
+and/CC
+crappy/JJ
+but/CC
+here/RB
+'s/VBZ
+what/WP
+it/PRP
+does/VBZ
+./.
+
+I/PRP
+have/VBP
+a/DT
+class/NN
+extending/VBG
+BroadcastReceiver/C NA
+that/IN
+listens/VBZ
+for/IN
+KeyEvent/C NA
+./C NA
+ACTION_DOWN/C NA
+(/-LRB-
+i.e./FW
+they/PRP
+pressed/VBD
+down/RP
+on/IN
+the/DT
+button/NN
+)/-RRB-
+./.
+
+Then/RB
+I/PRP
+start/VBP
+a/DT
+service/NN
+class/NN
+,/,
+clickService/C NA
+(/-LRB-
+extending/VBG
+Service/NN
+,/,
+which/WDT
+is/VBZ
+a/DT
+background/NN
+worker/NN
+basically/RB
+)/-RRB-
+./.
+
+The/DT
+service/NN
+does/VBZ
+clickCount/C NA
+++/C NA
+(/-LRB-
+a/DT
+global/JJ
+)/-RRB-
+,/,
+and/CC
+then/RB
+creates/VBZ
+a/DT
+RUNNABLE/C NA
+which/WDT
+does/VBZ
+this/DT
+:/:
+if/JC NA
+oldNumClicks/JC NA
+==/JC NA
+clickCount/JC NA
+,/,
+we/PRP
+'re/VBP
+done/VBN
+and/CC
+we/PRP
+have/VBP
+the/DT
+#/C
+of/IN
+clicks/NNS
+,/,
+else/JC NA
+return/JC NA
+./.
+
+THE/DT
+TRICK/NN
+is/VBZ
+to/TO
+call/VB
+handler/JC NA
+./JC NA
+postDelayed/JC NA
+(/JC NA
+RUNNABLE/JC NA
+,/JC NA
+delay_allowed_between_clicks/JC NA
+)/JC NA
+./.
+
+That/DT
+summarizes/VBZ
+what/WP
+I/PRP
+did/VBD
+=)/UH
+the/DT
+row/NN
+147/CD
+is/VBZ
+myText/JC NA
+./JC NA
+setText/JC NA
+(/JC NA
+lista/JC NA
+./JC NA
+getString/JC NA
+(/JC NA
+1/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+
+lista/C
+is/VBZ
+a/DT
+cursor/NN
+and/CC
+is/VBZ
+defined/VBN
+pefectly/RB
+./.
+@Lucifer/USR
+sorry/JJ
+???/.
+ok/UH
+i/PRP
+will/MD
+try/VB
+this/DT
+../F
+thnx/NNS
+for/IN
+your/PRP$
+help/NN
+@imrankhan/USR
+it/PRP
+'s/VBZ
+like/IN
+this/DT
+->/SYM
+
+Intent/JC NA
+intent/JC NA
+=/JC NA
+new/JC NA
+Intent/JC NA
+(/JC NA
+MainAct/JC NA
+./JC NA
+this/JC NA
+,/JC NA
+Howto/JC NA
+./JC NA
+class/JC NA
+)/JC NA
+;/JC NA
+
+startActivity/JC NA
+(/JC NA
+intent/JC NA
+)/JC NA
+;/JC NA
+Please/VB
+Go/VB
+through/IN
+following/VBG
+link/NN
+./.
+
+http://stackoverflow.com/questions/4421527/start-android-application-info-screen/URI
+Try/VB
+add/VB
+some/DT
+log/NN
+to/TO
+see/VB
+if/IN
+the/DT
+Toast/C NA
+line/NN
+is/VBZ
+being/VBG
+entered/VBN
+./.
+
+if/JC NA
+(/JC NA
+response/JC NA
+!=/JC NA
+null/JC NA
+)/JC NA
+{/JC NA
+
+Log/JC NA
+./JC NA
+d/JC NA
+(/JC NA
+"TAG"/JC NA
+,/JC NA
+"response not null"/JC NA
+)/JC NA
+;/JC NA
+
+if/IN
+it/PRP
+does/VBZ
+n't/RB
+then/RB
+the/DT
+problem/NN
+is/VBZ
+not/RB
+about/IN
+the/DT
+Toast/C
+./.
+@Christine/USR
+Are/VBP
+you/PRP
+refering/VBG
+to/TO
+an/DT
+SQLite/NNP
+db/NN
+?/.
+
+I/PRP
+have/VBP
+only/RB
+used/VBN
+sharedPreferences/C NA
+so/RB
+far/RB
+./.
+
+But/CC
+i/PRP
+suppose/VBP
+a/DT
+db/NN
+is/VBZ
+better/RBR
+in/IN
+this/DT
+case/NN
+?/.
+Your/PRP$
+array/NN
+initialization/NN
+code/NN
+before/IN
+calling/VBG
+areasList/JC NA
+=/JC NA
+mDbHelper/JC NA
+./JC NA
+getAllAreas/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+is/VBZ
+without/IN
+effect/NN
+./.
+
+You/PRP
+can/MD
+remove/VB
+it/PRP
+./.
+
+Other/JJR
+than/IN
+that/DT
+:/:
+did/VBD
+you/PRP
+verify/VBP
+that/IN
+your/PRP$
+DB/NN
+does/VBZ
+*/SYM
+not/RB
+*/SYM
+contain/VBP
+null/NN
+values/NNS
+?/.
+
+(/-LRB-
+You/PRP
+can/MD
+enforce/VB
+that/IN
+with/IN
+the/DT
+constraint/NN
+NOT/C NA
+NULL/C NA
+)/-RRB-
+./.
+@al0neevenings/USR
+:/:
+String/JC NA
+[/JC NA
+]/JC NA
+tS/JC NA
+;/JC NA
+is/VBZ
+empty/JJ
+see/VB
+this/DT
+line/NN
+list/JC
+=/JC
+(/JC
+ListView/JC
+)/JC
+findViewById/JC
+(/JC
+R/JC
+./JC
+id/JC
+./JC
+list/JC
+)/JC
+;/JC
+adapter/JC
+=/JC
+new/JC
+LazyAdapter/JC
+(/JC
+this/JC
+,/JC
+tS/JC
+,/JC
+mTitles/JC
+)/JC
+;/JC
+when/IN
+you/PRP
+are/VBP
+passing/VBG
+tS/C
+to/TO
+LazyAdapter/C
+try/VB
+to/TO
+put/VB
+adapter/JC
+=/JC
+new/JC
+LazyAdapter/JC
+(/JC
+this/JC
+,/JC
+tS/JC
+,/JC
+mTitles/JC
+)/JC
+;/JC
+list/JC
+./JC
+setAdapter/JC
+(/JC
+adapter/JC
+)/JC
+;/JC
+after/IN
+t/JC
+./JC
+toArray/JC
+(/JC
+tS/JC
+)/JC
+;/JC
+line/NN
+Note/VB
+:/:
+Overriding/VBG
+getType/C NA
+(/C NA
+)/C NA
+required/VBN
+me/PRP
+to/TO
+set/VB
+the/DT
+mime/NN
+type/NN
+,/,
+eg/FW
+:/.
+
+@/JC NA
+Override/JC NA
+public/JC NA
+String/JC NA
+getType/JC NA
+(/JC NA
+Uri/JC NA
+uri/JC NA
+)/JC NA
+{/JC NA
+return/JC NA
+"image/png"/JC NA
+;/JC NA
+}/JC NA
+list/JC
+=/JC
+new/JC
+ListSchedule/JC
+(/JC
+cookie/JC
+)/JC
+;/JC
+
+This/DT
+constructor/NN
+call/NN
+passes/VBZ
+an/DT
+argument/NN
+,/,
+but/CC
+you/PRP
+are/VBP
+n't/RB
+showing/VBG
+us/PRP
+any/DT
+constructor/NN
+in/IN
+your/PRP$
+code/NN
+that/WDT
+accepts/VBZ
+an/DT
+argument/NN
+./.
+Yup/UH
+,/,
+agreed/VBN
+with/IN
+@Hasslarn/USR
+./.
+
+Copied/VBN
+your/PRP$
+code/NN
+to/TO
+a/DT
+project/NN
+of/IN
+my/PRP$
+own/JJ
+and/CC
+there/EX
+is/VBZ
+no/DT
+semicolon/NN
+error/NN
+./.
+Seems/VBZ
+to/TO
+me/PRP
+that/IN
+you/PRP
+are/VBP
+struggling/VBG
+with/IN
+Java/NNP
+itself/PRP
+./.
+
+Java/NNP
+is/VBZ
+object-oriented/JJ
+and/CC
+uses/VBZ
+Objects/NNS
+./.
+
+A/DT
+few/JJ
+handle/NN
+links/NNS
+about/IN
+OOD/NN
+:/:
+[/-LRB-
+Tutorial1/NN
+]/-RRB-
+(/-LRB-
+http://docs.oracle.com/javase/tutorial/java/javaOO/index.html/URI
+)/-RRB-
+&/CC
+[/-LRB-
+Tutorial2/NN
+]/-RRB-
+(/-LRB-
+http://docs.oracle.com/javase/tutorial/java/concepts/object.html/URI
+)/-RRB-
+./.
+
+Like/IN
+Kumar/NNP
+said/VBD
+../:
+For/IN
+handling/VBG
+Threads/NNS
+in/IN
+Android/NNP
+correctly/RB
+,/,
+an/DT
+[/-LRB-
+AsyncTask/C
+]/-RRB-
+(/-LRB-
+http://developer.android.com/reference/android/os/AsyncTask.html/URI
+)/-RRB-
+or/C
+a/C
+[/-LRB-
+Handler/C
+]/-RRB-
+(/-LRB-
+http://developer.android.com/reference/android/os/Handler.html/URI
+)/-RRB-
+is/VBZ
+used/VBN
+./.
+07/ER
+-/ER
+10/ER
+16/ER
+:/ER
+38/ER
+:/ER
+07.859/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+331/ER
+)/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+IllegalStateException/ER
+:/ER
+Could/ER
+not/ER
+find/ER
+a/ER
+method/ER
+launchSearch/ER
+(/ER
+View/ER
+)/ER
+in/ER
+the/ER
+activity/ER
+class/ER
+com/ER
+./ER
+tinybox/ER
+./ER
+androclickclient/ER
+./ER
+Home/ER
+for/ER
+onClick/ER
+handler/ER
+on/ER
+view/ER
+class/ER
+android/ER
+./ER
+widget/ER
+./ER
+Button/ER
+with/ER
+id/ER
+'stop_search_button'/ER
+Why/WRB
+do/VBP
+n't/RB
+you/PRP
+try/VB
+
+RelativeLayout/JC
+./JC
+LayoutParams/JC
+mParam/JC
+=/JC
+new/JC
+RelativeLayout/JC
+./JC
+LayoutParams/JC
+(/JC
+LayoutParams/JC
+./JC
+MATCH_PARENT/JC
+,/JC
+LayoutParams/JC
+./JC
+WRAP_CONTENT/JC
+)/JC
+;/JC
+
+sucs/JC
+./JC
+setLayoutParams/JC
+(/JC
+myListView/JC
+)/JC
+;/JC
+instead/RB
+of/IN
+FILL_PARENT/C
+@ChrisStratton/USR
+_/:
+I/PRP
+figured/VBD
+out/RP
+./.
+
+I/PRP
+had/VBD
+doubt/NN
+on/IN
+**/SYM
+NON/RB
+blocking/NN
+**/SYM
+terms/NNS
+,/,
+I/PRP
+thought/VBD
+he/PRP
+refers/VBZ
+to/TO
+UI/NN
+of/IN
+Activity/C NA
+./.
+
+Anyway/RB
+Thanks/UH
+./.
+Hmm/UH
+.../.
+
+Are/VBP
+you/PRP
+talking/VBG
+about/IN
+actual/JJ
+serial/NN
+devices/NNS
+as/IN
+@Chris/USR
+suspects/VBZ
+?/.
+
+Or/CC
+are/VBP
+you/PRP
+talking/VBG
+about/IN
+normal/JJ
+serial/JJ
+file/NN
+IO/NN
+?/.
+
+This/DT
+question/NN
+could/MD
+use/VB
+some/DT
+clarification/NN
+.../.
+String/JC NA
+str/JC NA
+=/JC NA
+"one|two|three|four|five"/JC NA
+;/JC NA
+
+String/JC NA
+[/JC NA
+]/JC NA
+StrCheck/JC NA
+=/JC NA
+str/JC NA
+./JC NA
+split/JC NA
+(/JC NA
+"\\|"/JC NA
+)/JC NA
+;/JC NA
+./.
+
+this/DT
+is/VBZ
+my/PRP$
+actual/JJ
+code/NN
+,/,
+,/,
+i/PRP
+put/VBD
+a/DT
+breakpoint/NN
+on/IN
+straight/RB
+to/TO
+str/C
+and/CC
+debug/VBP
+the/DT
+code/NN
+./.
+
+if/IN
+i/PRP
+put/VB
+my/PRP$
+cursor/NN
+(/-LRB-
+mouse/NN
+cursor/NN
+)/-RRB-
+on/IN
+StrCheck/C
+one/CD
+pop/NN
+up/NN
+comes/VBZ
+states/NNS
+that/IN
+"/:
+Exception/ER
+processing/ER
+async/ER
+thread/ER
+queue/ER
+
+Exception/ER
+processing/ER
+async/ER
+thread/ER
+queue/ER
+
+Timeout/ER
+occurred/ER
+while/ER
+waiting/ER
+for/ER
+packet/ER
+5980/ER
+./ER
+"/''
+
+i/PRP
+do/VBP
+nt/RB
+know/VB
+y/WRB
+this/DT
+will/NN
+occurs/VBZ
+public/JC NA
+Bitmap/JC NA
+urlImageToBitmap/JC NA
+(/JC NA
+String/JC NA
+urlImage/JC NA
+)/JC NA
+{/JC NA
+Bitmap/JC NA
+mIcon1/JC NA
+=/JC NA
+null/JC NA
+;/JC NA
+URL/JC NA
+url_value/JC NA
+;/JC NA
+try/JC NA
+{/JC NA
+url_value/JC NA
+=/JC NA
+new/JC NA
+URL/JC NA
+(/JC NA
+urlImage/JC NA
+)/JC NA
+;/JC NA
+mIcon1/JC NA
+=/JC NA
+BitmapFactory/JC NA
+./JC NA
+decodeStream/JC NA
+(/JC NA
+url_value/JC NA
+./JC NA
+openConnection/JC NA
+(/JC NA
+)/JC NA
+./JC NA
+getInputStream/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+catch/JC NA
+(/JC NA
+MalformedURLException/JC NA
+e/JC NA
+)/JC NA
+{/JC NA
+///JC NA
+TODO/VB
+Auto-generated/NN
+catch/NN
+block/NN
+e/JC NA
+./JC NA
+printStackTrace/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+catch/JC NA
+(/JC NA
+IOException/JC NA
+e/JC NA
+)/JC NA
+{/JC NA
+///CCM
+TODO/NN|CCM
+Auto-generated/JJ|CCM
+catch/C|CCM
+block/NN|CCM
+e/JC NA
+./JC NA
+printStackTrace/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+return/JC NA
+mIcon1/JC NA
+;/JC NA
+}/JC NA
+have/VBP
+you/PRP
+seen/VBD
+these/DT
+./.
+
+http://udinic.wordpress.com/2011/08/18/dress-up-your-preferenceactivity//URI
+
+http://liquidlabs.ca/2011/10/17/override-android-preference-activity-colors//URI
+private/JC
+ImageButton/JC
+rstBtn/JC
+;/JC
+
+rstBtn/JC
+=/JC
+(/JC
+ImageButton/JC
+)/JC
+findViewById/JC
+(/JC
+R/JC
+./JC
+id/JC
+./JC
+Reset/JC
+)/JC
+;/JC
+I/PRP
+found/VBD
+the/DT
+problem/NN
+....../:
+I/PRP
+did/VBD
+n't/RB
+close/RB
+the/DT
+cursor/NN
+!!/.
+
+Just/RB
+close/VB
+phoneNumber/C
+and/CC
+email/C
+after/IN
+each/DT
+iteration/NN
+,/,
+then/RB
+everything/NN
+works/VBZ
+....../.
+
+I/PRP
+am/VBP
+an/DT
+idiot/NN
+LOL/UH
+:)/UH
+That/DT
+is/VBZ
+the/DT
+question/NN
+that/IN
+i/PRP
+have/VBP
+./.
+
+I/PRP
+still/RB
+have/VBP
+not/RB
+implemented/VBN
+it/PRP
+./.
+
+I/PRP
+was/VBD
+thinking/VBG
+of/IN
+storing/VBG
+in/IN
+a/DT
+csv/NN
+file/NN
+./.
+
+@lain_b/USR
+:/:
+It/PRP
+s/VBZ
+barometer/NN
+data/NNS
+./.
+
+I/PRP
+would/MD
+like/VB
+your/PRP$
+suggestion/NN
+on/IN
+it/PRP
+09/ER
+-/ER
+05/ER
+15/ER
+:/ER
+34/ER
+:/ER
+31.003/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+284/ER
+)/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+RuntimeException/ER
+:/ER
+Unable/ER
+to/ER
+start/ER
+activity/ER
+ComponentInfo/ER
+{/ER
+com/ER
+./ER
+example/ER
+./ER
+imageviewpckg/ER
+//ER
+com/ER
+./ER
+example/ER
+./ER
+imageviewpckg/ER
+./ER
+ImageViewActivity/ER
+}/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+NullPointerException/ER
+
+09/ER
+-/ER
+05/ER
+15/ER
+:/ER
+34/ER
+:/ER
+31.003/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+284/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+app/ER
+./ER
+ActivityThread/ER
+./ER
+performLaunchActivity/ER
+(/ER
+ActivityThread/ER
+./ER
+java/ER
+:/ER
+2663/ER
+)/ER
+
+09/ER
+-/ER
+05/ER
+15/ER
+:/ER
+34/ER
+:/ER
+31.003/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+284/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+app/ER
+./ER
+ActivityThread/ER
+./ER
+access$2300/ER
+(/ER
+ActivityThread/ER
+./ER
+java/ER
+:/ER
+125/ER
+)/ER
+
+09/ER
+-/ER
+05/ER
+15/ER
+:/ER
+34/ER
+:/ER
+31.003/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+284/ER
+)/ER
+:/ER
+at/ER
+com/ER
+./ER
+example/ER
+./ER
+imageviewpckg/ER
+./ER
+ImageViewActivity/ER
+./ER
+onCreate/ER
+(/ER
+ImageViewActivity/ER
+./ER
+java/ER
+:/ER
+46/ER
+)/ER
+
+-/:
+@Raghav/USR
+@Manik/USR
+yeah/UH
+after/IN
+disabling/VBG
+sound/NN
+->/SYM
+vibe/VB
+on/IN
+touch/VB
+,/,
+keyboard/NN
+press/NN
+still/RB
+vibes/VBZ
+in/IN
+my/PRP$
+app/NN
+,/,
+as/IN
+do/C
+events/NNS
+where/WRB
+i/PRP
+specifically/RB
+ask/VB
+for/IN
+a/DT
+vibe/NN
+to/TO
+happen/VB
+using/VBG
+vibrator/JC NA
+./JC NA
+vibrate/JC NA
+(/JC NA
+10/JC NA
+)/JC NA
+,/,
+such/JJ
+as/IN
+on/IN
+some/DT
+click/NN
+//CC
+touch/NN
+events/NNS
+i/PRP
+set/VBP
+up/RP
+since/IN
+they/PRP
+do/VBP
+n't/RB
+seem/VB
+to/TO
+vibe/VB
+by/IN
+default/NN
+./.
+@towpse/USR
+To/TO
+disable/VB
+vibes/NNS
+on/IN
+keyboard/NN
+press/VBP
+,/:
+Phone/NN
+Settings/NNS
+->/SYM
+Language/NN
+&/CC
+input/NN
+->/SYM
+Keyboard/NN
+setting/NN
+->/SYM
+uncheck/VB
+the/DT
+"/``
+Sound/VB
+on/IN
+Keypress/VB
+"/''
+./.
+
+In/IN
+Android/NNP
+we/PRP
+have/VBP
+two/CD
+haptic/JJ
+effects/NNS
+,/,
+one/CD
+for/C
+keyboard/NN
+&/CC
+another/DT
+for/IN
+home/NN
+//CC
+back/NN
+key/NN
+press/NN
+!/.
+that/WDT
+is/VBZ
+this/DT
+:/:
+txt1/JC NA
+./JC NA
+setText/JC NA
+(/JC NA
+data/JC NA
+./JC NA
+getTournament/JC NA
+(/JC NA
+)/JC NA
+./JC NA
+get/JC NA
+(/JC NA
+0/JC NA
+)/JC NA
+./JC NA
+get/JC NA
+(/JC NA
+0/JC NA
+)/JC NA
+./JC NA
+getTeam1/JC NA
+(/JC NA
+)/JC NA
+./JC NA
+toString/JC NA
+(/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+
+that/WDT
+is/VBZ
+where/WRB
+I/PRP
+want/VBP
+to/TO
+test/VB
+the/DT
+data/NNS
+stored/VBN
+,/,
+but/CC
+yes/RB
+,/,
+as/IN
+you/PRP
+already/RB
+mentioned/VBN
+I/PRP
+get/VBP
+that/IN
+error/NN
+./.
+
+But/CC
+I/PRP
+do/VBP
+n't/RB
+know/VB
+why/WRB
+,/,
+or/CC
+what/WP
+I/PRP
+did/VBD
+wrong/JJ
+i/PRP
+am/VBP
+getting/VBG
+this/DT
+from/IN
+webservice/NN
+September/NNP
+,/,
+25/CD
+2012/CD
+02/CD
+:/SYM
+09/CD
+:/SYM
+42/CD
++/SYM
+0000/CD
+
+and/CC
+want/VBP
+to/TO
+parse/VB
+in/IN
+02/CD
+:/SYM
+09/CD
+AM/FW
+25/CD
+//SYM
+09/CD
+//SYM
+2012/CD
+./.
+@bot/USR
+Yes/UH
+,/,
+you/PRP
+'re/VBP
+right/RB
+:)/UH
+
+I/PRP
+might/MD
+have/VB
+answered/VBN
+that/IN
+question/NN
+and/CC
+gained/VBD
+some/DT
+additional/JJ
+reputation/NN
+,/,
+but/CC
+I/PRP
+grumbled/VBD
+and/CC
+missed/VBD
+the/DT
+chance/NN
+./.
+In/IN
+Java/NNP
+1.5/CD
+you/PRP
+can/MD
+use/VB
+@/C NA
+Override/C NA
+to/TO
+mark/VB
+methods/NNS
+that/WDT
+are/VBP
+overriding/VBG
+super/JJ
+class/NN
+methods/NNS
+./.
+
+Since/IN
+Java/NNP
+1.6/CD
+you/PRP
+can/MD
+mark/VB
+methods/NNS
+with/IN
+it/PRP
+that/WDT
+are/VBP
+implementing/VBG
+an/DT
+interface/NN
+,/,
+too/RB
+./.
+Yes/UH
+,/,
+bm/C
+==/C
+null/C
+
+But/CC
+how/WRB
+?/.
+
+I/PRP
+get/VBP
+an/DT
+image/NN
+from/IN
+Gallerey/NN
+,/,
+path/NN
+is/VBZ
+true/JJ
+I/PRP
+am/VBP
+able/JJ
+to/TO
+sort/VB
+the/DT
+FIrst/JJ
+date/NN
+,/,
+just/RB
+need/VB
+to/TO
+modify/VB
+the/DT
+entire/JJ
+String/NN
+./.
+
+Sun/NNP
+Feb/NNP
+12/CD
+00/CD
+:/SYM
+00/CD
+:/SYM
+00/CD
+GMT/NNP
++/SYM
+05/CD
+:/SYM
+30/CD
+2012/CD
+
+Wed/NNP
+Sep/NNP
+12/CD
+00/CD
+:/SYM
+00/CD
+:/SYM
+00/CD
+GMT/NNP
++/SYM
+05/CD
+:/SYM
+30/CD
+2012/CD
+
+Wed/NNP
+Oct/NNP
+10/CD
+00/CD
+:/SYM
+00/CD
+:/SYM
+00/CD
+GMT/NNP
++/SYM
+05/CD
+:/SYM
+30/CD
+2012/CD
+
+Fri/NNP
+Oct/NNP
+12/CD
+00/CD
+:/SYM
+00/CD
+:/SYM
+00/CD
+GMT/NNP
++/SYM
+05/CD
+:/SYM
+30/CD
+2012/CD
+I/PRP
+'m/VBP
+not/RB
+an/DT
+expert/NN
+in/IN
+Android/NNP
+./.
+
+Is/VBZ
+there/RB
+any/DT
+problem/NN
+doing/VBG
+FFT/C
+->/C
+filtering/C
+50hz/C
+out/C
+->/C
+FFT/C
+^/C
+-/C
+1/C
+?/.
+10/ER
+-/ER
+29/ER
+13/ER
+:/ER
+11/ER
+:/ER
+10.122/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+275/ER
+)/ER
+:/ER
+Caused/ER
+by/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+ClassNotFoundException/ER
+:/ER
+android/ER
+./ER
+androcrane/ER
+./ER
+htlottakring/ER
+./ER
+Androcrane/ER
+in/ER
+loader/ER
+dalvik/ER
+./ER
+system/ER
+./ER
+PathClassLoader/ER
+[/ER
+//ER
+data/ER
+//ER
+app/ER
+//ER
+android/ER
+./ER
+androcrane/ER
+./ER
+htlottakring/ER
+-/ER
+2./ER
+apk/ER
+]/ER
+
+this/DT
+is/VBZ
+the/DT
+error/NN
+causing/VBG
+the/DT
+crash/NN
+,/,
+sometimes/RB
+it/PRP
+'s/VBZ
+due/JJ
+to/TO
+errors/NNS
+while/IN
+building/VBG
+project/NN
+and/CC
+building/VBG
+it/PRP
+again/RB
+is/VBZ
+enough/RB
+to/TO
+fix/VB
+it/PRP
+./.
+@JRaymond/USR
+sorry/UH
+I/PRP
+do/VBP
+n't/RB
+I/PRP
+understand/VBP
+what/WP
+you/PRP
+mean/VBP
+by/IN
+breakpoint/C NA
+://UH
+I/PRP
+understand/VBP
+,/,
+I/PRP
+ll/MD
+try/VB
+to/TO
+post/VB
+just/RB
+what/WP
+'s/VBZ
+important/JJ
+in/IN
+my/PRP$
+code/NN
+!/.
+
+I/PRP
+ve/VBP
+got/VBD
+a/DT
+init/C NA
+Method/NN
+where/WRB
+I/PRP
+have/VBP
+:/.
+
+sp/JC NA
+=/JC NA
+getSharedPreferences/JC NA
+(/JC NA
+fileName/JC NA
+,/JC NA
+0/JC NA
+)/JC NA
+;/JC NA
+
+betaView/JC NA
+=/JC NA
+(/JC NA
+TextView/JC NA
+)/JC NA
+findViewById/JC NA
+(/JC NA
+R/JC NA
+./JC NA
+id/JC NA
+./JC NA
+betaTextView/JC NA
+)/JC NA
+;/JC NA
+
+And/CC
+I/PRP
+got/VBD
+a/DT
+OnclickLisener/C NA
+with/IN
+the/DT
+following/JJ
+code/NN
+:/.
+
+case/JC NA
+R/JC NA
+./JC NA
+id/JC NA
+./JC NA
+btnSend/JC NA
+:/JC NA
+saved/JC NA
++=/JC NA
+"*"/JC NA
++/JC NA
+editTextFelt/JC NA
+./JC NA
+getText/JC NA
+(/JC NA
+)/JC NA
+./JC NA
+toString/JC NA
+(/JC NA
+)/JC NA
++/JC NA
+". \n"/JC NA
+;/JC NA
+SharedPreferences/JC NA
+./JC NA
+Editor/JC NA
+editor/JC NA
+=/JC NA
+sp/JC NA
+./JC NA
+edit/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+editor/JC NA
+./JC NA
+putString/JC NA
+(/JC NA
+"SAVED"/JC NA
+,/JC NA
+saved/JC NA
+)/JC NA
+;/JC NA
+editor/JC NA
+./JC NA
+commit/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+betaView/JC NA
+./JC NA
+setText/JC NA
+(/JC NA
+sp/JC NA
+./JC NA
+getString/JC NA
+(/JC NA
+"SAVED"/JC NA
+,/JC NA
+"Empty"/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+@PatriciaShanahan/USR
+At/IN
+that/DT
+point/NN
+I/PRP
+would/MD
+recommend/VB
+a/DT
+Map/JC
+</JC
+Integer/JC
+,/JC
+Item/JC
+>/JC
+./.
+I/PRP
+think/VBP
+@BheshGurung/USR
+may/MD
+have/VB
+fixed/VBN
+it/PRP
+./.
+
+It/PRP
+has/VBZ
+n't/RB
+thrown/VBN
+a/DT
+error/NN
+yet/RB
+./.
+
+I/PRP
+ll/MD
+send/VB
+a/DT
+beta/NN
+out/IN
+tonight/NN
+and/CC
+see/VB
+if/IN
+I/PRP
+can/MD
+get/VB
+others/NNS
+to/TO
+throw/VB
+the/DT
+error/NN
+./.
+Isntead/RB
+of/IN
+Calendar/C
+class/NN
+,/,
+why/WRB
+dont/VBP
+you/PRP
+use/C
+joda-time/C
+that/WDT
+provides/VBZ
+more/RBR
+real/JJ
+realization/NN
+of/IN
+earth/NN
+date/NN
+and/CC
+time/NN
+./.
+
+And/CC
+agree/VBP
+with/IN
+Mr./NNP
+@JonSkeet/USR
+,/,
+about/IN
+loss/NN
+of/IN
+information/NN
+./.
+
+Also/RB
+think/VB
+about/IN
+the/DT
+question/NN
+he/PRP
+asks/VBZ
+./.
+Do/VBP
+you/PRP
+check/VB
+if/IN
+the/DT
+external/JJ
+storage/NN
+is/VBZ
+actually/RB
+mounted/VBN
+?/.
+
+With/IN
+this/DT
+:/:
+getExternalStorageState/C
+(/C
+)/C
+returns/VBZ
+MEDIA_MOUNTED/C
+if/IN
+the/DT
+media/NNS
+is/VBZ
+present/JJ
+and/CC
+mounted/VBN
+at/IN
+its/PRP$
+mount/JJ
+point/NN
+with/IN
+read/JJ
+//CC
+write/JJ
+access/NN
+./.
+http://www.roseindia.net/java/beginners/DataConversion.shtml/URI
+,/,
+http://www.ehow.com/how_8708889_convert-integer-binary-array-java.html/URI
+../F
+
+Look/VB
+at/IN
+these/DT
+links/NNS
+if/IN
+you/PRP
+are/VBP
+looking/VBG
+for/IN
+tutorials/NNS
+@Vladimir/USR
+Lichonos/USR
+still/RB
+happens/VBZ
+without/IN
+update/C
+(/C
+)/C
+The/DT
+messages/NNS
+about/IN
+memory/NN
+are/VBP
+not/RB
+an/DT
+error/NN
+,/,
+although/IN
+they/PRP
+are/VBP
+clear/JJ
+in/IN
+what/WP
+might/MD
+be/VB
+happening/VBG
+-/:
+too/RB
+much/JJ
+code/NN
+on/IN
+your/PRP$
+UI/NN
+thread/NN
+./.
+
+The/DT
+real/JJ
+error/NN
+is/VBZ
+here/RB
+FATAL/ER
+EXCEPTION/ER
+:/ER
+main/ER
+
+11/ER
+-/ER
+10/ER
+15/ER
+:/ER
+21/ER
+:/ER
+04.315/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+942/ER
+)/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+RuntimeException/ER
+:/ER
+Expecting/ER
+menu/ER
+,/ER
+got/ER
+TabHost/ER
+hmmm/UH
+ok/UH
+i/PRP
+will/MD
+try/VB
+:-)/UH
+
+thanks/VBZ
+for/IN
+reply/VBP
+@Sam/USR
+./.
+java/ER
+./ER
+lang/ER
+./ER
+IllegalThreadStateException/ER
+
+at/ER
+java/ER
+./ER
+lang/ER
+./ER
+Thread/ER
+./ER
+start/ER
+(/ER
+Unknown/ER
+Source/ER
+)/ER
+
+at/ER
+com/ER
+./ER
+interplay/ER
+./ER
+viewer/ER
+./ER
+common/ER
+./ER
+DSTimer/ER
+./ER
+SetTimer/ER
+(/ER
+DSTimer/ER
+./ER
+java/ER
+:/ER
+93/ER
+)/ER
+
+at/ER
+com/ER
+./ER
+interplay/ER
+./ER
+viewer/ER
+./ER
+signage/ER
+./ER
+DisplayManager/ER
+./ER
+ResetDisplay/ER
+(/ER
+DisplayManager/ER
+./ER
+java/ER
+:/ER
+84/ER
+)/ER
+
+at/ER
+com/ER
+./ER
+interplay/ER
+./ER
+viewer/ER
+./ER
+signage/ER
+./ER
+ScheduleManager/ER
+./ER
+StopCurSchedule/ER
+(/ER
+ScheduleManager/ER
+./ER
+java/ER
+:/ER
+108/ER
+)/ER
+
+at/ER
+com/ER
+./ER
+interplay/ER
+./ER
+viewer/ER
+./ER
+signage/ER
+./ER
+ScheduleManager/ER
+./ER
+PlaySchedule/ER
+(/ER
+ScheduleManager/ER
+./ER
+java/ER
+:/ER
+83/ER
+)/ER
+
+at/ER
+com/ER
+./ER
+interplay/ER
+./ER
+viewer/ER
+./ER
+ViewerMain$3/ER
+./ER
+run/ER
+(/ER
+ViewerMain/ER
+./ER
+java/ER
+:/ER
+526/ER
+)/ER
+Caused/ER
+by/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+NullPointerException/ER
+
+11/ER
+-/ER
+25/ER
+13/ER
+:/ER
+20/ER
+:/ER
+55.313/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+467/ER
+)/ER
+:/ER
+at/ER
+com/ER
+./ER
+xample/ER
+./ER
+counter/ER
+./ER
+MainActivity/ER
+./ER
+onCreate/ER
+(/ER
+MainActivity/ER
+./ER
+java/ER
+:/ER
+28/ER
+)/ER
+
+We/PRP
+need/VBP
+to/TO
+see/VB
+your/PRP$
+onCreate/C NA
+(/C NA
+)/C NA
+@zapl/USR
+I/PRP
+know/VBP
+!/.
+
+At/IN
+least/JJS
+allow/VB
+me/PRP
+to/TO
+check/VB
+for/IN
+null/NN
+before/IN
+slapping/VBG
+me/PRP
+on/IN
+the/DT
+wrist/NN
+./.
+
+lol/UH
+@aftab/USR
+:/:
+*/SYM
+"/''
+if/IN
+you/PRP
+can/MD
+guide/NN
+more/RBR
+about/IN
+GUID/NN
+?/.
+"/''
+*/SYM
+
+I/PRP
+link/VBP
+to/TO
+the/DT
+Android/NNP
+UUID/NN
+class/NN
+documentation/NN
+in/IN
+my/PRP$
+answer/NN
+./.
+@Toad/USR
+actually/RB
+yes/UH
+,/,
+some/DT
+Unicode/NNP
+characters/NNS
+when/WRB
+stored/VBN
+as/IN
+UTF-16/NNP
+take/VB
+up/RP
+two/CD
+code/NN
+points/NNS
+,/,
+i.e./FW
+32/CD
+bits/NNS
+./.
+
+The/DT
+same/JJ
+happens/VBZ
+in/IN
+UTF-8/NNP
+:/:
+some/DT
+characters/NNS
+use/VBP
+two/CD
+//CC
+three/CD
+//CC
+four/CD
+code/NN
+points/NNS
+,/,
+i.e./FW
+16/CD
+//CC
+24/CD
+//CC
+32/CD
+bits/NNS
+./.
+
+In/IN
+fact/NN
+,/,
+that/DT
+'s/VBZ
+exactly/RB
+what/WP
+UTF/NNP
+is/VBZ
+about/IN
+(/-LRB-
+i.e./FW
+UTF/NNP
+!=/SYM
+Unicode/NNP
+)/-RRB-
+./.
+You/PRP
+seem/VBP
+to/TO
+be/VB
+misunderstanding/VBG
+./.
+
+There/EX
+is/VBZ
+always/RB
+an/DT
+/sdcard/URI
+partition/NN
+,/,
+even/RB
+if/IN
+it/PRP
+is/VBZ
+virtual/JJ
+./.
+
+But/CC
+with/IN
+the/DT
+4.2/CD
+update/NN
+,/,
+the/DT
+handling/NN
+of/IN
+/sdcard/URI
+is/VBZ
+completely/RB
+different/JJ
+./.
+
+Accessing/VBG
+the/DT
+sdcard/NN
+partition/NN
+(/-LRB-
+in/IN
+code/NN
+)/-RRB-
+no/DT
+longer/JJR
+points/NNS
+you/PRP
+to/TO
+the/DT
+*/SYM
+real/JJ
+*/SYM
+/sdcard/URI
+,/,
+it/PRP
+points/NNS
+you/PRP
+to/TO
+a/DT
+virtual/NN
+"/``
+partition/NN
+"/''
+of/IN
+the/DT
+sdcard/NN
+which/WDT
+is/VBZ
+specific/JJ
+to/TO
+the/DT
+current/JJ
+user/NN
+./.
+
+Keep/VB
+in/IN
+mind/NN
+that/IN
+the/DT
+app/NN
+I/PRP
+'m/VBP
+developing/VBG
+works/VBZ
+just/RB
+fine/JJ
+on/IN
+Android/NNP
+versions/NNS
+below/IN
+4.2/CD
+,/,
+regardless/RB
+of/IN
+device/NN
+./.
+See/VB
+https://android.googlesource.com/platform/docs/source.android.com/+/master/src/tech/storage/index.md/URI
+"/``
+At/IN
+boot/NN
+,/,
+the/DT
+system/NN
+mounts/VBZ
+a/DT
+single/JJ
+emulated/VBN
+external/JJ
+storage/NN
+FUSE/C
+daemon/NN
+at/IN
+EMULATED_STORAGE_SOURCE/C
+,/,
+which/WDT
+is/VBZ
+hidden/JJ
+from/IN
+apps/NNS
+./.
+
+After/IN
+the/DT
+Zygote/NNP
+forks/NNS
+,/,
+it/PRP
+bind/VBP
+mounts/VBZ
+the/DT
+appropriate/JJ
+user-specific/JJ
+subdirectory/NN
+from/IN
+under/IN
+the/DT
+FUSE/C
+daemon/NN
+to/TO
+EMULATED_STORAGE_TARGET/C
+so/IN
+that/DT
+external/JJ
+storage/NN
+paths/NNS
+resolve/VBP
+correctly/RB
+for/IN
+the/DT
+app/NN
+./.
+
+Because/IN
+an/DT
+app/NN
+lacks/VBZ
+accessible/JJ
+mount/NN
+points/NNS
+for/IN
+other/JJ
+usersâ€™/NNS
+storage/NN
+,/,
+they/PRP
+can/MD
+only/RB
+access/VB
+storage/NN
+for/IN
+the/DT
+user/NN
+it/PRP
+was/VBZ
+started/VBN
+as/IN
+./.
+"/''
+
+so/IN
+you/PRP
+likely/RB
+need/VBP
+root/NN
+./.
+try/VB
+adding/VBG
+@/C
+Override/C
+?/.
+@M/USR
+Mohsin/USR
+Naeem/USR
+,/,
+@Siddharth/USR
+Lele/USR
+:/:
+Yes/UH
+Your/PRP$
+(/-LRB-
+sorta/FW
+)/-RRB-
+snippit/NN
+is/VBZ
+n't/RB
+valid/JJ
+JSON/NNP
+for/IN
+one/CD
+(/-LRB-
+strings/NNS
+have/VBP
+to/TO
+be/VB
+quoted/VBN
+)/-RRB-
+./.
+
+Aside/RB
+from/IN
+that/DT
+,/,
+what/WP
+@11684/USR
+says/VBZ
+above/IN
+;/:
+You/PRP
+'d/MD
+need/VB
+to/TO
+do/VB
+something/NN
+such/JJ
+as/IN
+Base64/NNP
+encode/VB
+your/PRP$
+image/NN
+to/TO
+avoid/VB
+breaking/VBG
+JSON/NNP
+./.
+@CommonsWare/USR
+:/:
+That/DT
+'s/VBZ
+an/DT
+interesting/JJ
+idea/NN
+,/,
+but/CC
+a/LS
+)/-RRB-
+setKeepScreenOn/C
+(/C
+)/C
+is/VBZ
+a/DT
+View/C
+method/NN
+,/,
+not/RB
+an/DT
+Activity/C
+method/NN
+,/,
+and/CC
+b/LS
+)/-RRB-
+even/RB
+if/IN
+it/PRP
+were/VBD
+an/DT
+Activity/C
+method/NN
+,/,
+what/WP
+if/IN
+the/DT
+activity/NN
+(/-LRB-
+or/CC
+view/NN
+)/-RRB-
+itself/PRP
+had/VBD
+requested/VBN
+setKeepScreenOn/C
+(/C
+)/C
+?/.
+
+Then/RB
+my/PRP$
+touch-generating/JJ
+thread/NN
+would/MD
+overwrite/VB
+//CC
+reset/VB
+the/DT
+value/NN
+,/,
+which/WDT
+is/VBZ
+n't/RB
+really/RB
+what/WP
+I/PRP
+want/VBP
+to/TO
+do/VB
+./.
+@JonathanGarcÃ­a/USR
+that/WDT
+just/RB
+means/VBZ
+the/DT
+object/NN
+is/VBZ
+an/DT
+array/NN
+,/,
+which/WDT
+is/VBZ
+valid/JJ
+JSON/NNP
+AFAIK/UH
+./.
+what/WP
+i/PRP
+would/MD
+like/VB
+to/TO
+do/VB
+is/VBZ
+this/DT
+:/.
+
+1/LS
+./SYM
+in/IN
+the/DT
+drawable/C NA
+folder/NN
+,/,
+i/PRP
+have/VBP
+a/DT
+group/NN
+of/IN
+images/NNS
+./.
+
+i/PRP
+do/VBP
+nt/RB
+know/VB
+their/PRP$
+names/NNS
+because/IN
+they/PRP
+will/MD
+be/VB
+added/VBN
+by/IN
+the/DT
+user/NN
+at/IN
+run/NN
+time/NN
+
+2/LS
+./SYM
+i/PRP
+want/VBP
+to/TO
+load/VB
+these/DT
+images/NNS
+into/IN
+gridview/C NA
+@Vince/USR
+:/:
+I/PRP
+do/VBP
+not/RB
+see/VB
+this/DT
+:/:
+Log/JC NA
+./JC NA
+d/JC NA
+(/JC NA
+"int Name"/JC NA
+,/JC NA
+Integer/JC NA
+./JC NA
+toString/JC NA
+(/JC NA
+nameColumn/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+
+Log/JC NA
+./JC NA
+d/JC NA
+(/JC NA
+"int Number"/JC NA
+,/JC NA
+Integer/JC NA
+./JC NA
+toString/JC NA
+(/JC NA
+phoneColumn/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+in/IN
+logs/NNS
+./.
+Yes/UH
+,/,
+it/PRP
+turns/VBZ
+on/IN
+hotspot/NN
+alright/RB
+./.
+
+But/CC
+now/RB
+I/PRP
+'m/VBP
+facing/VBG
+the/DT
+new/JJ
+problems/NNS
+./.
+
+1/LS
+./SYM
+How/WRB
+to/TO
+change/VB
+our/PRP$
+hotspot/NN
+device/JJ
+IP/NNP
+programmatically/RB
+??/.
+
+2/LS
+./SYM
+How/WRB
+can/MD
+we/PRP
+config/VB
+DHCP/NNP
+options/NNS
+like/IN
+,/,
+IP/NNP
+distribution/NN
+range/NN
+??/.
+
+Are/VBP
+there/EX
+any/DT
+methods/NNS
+that/WDT
+can/MD
+do/VB
+things/NNS
+like/IN
+that/DT
+??/.
+I/PRP
+am/VBP
+using/VBG
+[/-LRB-
+Pull-To-Refresh/C NA
+Library/C NA
+]/-RRB-
+(/-LRB-
+https://github.com/chrisbanes/Android-PullToRefresh/URI
+)/-RRB-
+which/WDT
+make/VBP
+the/DT
+dividers/NNS
+disappear/VBP
+in/IN
+the/DT
+ListView/C NA
+./.
+
+I/PRP
+have/VBP
+no/DT
+clue/NN
+how/WRB
+to/TO
+solve/VB
+it/PRP
+,/,
+I/PRP
+appreciate/VBP
+if/IN
+you/PRP
+help/VBP
+me/PRP
+in/IN
+this/DT
+case/NN
+./.
+That/DT
+would/MD
+be/VB
+Bitmap/JC
+mapImage/JC
+=/JC
+TMXLoader/JC
+./JC
+createBitmap/JC
+(/JC
+t/JC
+,/JC
+this/JC
+,/JC
+0/JC
+,/JC
+t/JC
+./JC
+layers/JC
+./JC
+size/JC
+(/JC
+)/JC
+)/JC
+;/JC
+remove/VB
+this/DT
+all/DT
+
+HttpConnectionParams/JC NA
+./JC NA
+setConnectionTimeout/JC NA
+(/JC NA
+httpParameters/JC NA
+,/JC NA
+1000000/JC NA
+)/JC NA
+;/JC NA
+
+HttpConnectionParams/JC NA
+./JC NA
+setSoTimeout/JC NA
+(/JC NA
+httpParameters/JC NA
+,/JC NA
+1000000/JC NA
+)/JC NA
+;/JC NA
+
+HttpConnectionParams/JC NA
+./JC NA
+setTcpNoDelay/JC NA
+(/JC NA
+httpParameters/JC NA
+,/JC NA
+true/JC NA
+)/JC NA
+;/JC NA
+I/PRP
+am/VBP
+overriding/VBG
+onKey/C NA
+on/IN
+my/PRP$
+activity/NN
+that/WDT
+implements/VBZ
+onClickListener/C NA
+:/.
+
+public/JC NA
+class/JC NA
+Foo/JC NA
+implements/JC NA
+OnClickListener/JC NA
+{/JC NA
+../F
+public/JC NA
+void/JC NA
+onKey/JC NA
+(/JC NA
+View/JC NA
+arg0/JC NA
+,/JC NA
+int/JC NA
+arg1/JC NA
+,/JC NA
+KeyEvent/JC NA
+arg2/JC NA
+)/JC NA
+{/JC NA
+if/JC NA
+(/JC NA
+arg0/JC NA
+==/JC NA
+searchBox/JC NA
+)/JC NA
+{/JC NA
+///CCM
+do/VB|CCM
+something/NN|CCM
+}/JC NA
+}/JC NA
+../F
+}/JC NA
+where/WRB
+searchBox/C
+is/VBZ
+an/DT
+EditText/C
+E/ER
+//ER
+Cursor/ER
+(/ER
+1299/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+view/ER
+./ER
+View/ER
+./ER
+performClick/ER
+(/ER
+View/ER
+./ER
+java/ER
+:/ER
+2408/ER
+)/ER
+
+01/ER
+-/ER
+16/ER
+21/ER
+:/ER
+40/ER
+:/ER
+26.108/ER
+:/ER
+E/ER
+//ER
+Cursor/ER
+(/ER
+1299/ER
+)/ER
+:/ER
+Finalizing/ER
+a/ER
+Cursor/ER
+that/ER
+has/ER
+not/ER
+been/ER
+deactivated/ER
+or/ER
+closed/ER
+./ER
+database/ER
+=/ER
+//ER
+data/ER
+//ER
+data/ER
+//ER
+com/ER
+./ER
+lisnx/ER
+./ER
+activity/ER
+//ER
+databases/ER
+//ER
+lisnx/ER
+./ER
+db/ER
+,/ER
+table/ER
+=/ER
+access_token/ER
+,/ER
+query/ER
+=/ER
+SELECT/ER
+token/ER
+FROM/ER
+access_token/ER
+
+01/ER
+-/ER
+16/ER
+21/ER
+:/ER
+40/ER
+:/ER
+26.108/ER
+:/ER
+E/ER
+//ER
+Cursor/ER
+(/ER
+1299/ER
+)/ER
+:/ER
+android/ER
+./ER
+database/ER
+./ER
+sqlite/ER
+./ER
+DatabaseObjectNotClosedException/ER
+:/ER
+Application/ER
+did/ER
+not/ER
+close/ER
+the/ER
+cursor/ER
+or/ER
+database/ER
+object/ER
+that/ER
+was/ER
+opened/ER
+here/ER
+
+Have/VBP
+you/PRP
+closed/VBD
+your/PRP$
+database/NN
+'s/POS
+cursor/NN
+?/.
+I/PRP
+never/RB
+use/VBP
+@/JC
+SuppressWarnings/JC
+,/,
+so/IN
+I/PRP
+have/VBP
+no/DT
+idea/NN
+why/WRB
+but/CC
+it/PRP
+causes/VBZ
+the/DT
+error/NN
+.../.
+@Code-Guru/USR
+,/,
+I/PRP
+think/VBP
+he/PRP
+means/VBZ
+that/IN
+it/PRP
+returns/VBZ
+true/JJ
+when/WRB
+email/NN
+=/SYM
+"/``
+asdf@asdf/URI
+"/''
+and/CC
+Fernando/NNP
+expected/VBD
+false/JJ
+./.
+@/JC NA
+Override/JC NA
+public/JC NA
+void/JC NA
+onCreate/JC NA
+(/JC NA
+Bundle/JC NA
+icicle/JC NA
+)/JC NA
+{/JC NA
+super/JC NA
+./JC NA
+onCreate/JC NA
+(/JC NA
+icicle/JC NA
+)/JC NA
+;/JC NA
+setContentView/JC NA
+(/JC NA
+R/JC NA
+./JC NA
+layout/JC NA
+./JC NA
+main/JC NA
+)/JC NA
+;/JC NA
+ideText/JC NA
+=/JC NA
+(/JC NA
+EditText/JC NA
+)/JC NA
+findViewById/JC NA
+(/JC NA
+R/JC NA
+./JC NA
+id/JC NA
+./JC NA
+ide/JC NA
+)/JC NA
+;/JC NA
+ln/JC NA
+=/JC NA
+(/JC NA
+TextView/JC NA
+)/JC NA
+findViewById/JC NA
+(/JC NA
+R/JC NA
+./JC NA
+id/JC NA
+./JC NA
+lineNumbers/JC NA
+)/JC NA
+;/JC NA
+///CCM
+Create/VB|CCM
+Line/NN|CCM
+Numbers/NNS|CCM
+for/JC NA
+(/JC NA
+int/JC NA
+i/JC NA
+=/JC NA
+0/JC NA
+;/JC NA
+i/JC NA
+</JC NA
+ideText/JC NA
+./JC NA
+getLineCount/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+i/JC NA
+++/JC NA
+)/JC NA
+{/JC NA
+ln/JC NA
+./JC NA
+append/JC NA
+(/JC NA
+i/JC NA
++/JC NA
+"\n"/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+}/JC NA
+@YasmaniLlanes/USR
+Oh/UH
+yes/UH
+you/PRP
+'re/VBP
+right/JJ
+!/.
+
+I/PRP
+was/VBD
+pretty/RB
+sure/JJ
+it/PRP
+was/VBD
+switch/JC
+(/JC
+strReason/JC
+)/JC
+-_-/UH
+./C
+
+Sorry/JJ
+for/IN
+that/DT
+./.
+01/ER
+-/ER
+22/ER
+17/ER
+:/ER
+36/ER
+:/ER
+24.080/ER
+:/ER
+D/ER
+//ER
+count/ER
+(/ER
+11397/ER
+)/ER
+:/ER
+4/ER
+
+logging/VBG
+count/C
+returns/VBZ
+4/CD
+
+01/ER
+-/ER
+22/ER
+17/ER
+:/ER
+36/ER
+:/ER
+24.095/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+11397/ER
+)/ER
+:/ER
+Caused/ER
+by/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+IndexOutOfBoundsException/ER
+:/ER
+Invalid/ER
+index/ER
+0/ER
+,/ER
+size/ER
+is/ER
+0/ER
+although/IN
+it/PRP
+seems/VBZ
+otherwise/RB
+./.
+
+01/ER
+-/ER
+22/ER
+17/ER
+:/ER
+36/ER
+:/ER
+24.095/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+11397/ER
+)/ER
+:/ER
+at/ER
+com/ER
+./ER
+example/ER
+./ER
+myapp/ER
+./ER
+MoveFiles/ER
+./ER
+doInBackground/ER
+(/ER
+MoveFiles/ER
+./ER
+java/ER
+:/ER
+32/ER
+)/ER
+
+MoveFiles/ER
+./ER
+java/ER
+line/ER
+32/ER
+:/ER
+copyDirectory/ER
+(/ER
+files/ER
+./ER
+get/ER
+(/ER
+i/ER
+)/ER
+,/ER
+destination/ER
+)/ER
+;/ER
+
+what/WP
+'s/VBZ
+going/VBG
+onnnn/IN
+@Chloe/USR
+I/PRP
+think/VBP
+your/PRP$
+problem/NN
+is/VBZ
+in/IN
+this/DT
+line/NN
+resultCon/JC NA
+=/JC NA
+Integer/JC NA
+./JC NA
+parseInt/JC NA
+(/JC NA
+odmEditStr/JC NA
+)/JC NA
+-/JC NA
+Integer/JC NA
+./JC NA
+parseInt/JC NA
+(/JC NA
+lastOdm/JC NA
+)/JC NA
+//JC NA
+Integer/JC NA
+./JC NA
+parseInt/JC NA
+(/JC NA
+pumpEditStr/JC NA
+)/JC NA
+;/JC NA
+right/VB
+?/.
+@SatyakiMukherjee/USR
+i/PRP
+'ve/VBP
+change/VB
+to/TO
+double/C NA
+./C NA
+parseDouble/C NA
+./.
+
+I/PRP
+do/VBP
+n't/RB
+know/VB
+how/WRB
+to/TO
+retrieve/VB
+the/DT
+previous/JJ
+data/NNS
+../F
+
+I/PRP
+wanted/VBD
+to/TO
+use/VB
+my/PRP$
+current/JJ
+data/NNS
+minus/IN
+my/PRP$
+previous/JJ
+data/NNS
+@nr4bt/USR
+:/:
+i/PRP
+added/VBN
+my/PRP$
+logcat/NN
+output/NN
+(/-LRB-
+to/TO
+me/PRP
+it/PRP
+always/RB
+seems/VBZ
+very/RB
+hard/JJ
+to/TO
+make/VB
+anything/NN
+out/IN
+of/IN
+that/DT
+:(/UH
+)/-RRB-
+@turbo/USR
+shhh/UH
+.../F
+its/PRP$
+opening/VBG
+some/DT
+top/JJ
+secret/NN
+Nasa/NNP
+page/NN
+xD/UH
+Try/VB
+to/TO
+return/C NA
+1/C NA
+in/IN
+your/PRP$
+@/JC
+Override/JC
+public/JC
+int/JC
+getViewTypeCount/JC
+(/JC
+)/JC
+{/JC
+///CCM
+TODO/VB|CCM
+Auto-generated/JJ|CCM
+method/NN|CCM
+stub/NN|CCM
+return/JC
+0/JC
+;/JC
+}/JC
+method/NN
+./.
+OMG/UH
+THAT/WDT
+WORKS/VBZ
+,/,
+yes/UH
+my/PRP$
+SD/NN
+card/NN
+was/VBZ
+nt/RB
+mounted/VBN
+!/.
+
+http://stackoverflow.com/questions/7493225/android-emulator-any-accessible-storage-space/URI
+
+however/RB
+,/,
+Chris/NNP
+Stratton/NNP
+i/PRP
+have/VBP
+to/TO
+give/VB
+you/PRP
+reputation/NN
+for/IN
+your/PRP$
+help/NN
+,/,
+how/WRB
+to/TO
+do/VB
+that/DT
+?/.
+
+By/IN
+the/DT
+way/NN
+,/,
+now/RB
+how/WRB
+to/TO
+read/VB
+//CC
+change/VB
+files/NNS
+?!/.
+(:/UH
+that/WDT
+gives/VBZ
+me/PRP
+an/DT
+error/NN
+in/IN
+graphical/JJ
+layout/NN
+:/:
+</C
+RelativeLayout/C
+>/C
+"/C
+does/VBZ
+not/RB
+set/VB
+the/DT
+required/VBN
+layout_width/C
+attribute/NN
+:/.
+
+(/-LRB-
+1/LS
+)/-RRB-
+Set/VB
+to/TO
+"/``
+wrap_content/C NA
+"/''
+
+(/-LRB-
+2/LS
+)/-RRB-
+Set/VB
+to/TO
+"/``
+match_parent/C NA
+"/''
+
+"/``
+</C NA
+RelativeLayout/C NA
+>/C NA
+"/''
+does/VBZ
+not/RB
+set/VB
+the/DT
+required/VBN
+layout_height/C NA
+attribute/NN
+:/.
+
+(/-LRB-
+1/LS
+)/-RRB-
+Set/VB
+to/TO
+"/``
+wrap_content/C NA
+"/''
+
+(/-LRB-
+2/LS
+)/-RRB-
+Set/VB
+to/TO
+"/``
+match_parent/C NA
+"/''
+
+You/PRP
+must/MD
+supply/VB
+a/DT
+layout_width/C NA
+attribute/NN
+./.
+
+You/PRP
+must/MD
+supply/VB
+a/DT
+layout_height/C NA
+attribute/NN
+./.
+Could/MD
+you/PRP
+please/VB
+try/NN
+like/IN
+this/DT
+../.
+
+AudioManager/JC
+./JC
+setMode/JC
+(/JC
+AudioManager/JC
+./JC
+MODE_IN_CALL/JC
+)/JC
+;/JC
+
+AudioManager/JC
+./JC
+setStreamSolo/JC
+(/JC
+AudioManager/JC
+./JC
+STREAM_VOICE_CALL/JC
+,/JC
+true/JC
+)/JC
+;/JC
+
+then/RB
+remove/VB
+it/PRP
+later/RB
+by/IN
+
+AudioManager/JC
+./JC
+setStreamSolo/JC
+(/JC
+AudioManager/JC
+./JC
+STREAM_VOICE_CALL/JC
+,/JC
+false/JC
+)/JC
+;/JC
+
+AudioManager/JC
+./JC
+setMode/JC
+(/JC
+AudioManager/JC
+./JC
+MODE_NORMAL/JC
+)/JC
+;/JC
+yes/UH
+it/PRP
+is/VBZ
+'/``
+MenuItem/C NA
+'/''
+@Stan/USR
+This/DT
+can/MD
+not/RB
+be/VB
+./.
+
+This/DT
+should/MD
+not/RB
+happen/VB
+./.
+
+I/PRP
+propose/VBP
+to/TO
+create/VB
+a/DT
+sandbox/NN
+example/NN
+that/WDT
+has/VBZ
+this/DT
+glitch/NN
+./.
+
+At/IN
+first/RB
+,/,
+let/VB
+us/PRP
+use/VB
+Log/JC
+./JC
+d/JC
+(/JC
+tag/JC
+,/JC
+string/JC
+)/JC
+instead/RB
+of/IN
+Log/C
+(/C
+x/C
+)/C
+,/,
+we/PRP
+do/VBP
+not/RB
+know/VB
+how/WRB
+that/DT
+function/NN
+is/VBZ
+defined/VBN
+./.
+
+At/IN
+second/JJ
+,/,
+how/WRB
+the/DT
+class/C NA
+FooBar/C NA
+is/VBZ
+defined/VBN
+?/.
+
+How/WRB
+its/PRP$
+toString/C NA
+(/C NA
+)/C NA
+method/NN
+is/VBZ
+defined/VBN
+?/.
+
+I/PRP
+can/MD
+think/VB
+out/RP
+a/DT
+case/NN
+where/WRB
+a/DT
+FooBar/C NA
+has/VBZ
+a/DT
+reference/NN
+to/TO
+another/DT
+FooBar/C NA
+and/CC
+forwards/VBZ
+all/DT
+messages/NNS
+to/TO
+it/PRP
+,/,
+including/VBG
+toString/C NA
+(/C NA
+)/C NA
+./.
+Sort/NN
+of/IN
+:/.
+
+class/JC
+X/JC
+{/JC
+X/JC
+other/JC
+;/JC
+public/JC
+String/JC
+toString/JC
+(/JC
+)/JC
+{/JC
+if/JC
+(/JC
+other/JC
+!=/JC
+null/JC
+)/JC
+return/JC
+other/JC
+./JC
+toString/JC
+(/JC
+)/JC
+;/JC
+else/JC
+return/JC
+super/JC
+./JC
+toString/JC
+(/JC
+)/JC
+;/JC
+}/JC
+public/JC
+void/JC
+doSomething/JC
+(/JC
+)/JC
+{/JC
+if/JC
+(/JC
+other/JC
+!=/JC
+null/JC
+)/JC
+{/JC
+other/JC
+./JC
+doSomething/JC
+(/JC
+)/JC
+;/JC
+return/JC
+;/JC
+}/JC
+.../F
+}/JC
+}/JC
+@Gangnus/USR
+sir/NN
+yes/UH
+sir/NN
+:)/UH
+Thank/VB
+you/PRP
+for/IN
+the/DT
+input/NN
+./.
+
+I/PRP
+have/VBP
+looked/VBN
+(/-LRB-
+and/CC
+understood/VBN
+)/-RRB-
+the/DT
+link/NN
+tha/WDT
+thou/PRP
+sent/VBN
+me/PRP
+,/,
+but/CC
+somehow/RB
+I/PRP
+run/VBP
+into/IN
+an/DT
+issue/NN
+because/IN
+;/:
+when/WRB
+I/PRP
+am/VBP
+loading/VBG
+the/DT
+images/NNS
+into/IN
+a/DT
+list/NN
+(/-LRB-
+reference/NN
+to/TO
+the/DT
+images/NNS
+that/WDT
+are/VBP
+to/TO
+be/VB
+used/VBN
+in/IN
+the/DT
+memory/NN
+game/VBD
+)/-RRB-
+the/DT
+references/NNS
+are/VBP
+all/DT
+integers/NNS
+(/-LRB-
+refs/NNS
+to/TO
+ints/NNS
+)/-RRB-
+but/CC
+the/DT
+resource/NN
+used/VBN
+in/IN
+the/DT
+example/NN
+from/IN
+the/DT
+link/NN
+is/VBZ
+a/DT
+bitmap/NN
+)/-RRB-
+./.
+
+My/PRP$
+question/NN
+now/RB
+is/VBZ
+how/WRB
+to/TO
+convert/VB
+the/DT
+bitmap/NN
+into/IN
+something/NN
+that/WDT
+could/MD
+be/VB
+used/VBN
+in/IN
+the/DT
+list/NN
+-/--
+or/CC
+maybe/RB
+my/PRP$
+question/NN
+is/VBZ
+intact/JJ
+,/,
+should/MD
+I/PRP
+used/VBD
+something/NN
+else/RB
+than/IN
+a/DT
+list/NN
+of/IN
+int/NN
+references/NNS
+to/TO
+be/VB
+able/JJ
+to/TO
+use/VB
+the/DT
+bitmap/NN
+as/IN
+a/DT
+reference/NN
+?/.
+I/PRP
+got/VBD
+this/DT
+error/NN
+and/CC
+wondered/VBD
+what/WP
+it/PRP
+meant/VBD
+,/,
+then/RB
+I/PRP
+figured/VBD
+out/RP
+that/IN
+it/PRP
+happened/VBD
+because/IN
+**/SYM
+it/PRP
+could/MD
+n't/RB
+find/VB
+the/DT
+file/NN
+to/TO
+load/VB
+**/SYM
+./.
+
+Despite/IN
+this/DT
+might/MD
+be/VB
+unrelated/JJ
+to/TO
+this/DT
+post/NN
+,/,
+which/WDT
+I/PRP
+have/VBP
+n't/RB
+even/RB
+read/VB
+,/,
+I/PRP
+post/NN
+it/PRP
+here/RB
+because/IN
+it/PRP
+'s/VBZ
+the/DT
+only/JJ
+result/NN
+I/PRP
+get/VBP
+on/IN
+google/NNP
+searching/VBG
+for/IN
+this/DT
+error/NN
+,/,
+so/IN
+I/PRP
+guess/VBP
+it/PRP
+'s/VBZ
+worth/JJ
+noticeing/VBG
+anyway/RB
+./.
+here/RB
+is/VBZ
+my/PRP$
+code/NN
+:/.
+
+class/JC NA
+A/JC NA
+extends/JC NA
+Activity/JC NA
+{/JC NA
+public/JC NA
+boolean/JC NA
+flag/JC NA
+=/JC NA
+false/JC NA
+;/JC NA
+}/JC NA
+
+class/JC NA
+B/JC NA
+extends/JC NA
+ListActivity/JC NA
+{/JC NA
+if/JC NA
+(/JC NA
+flag/JC NA
+)/JC NA
+///CCM
+error/NN|CCM
+here/RB|CCM
+:/:|CCM
+flag/NN|CCM
+can/MD|CCM
+not/RB|CCM
+be/VB|CCM
+resolved/VBN|CCM
+}/JC NA
+
+A/JC NA
+and/CC
+B/JC NA
+belong/VBP
+to/TO
+the/DT
+same/JJ
+package/NN
+and/CC
+I/PRP
+'ve/VBP
+also/RB
+included/VBN
+the/DT
+line/NN
+import/JC NA
+org/JC NA
+./JC NA
+example/JC NA
+./JC NA
+Myapp/JC NA
+./JC NA
+A/JC NA
+in/IN
+the/DT
+B.java/URI
+file/NN
+yes/UH
+./.
+
+your/PRP$
+code/NN
+compiled/VBN
+fine/JJ
+./.
+
+I/PRP
+just/RB
+do/VBP
+n't/RB
+understand/VB
+why/WRB
+I/PRP
+'m/VBP
+having/VBG
+a/DT
+problem/NN
+./.
+
+Please/VB
+see/VB
+my/PRP$
+code/NN
+below/IN
+./.
+
+here/RB
+is/VBZ
+my/PRP$
+code/NN
+:/.
+
+class/JC NA
+A/JC NA
+extends/JC NA
+Activity/JC NA
+{/JC NA
+public/JC NA
+boolean/JC NA
+flag/JC NA
+=/JC NA
+false/JC NA
+;/JC NA
+}/JC NA
+
+class/JC NA
+B/JC NA
+extends/JC NA
+ListActivity/JC NA
+{/JC NA
+if/JC NA
+(/JC NA
+flag/JC NA
+)/JC NA
+///CCM
+error/NN|CCM
+here/RB|CCM
+:/:|CCM
+flag/NN|CCM
+can/MD|CCM
+not/RB|CCM
+be/VB|CCM
+resolved/VBN|CCM
+}/JC NA
+
+A/JC NA
+and/CC
+B/JC NA
+belong/VBP
+to/TO
+the/DT
+same/JJ
+package/NN
+and/CC
+I/PRP
+'ve/VBP
+also/RB
+included/VBN
+the/DT
+line/NN
+import/JC NA
+org/JC NA
+./JC NA
+example/JC NA
+./JC NA
+Myapp/JC NA
+./JC NA
+A/JC NA
+in/IN
+the/DT
+B.java/URI
+file/NN
+I/PRP
+ca/MD
+n't/RB
+access/VB
+the/DT
+fields/NNS
+without/IN
+instantiation/NN
+,/,
+can/MD
+I/PRP
+?/.
+
+If/IN
+I/PRP
+have/VBP
+to/TO
+,/,
+I/PRP
+'d/MD
+have/VB
+to/TO
+make/VB
+it/PRP
+static/JJ
+?/.
+
+how/WRB
+can/MD
+I/PRP
+make/VB
+a/DT
+String/NN
+variable/NN
+static/JJ
+?/.
+@codeMagic/USR
+you/PRP
+'re/VBP
+an/DT
+expert/NN
+in/IN
+it/PRP
+;)/UH
+
+could/MD
+you/PRP
+give/VB
+me/PRP
+some/DT
+advice/NN
+?/.
+I/PRP
+tried/VBD
+this/DT
+implementation/NN
+but/CC
+result/NN
+of/IN
+hashing/NN
+is/VBZ
+n't/RB
+correct/JJ
+./.
+
+Code/NN
+:/.
+
+MessageDigest/JC NA
+md/JC NA
+=/JC NA
+MessageDigest/JC NA
+./JC NA
+getInstance/JC NA
+(/JC NA
+"SHA-224"/JC NA
+,/JC NA
+"SHA224Provider"/JC NA
+)/JC NA
+;/JC NA
+
+md/JC NA
+./JC NA
+update/JC NA
+(/JC NA
+orig/JC NA
+./JC NA
+getBytes/JC NA
+(/JC NA
+"UTF-8"/JC NA
+)/JC NA
+)/JC NA
+;/JC NA
+
+byte/JC NA
+[/JC NA
+]/JC NA
+result/JC NA
+=/JC NA
+md/JC NA
+./JC NA
+digest/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+
+String/JC NA
+hash/JC NA
+=/JC NA
+new/JC NA
+String/JC NA
+(/JC NA
+result/JC NA
+)/JC NA
+;/JC NA
+
+I/PRP
+always/RB
+get/VBP
+wrong/JJ
+hash/NN
+(/-LRB-
+compared/VBN
+with/IN
+online/NN
+sha224/C
+generator/NN
+)/-RRB-
+://UH
+@BrianRoach/USR
+I/PRP
+'m/VBP
+not/RB
+asking/VBG
+to/TO
+debug/VB
+my/PRP$
+code/NN
+...../.
+
+My/PRP$
+code/NN
+works/VBZ
+perfectly/RB
+when/WRB
+debugged/VBN
+...../.
+
+It/PRP
+does/VBZ
+n't/RB
+work/VB
+when/WRB
+I/PRP
+install/VBP
+the/DT
+app/NN
+on/IN
+my/PRP$
+cell/NN
+!/.
+
+I/PRP
+Tought/VBP
+I/PRP
+could/MD
+get/VB
+help/NN
+here/RB
+but/CC
+people/NNS
+are/VBP
+busy/JJ
+finding/VBG
+negative/JJ
+aspects/NNS
+:(/UH
+@Anu/USR
+yea/UH
+I/PRP
+have/VBP
+added/VBN
+permissions/NNS
+and/CC
+it/PRP
+works/VBZ
+perfectly/RB
+well/RB
+when/WRB
+I/PRP
+debug/VBP
+my/PRP$
+application/NN
+but/CC
+when/WRB
+I/PRP
+install/VBP
+it/PRP
+on/IN
+my/PRP$
+cell/NN
+it/PRP
+does/VBZ
+n't/RB
+:(/UH
+Caused/ER
+by/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+NullPointerException/ER
+
+04/ER
+-/ER
+25/ER
+15/ER
+:/ER
+37/ER
+:/ER
+31.366/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+1889/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+content/ER
+./ER
+ContextWrapper/ER
+./ER
+getResources/ER
+(/ER
+ContextWrapper/ER
+./ER
+java/ER
+:/ER
+89/ER
+)/ER
+
+04/ER
+-/ER
+25/ER
+15/ER
+:/ER
+37/ER
+:/ER
+31.366/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+1889/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+view/ER
+./ER
+ContextThemeWrapper/ER
+./ER
+getResources/ER
+(/ER
+ContextThemeWrapper/ER
+./ER
+java/ER
+:/ER
+78/ER
+)/ER
+
+04/ER
+-/ER
+25/ER
+15/ER
+:/ER
+37/ER
+:/ER
+31.366/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+1889/ER
+)/ER
+:/ER
+at/ER
+com/ER
+./ER
+gmail/ER
+./ER
+Sheridjohn/ER
+./ER
+letterchecker/ER
+./ER
+MainActivity/ER
+./ER
+</ER
+init/ER
+>/ER
+(/ER
+MainActivity/ER
+./ER
+java/ER
+:/ER
+21/ER
+)/ER
+-/--
+what/WP
+is/VBZ
+line/NN
+21/CD
+?/.
+Use/VB
+
+View/JC
+v/JC
+=/JC
+thumbs_layout/JC
+./JC
+getChildAt/JC
+(/JC
+i/JC
+)/JC
+;/JC
+
+v/JC
+./JC
+setTag/JC
+(/JC
+xxxx/NN
+)/JC
+;/JC
+
+v/JC
+./JC
+setOnClickListener/JC
+(/JC
+new/JC
+View/JC
+./JC
+OnClickListener/JC
+(/JC
+)/JC
+{/JC
+@Override/JC
+public/JC
+void/JC
+onClick/JC
+(/JC
+View/JC
+view/JC
+)/JC
+{/JC
+Intent/JC
+intent/JC
+=/JC
+new/JC
+Intent/JC
+(/JC
+mContext/JC
+,/JC
+ImagePager/JC
+./JC
+class/JC
+)/JC
+;/JC
+intent/JC
+./JC
+putExtra/JC
+(/JC
+"CHILD_INDEX"/JC
+,/JC
+v/JC
+./JC
+getTag/JC
+)/JC
+;/JC
+startActivity/JC
+(/JC
+intent/JC
+)/JC
+;/JC
+}/JC
+}/JC
+)/JC
+;/JC
+@AndrewFielden/USR
+value/NN
+of/IN
+message/NN
+is/VBZ
+
+obj/JC
+=/JC
+new/JC
+JSONObject/JC
+(/JC
+)/JC
+;/JC
+
+obj/JC
+./JC
+put/JC
+(/JC
+"alert"/JC
+,/JC
+title/JC
+)/JC
+;/JC
+
+obj/JC
+./JC
+put/JC
+(/JC
+"action"/JC
+,/JC
+"com.omega.omegaplus.main.UPDATE_STATUS"/JC
+)/JC
+;/JC
+
+obj/JC
+./JC
+put/JC
+(/JC
+"title"/JC
+,/JC
+msg/JC
+)/JC
+;/JC
+
+obj/JC
+./JC
+put/JC
+(/JC
+"msg"/JC
+,/JC
+title/JC
+)/JC
+;/JC
+
+obj/JC
+./JC
+put/JC
+(/JC
+"time"/JC
+,/JC
+time/JC
+)/JC
+;/JC
+
+push/JC
+./JC
+setQuery/JC
+(/JC
+query/JC
+)/JC
+;/JC
+
+push/JC
+./JC
+setData/JC
+(/JC
+obj/JC
+)/JC
+;/JC
+hi/UH
+@Coder/USR
+please/VB
+tell/VB
+me/PRP
+any/DT
+Solution/NN
+You/PRP
+Have/VBP
+error/NN
+:/.
+
+05/ER
+-/ER
+01/ER
+01/ER
+:/ER
+51/ER
+:/ER
+09.620/ER
+:/ER
+E/ER
+//ER
+chromium/ER
+(/ER
+985/ER
+)/ER
+:/ER
+[/ER
+ERROR/ER
+:/ER
+gl_surface_egl/ER
+./ER
+cc/ER
+(/ER
+153/ER
+)/ER
+]/ER
+No/ER
+suitable/ER
+EGL/ER
+configs/ER
+found/ER
+./ER
+
+05/ER
+-/ER
+01/ER
+01/ER
+:/ER
+51/ER
+:/ER
+09.620/ER
+:/ER
+E/ER
+//ER
+chromium/ER
+(/ER
+985/ER
+)/ER
+:/ER
+[/ER
+ERROR/ER
+:/ER
+gl_surface_egl/ER
+./ER
+cc/ER
+(/ER
+620/ER
+)/ER
+]/ER
+GLSurfaceEGL/ER
+::/ER
+InitializeOneOff/ER
+failed/ER
+./ER
+
+05/ER
+-/ER
+01/ER
+01/ER
+:/ER
+51/ER
+:/ER
+09.620/ER
+:/ER
+E/ER
+//ER
+chromium/ER
+(/ER
+985/ER
+)/ER
+:/ER
+[/ER
+ERROR/ER
+:/ER
+gl_surface_egl/ER
+./ER
+cc/ER
+(/ER
+153/ER
+)/ER
+]/ER
+No/ER
+suitable/ER
+EGL/ER
+configs/ER
+found/ER
+./ER
+
+05/ER
+-/ER
+01/ER
+01/ER
+:/ER
+51/ER
+:/ER
+09.620/ER
+:/ER
+E/ER
+//ER
+chromium/ER
+(/ER
+985/ER
+)/ER
+:/ER
+[/ER
+ERROR/ER
+:/ER
+gl_surface_egl/ER
+./ER
+cc/ER
+(/ER
+620/ER
+)/ER
+]/ER
+GLSurfaceEGL/ER
+::/ER
+InitializeOneOff/ER
+failed/ER
+./ER
+
+05/ER
+-/ER
+01/ER
+01/ER
+:/ER
+51/ER
+:/ER
+09.620/ER
+:/ER
+E/ER
+//ER
+chromium/ER
+(/ER
+985/ER
+)/ER
+:/ER
+[/ER
+ERROR/ER
+:/ER
+gpu_info_collector/ER
+./ER
+cc/ER
+(/ER
+86/ER
+)/ER
+]/ER
+gfx/ER
+::/ER
+GLSurface/ER
+::/ER
+InitializeOneOff/ER
+(/ER
+)/ER
+failed/ER
+@RichardTingle/USR
+:/:
+thanks/NNS
+for/IN
+explaination/NN
+@Taba/USR
+It/PRP
+is/VBZ
+more/RBR
+easy/JJ
+to/TO
+use/VB
+RadioGroup/C
+./.
+@Taba/USR
+Check/VB
+my/PRP$
+answer/NN
+below/IN
+I/PRP
+am/VBP
+all/DT
+good/JJ
+@pratik/USR
+:)/UH
+
+thanks/NNS
+for/IN
+your/PRP$
+help/NN
+!/.
+@Taba/USR
+Are/VBP
+you/PRP
+newbie/NN
+to/TO
+android/NNP
+?/.
+@Taba/USR
+OKay/UH
+nope/UH
+./.
+
+If/IN
+you/PRP
+have/VBP
+any/DT
+problem/NN
+any/DT
+time/NN
+you/PRP
+can/MD
+ask/VB
+./.
+@pratik/USR
+that/WDT
+would/MD
+be/VB
+nice/JJ
+!/.
+:)/UH
+@PiYussH/USR
+thank/VB
+you/PRP
+again/RB
+:)/UH
+@pratik/USR
+into/IN
+the/DT
+basics/NNS
+I/PRP
+guess/VBP
+haha/UH
+:)/UH
+@Taba/USR
+ALways/RB
+wel/NN
+come/NN
+./.
+okay/UH
+@pratik/USR
+:)/UH
+@pratik/USR
+I/PRP
+dunno/VBP
+how/WRB
+to/TO
+chat/VB
+there/EX
+haha/UH
+Just/RB
+after/IN
+calling/VBG
+requestScheduleTask/JC
+./JC
+execute/JC
+(/JC
+ori/JC
+,/JC
+dest/JC
+,/JC
+dateString/JC
+)/JC
+;/JC
+
+I/PRP
+called/VBD
+Log/JC
+./JC
+d/JC
+(/JC
+"origin/destination"/JC
+,/JC
+originCode/JC
++/JC
+"/"/JC
++/JC
+estinationCode/JC
+)/JC
+;/JC
+
+And/CC
+I/PRP
+am/VBP
+seeing/VBG
+the/DT
+correct/JJ
+values/NNS
+./.
+@m0ski0/USR
+it/PRP
+'s/VBZ
+definitely/RB
+a/DT
+duplicate/JJ
+:)/UH
+
+When/WRB
+I/PRP
+searched/VBD
+,/,
+I/PRP
+could/MD
+n't/RB
+find/VB
+anything/NN
+,/,
+but/CC
+when/WRB
+I/PRP
+posted/VBD
+,/,
+that/DT
+link/NN
+came/VBD
+up/RP
+as/IN
+a/DT
+related/JJ
+question/NN
+./.
+@AbhishekBansal/USR
+Indeed/RB
+^^/UH
+@matiash/USR
+I/PRP
+tried/VBD
+that/IN
+too/RB
+but/CC
+it/PRP
+did/VBD
+n't/RB
+work/VB
+Ctrl/C NA
++/C NA
+C/C NA
+and/CC
+then/RB
+paste/VB
+it/PRP
+in/IN
+drawable-mdpi/C NA
+./.
+Documentation/NN
+is/VBZ
+error/NN
+prone/NN
+:P/UH
+
+I/PRP
+'m/VBP
+glad/VBN
+it/PRP
+helped/VBD
+!/.
+:)/UH
+05/ER
+-/ER
+06/ER
+22/ER
+:/ER
+50/ER
+:/ER
+33.058/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+5267/ER
+)/ER
+:/ER
+Caused/ER
+by/ER
+:/ER
+java/ER
+./ER
+lang/ER
+./ER
+NullPointerException/ER
+
+05/ER
+-/ER
+06/ER
+22/ER
+:/ER
+50/ER
+:/ER
+33.058/ER
+:/ER
+E/ER
+//ER
+AndroidRuntime/ER
+(/ER
+5267/ER
+)/ER
+:/ER
+at/ER
+android/ER
+./ER
+content/ER
+./ER
+ContextWrapper/ER
+./ER
+getApplicationContext/ER
+(/ER
+ContextWrapper/ER
+./ER
+java/ER
+:/ER
+109/ER
+)/ER
+Maybe/RB
+you/PRP
+did/VBD
+n't/RB
+see/VB
+the/DT
+Edit/NN
+./.
+
+I/PRP
+insert/VBP
+the/DT
+full/JJ
+code/NN
+./.
+
+I/PRP
+need/VBP
+it/PRP
+for/IN
+ListView/C
+,/,
+TextView/C
+,/,
+Intent/C
+.../F
+and/CC
+all/PDT
+this/DT
+./.
+@zgc7009/USR
+MATCH_PARENT/C NA
+should/MD
+ignore/VB
+padding/VBG
+though/IN
+.../F
+and/CC
+looks/VBZ
+like/IN
+you/PRP
+still/RB
+did/VBD
+not/RB
+discover/VB
+the/DT
+logcat/NN
+output/NN
+although/IN
+there/EX
+was/VBD
+even/RB
+a/DT
+link/NN
+provided/VBD
+that/WDT
+explains/VBZ
+how/WRB
+to/TO
+do/VB
+it/PRP
+in/IN
+the/DT
+comments/NNS
+@user3354745/USR
+I/PRP
+tried/VBD
+the/DT
+code/NN
+:/.
+
+String/JC
+number/JC
+=/JC
+"+91 97-00-0000000"/JC
+;/JC
+
+String/JC
+numberValue/JC
+=/JC
+number/JC
+./JC
+replaceAll/JC
+(/JC
+" "/JC
+,/JC
+"%20"/JC
+)/JC
+;/JC
+
+numberValue/JC
+=/JC
+URLEncoder/JC
+./JC
+encode/JC
+(/JC
+number/JC
+,/JC
+"UTF-8"/JC
+)/JC
+;/JC
+
+System/JC
+./JC
+out/JC
+./JC
+println/JC
+(/JC
+numberValue/JC
+)/JC
+;/JC
+,/,
+and/CC
+is/VBZ
+running/VBG
+without/IN
+exception/NN
+./.
+Did/VBD
+you/PRP
+try/VB
+it/PRP
+@4this/USR
+???/.
+I/PRP
+told/VBD
+you/PRP
+the/DT
+same/JJ
+answer/NN
+first/RB
+../,
+@4this/USR
+../.
+btnLinkToRegister/JC
+./JC
+setOnClickListener/JC
+(/JC
+new/JC
+View/JC
+./JC
+OnClickListener/JC
+(/JC
+)/JC
+{/JC
+.../F
+
+i/PRP
+Commented/VBD
+it/PRP
+05/ER
+-/ER
+12/ER
+14/ER
+:/ER
+29/ER
+:/ER
+35/ER
+./ER
+672/ER
+:/ER
+E/ER
+//ER
+StrictMode/ER
+(/ER
+952/ER
+)/ER
+:/ER
+A/ER
+resource/ER
+was/ER
+acquired/ER
+at/ER
+attached/ER
+stack/ER
+trace/ER
+but/ER
+never/ER
+released/ER
+./ER
+See/ER
+java/ER
+./ER
+io/ER
+./ER
+Closeable/ER
+for/ER
+information/ER
+on/ER
+avoiding/ER
+resource/ER
+leaks/ER
+./ER
+
+i/PRP
+found/VBD
+the/DT
+stack/NN
+trace/NN
+but/CC
+i/PRP
+do/VBP
+nt/RB
+know/VB
+what/WP
+to/TO
+do/VB
+with/IN
+it/PRP
+://UH
+Oh/UH
+no/RB
+./.
+
+I/PRP
+have/VBP
+a/DT
+refresh/NN
+button/NN
+which/WDT
+calls/VBZ
+the/DT
+Async/C NA
+Task/NN
+./.
+
+Other/JJR
+than/IN
+that/DT
+,/,
+I/PRP
+also/RB
+have/VBP
+a/DT
+timely/RB
+refresh/NN
+using/VBG
+handlers/NNS
+./.
+
+this/JC
+./JC
+myHandler/JC
+=/JC
+new/JC
+Handler/JC
+(/JC
+)/JC
+;/JC
+
+this/JC
+./JC
+myHandler/JC
+./JC
+postDelayed/JC
+(/JC
+myRunnable/JC
+,/JC
+refreshTime/JC
+)/JC
+;/JC
+@DerGolem/USR
+Eclipse/NNP
+does/VBZ
+not/RB
+even/RB
+let/VB
+me/PRP
+do/VB
+it/PRP
+:-(/UH
+@guido/USR
+that/DT
+'s/VBZ
+it/PRP
+!/.
+
+Thanks/UH
+guido/USR
+,/,
+if/IN
+you/PRP
+post/NN
+an/DT
+answer/NN
+i/PRP
+will/MD
+gladly/RB
+accept/VB
+:-)))/UH
+Yes/UH
+,/,
+you/PRP
+can/MD
+./.
+
+Use/VB
+android/C
+:/C
+theme/C
+=/C
+"/C
+@/C
+android/C
+:/C
+style/C
+//C
+Theme/C
+./C
+NoTitleBar/C
+./C
+Fullscreen/C
+"/C
+attribute/NN
+for/IN
+application/C
+or/CC
+activity/C
+(/-LRB-
+the/DT
+one/NN
+you/PRP
+want/VBP
+to/TO
+be/VB
+full/JJ
+screen/NN
+)/-RRB-
+tag/NN
+of/IN
+the/DT
+manifest/NN
+./.
+requestWindowFeature/JC NA
+(/JC NA
+Window/JC NA
+./JC NA
+FEATURE_NO_TITLE/JC NA
+)/JC NA
+;/JC NA
+
+this/JC NA
+./JC NA
+getWindow/JC NA
+(/JC NA
+)/JC NA
+./JC NA
+setFlags/JC NA
+(/JC NA
+WindowManager/JC NA
+./JC NA
+LayoutParams/JC NA
+./JC NA
+FLAG_FULLSCREEN/JC NA
+,/JC NA
+WindowManager/JC NA
+./JC NA
+LayoutParams/JC NA
+./JC NA
+FLAG_FULLSCREEN/JC NA
+)/JC NA
+;/JC NA
+Ok/UH
+,/,
+I/PRP
+'ll/MD
+repeat/VB
+./.
+
+Replace/VBP
+android/C
+:/C
+theme/C
+=/C
+"/C
+@/C
+style/C
+//C
+AppTheme/C
+"/C
+with/IN
+android/C
+:/C
+theme/C
+=/C
+"/C
+@/C
+android/C
+:/C
+style/C
+//C
+Theme/C
+./C
+NoTitleBar/C
+./C
+Fullscreen/C
+"/C
+./.
+
+That/DT
+'s/VBZ
+it/PRP
+./.
+
+After/IN
+that/IN
+you/PRP
+can/MD
+remove/VB
+the/DT
+code/NN
+you/PRP
+posted/VBD
+.../.
+
+It/PRP
+'s/VBZ
+hard/JJ
+to/TO
+guess/VB
+what/WP
+your/PRP$
+problem/NN
+actually/RB
+is/VBZ
+without/IN
+seeing/VBG
+the/DT
+logcat/NN
+,/,
+please/VB
+post/VB
+it/PRP
+./.
+
+Also/RB
+,/,
+have/VBP
+you/PRP
+tried/VBD
+my/PRP$
+answer/NN
+'s/POS
+suggestion/NN
+regarding/VBG
+menus/NNS
+?/.
+@user3624785/USR
+In/IN
+Eclipse/NNP
+:/:
+Window/NN
+->/SYM
+Show/VB
+View/NN
+->/SYM
+Others/NNS
+->/SYM
+Android/NNP
+->/SYM
+Logcat/NN
+./.
+
+Then/RB
+run/VB
+the/DT
+app/NN
+,/,
+you/PRP
+will/MD
+see/VB
+lots/NNS
+of/IN
+errors/NNS
+in/IN
+red/JJ
+./.
+
+Post/VB
+those/DT
+errors/NNS
+here/RB
+./.
+Funny/JJ
+,/,
+I/PRP
+deleted/VBD
+the/DT
+previous/JJ
+comment/NN
+because/IN
+I/PRP
+got/VBD
+it/PRP
+and/CC
+your/PRP$
+came/VBD
+with/IN
+an/DT
+even/RB
+better/JJR
+explanation/NN
+!/.
+
+Thank/VB
+you/PRP
+for/IN
+this/DT
+!/.
+:-)/UH
+Thanks/VBZ
+balaji/NNP
+duddukuri/NNP
+...../.
+
+but/CC
+can/MD
+you/PRP
+please/VB
+explain/VB
+how/WRB
+to/TO
+embed/VB
+this/DT
+AT/C NA
+command/NN
+syntax/NN
+in/IN
+android/NNP
+(/-LRB-
+java/NNP
+)/-RRB-
+code/NN
+./.
+
+actually/RB
+i/PRP
+want/VBP
+to/TO
+disconnect/VB
+incoming/JJ
+call/NN
+programmatically/RB
+for/IN
+which/WDT
+i/PRP
+want/VBP
+to/TO
+use/VB
+AT/C NA
++/C NA
+CHUP/C NA
+command/NN
+but/CC
+nnot/RB
+getting/VBG
+how/WRB
+to/TO
+execute/VB
+this/DT
+in/IN
+java/NNP
+code/NN
+./.
+@blackbelt/USR
+in/IN
+the/DT
+second/JJ
+code/NN
+snippet/NN
+but/CC
+not/RB
+the/DT
+first/JJ
+which/WDT
+I/PRP
+think/VBP
+is/VBZ
+what/WP
+he/PRP
+is/VBZ
+trying/VBG
+to/TO
+get/VB
+working/VBG
+./.
+
+But/CC
+I/PRP
+might/MD
+be/VB
+wrong/JJ
+as/IN
+I/PRP
+agree/VBP
+it/PRP
+is/VBZ
+confusing/VBG
+@codeMagic/USR
+Ok/UH
+sounds/VBZ
+good/JJ
+!/.
+@codeMagic/USR
+fixed/VBN
+!/.
+Okay/UH
+,/,
+I/PRP
+'m/VBP
+gonna/FW
+get/VB
+this/DT
+soon/RB
+./.
+
+In/IN
+my/PRP$
+View/NN
+I/PRP
+initialize/VBP
+the/DT
+engine/NN
+by/IN
+doing/VBG
+something/NN
+like/IN
+engine/JC NA
+=/JC NA
+new/JC NA
+GameEngine/JC NA
+(/JC NA
+resources/JC NA
+,/JC NA
+view/JC NA
+)/JC NA
+./.
+
+If/IN
+I/PRP
+then/RB
+change/VB
+the/DT
+instance/NN
+,/,
+the/DT
+objects/NNS
+and/CC
+the/DT
+method/NN
+to/TO
+static/JJ
+,/,
+what/WP
+and/CC
+how/WRB
+could/MD
+it/PRP
+be/VB
+a/DT
+bigger/JJR
+difference/NN
+?/.
+
+Accepted/VBN
+also/RB
+./.
+:-)/UH
+Thanks/UH
+,/,
+I/PRP
+did/VBD
+n't/RB
+see/VB
+that/IN
+in/IN
+the/DT
+doc/NN
+./.
+
+It/PRP
+is/VBZ
+actually/RB
+:/.
+
+Matrix/JC NA
+m/JC NA
+=/JC NA
+new/JC NA
+Matrix/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+
+m/JC NA
+./JC NA
+setValues/JC NA
+(/JC NA
+new/JC NA
+float/JC NA
+[/JC NA
+]/JC NA
+{/JC NA
+2/JC NA
+,/JC NA
+4/JC NA
+,/JC NA
+6/JC NA
+,/JC NA
+3/JC NA
+,/JC NA
+5/JC NA
+,/JC NA
+7/JC NA
+,/JC NA
+0/JC NA
+,/JC NA
+0/JC NA
+,/JC NA
+1/JC NA
+}/JC NA
+)/JC NA
+;/JC NA
+its/PRP$
+because/IN
+the/DT
+constructor/NN
+for/IN
+AffineTransform/C NA
+is/VBZ
+in/IN
+a/DT
+weird/JJ
+order/NN
+:/.
+
+AffineTransform/JC NA
+(/JC NA
+float/JC NA
+m00/JC NA
+,/JC NA
+float/JC NA
+m10/JC NA
+,/JC NA
+float/JC NA
+m01/JC NA
+,/JC NA
+float/JC NA
+m11/JC NA
+,/JC NA
+float/JC NA
+m02/JC NA
+,/JC NA
+float/JC NA
+m12/JC NA
+)/JC NA
+@b-gen-jack-o-neill/USR
+Here/RB
+'s/VBZ
+a/DT
+link/NN
+to/TO
+a/DT
+list/NN
+of/IN
+articles/NNS
+about/IN
+Apple/NNP
+'s/POS
+use/NN
+of/IN
+LLVM/NNP
+:/:
+http://www.satine.org/archives/2007/02/01/connect-the-dots-iphone-graphics-os-x-llvm-arm-and-ruby//URI
+If/IN
+i/PRP
+use/VBP
+these/DT
+values/NNS
+in/IN
+menus/NNS
+(/-LRB-
+delete/VB
+,/,
+mail/NN
+or/CC
+etc/FW
+)/-RRB-
+./.
+
+menu/NN
+options/NNS
+are/VBP
+not/RB
+working/VBG
+./.
+
+I/PRP
+'/''
+l/MD
+make/VB
+it/PRP
+clear/JJ
+./.
+
+Now/RB
+what/WP
+i/PRP
+'m/VBP
+trying/VBG
+to/TO
+do/VB
+is/VBZ
+:/:
+
+Inside/IN
+delete/NN
+option/NN
+of/IN
+menu/NN
+if/IN
+i/PRP
+use/VBP
+string/JC NA
+tag/JC NA
+=/JC NA
+tabs/JC NA
+./JC NA
+getCurrentTabByTab/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+deleting/VBG
+the/DT
+file/NN
+which/WDT
+matches/VBZ
+that/IN
+tag/NN
+./.
+
+it/PRP
+'s/VBZ
+not/RB
+working/VBG
+./.
+
+I/PRP
+'m/VBP
+i/PRP
+following/VBG
+the/DT
+right/JJ
+way/NN
+./.
+
+Sorry/VBP
+for/IN
+my/PRP$
+english/NNP
+./.
+Rahul/NNP
+is/VBZ
+correct/JJ
+(/-LRB-
++/SYM
+10/CD
+to/TO
+him/PRP
+for/IN
+pointing/VBG
+out/RP
+this/DT
+subtlety/NN
+)/-RRB-
+./.
+
+A/DT
+ProgressDialog/C NA
+is/VBZ
+dismissed/VBN
+./.
+
+A/DT
+ProgressBar/C NA
+is/VBZ
+just/RB
+a/DT
+view/NN
+that/WDT
+can/MD
+be/VB
+made/VBN
+Visible/JJ
+//CC
+invisible/JJ
+//CC
+Gone/C
+./.
+
+If/IN
+mHandler/C NA
+is/VBZ
+a/DT
+Handler/NN
+bound/VBN
+to/TO
+UI/NN
+thread/NN
+you/PRP
+can/MD
+say/VB
+something/NN
+like/IN
+:/.
+
+mHandler/JC NA
+./JC NA
+post/JC NA
+(/JC NA
+new/JC NA
+Runnable/JC NA
+(/JC NA
+)/JC NA
+{/JC NA
+public/JC NA
+void/JC NA
+run/JC NA
+(/JC NA
+)/JC NA
+{/JC NA
+mProgress/JC NA
+./JC NA
+setVisibility/JC NA
+(/JC NA
+View/JC NA
+./JC NA
+INVISIBLE/JC NA
+)/JC NA
+;/JC NA
+}/JC NA
+}/JC NA
+)/JC NA
+;/JC NA
+Worked/VBN
+for/IN
+me/PRP
+,/,
+thanks/UH
+@ageektrapped/USR
+Thanks/VBZ
+@fredley/USR
+./.
+
+This/DT
+one/PRP
+works/VBZ
+./.
+@Stephen/USR
+C./USR
+I/PRP
+see/VBP
+your/PRP$
+point/NN
+./.
+
+Re-engineering/VBG
+is/VBZ
+a/DT
+pain/NN
+./.
+
+However/RB
+,/,
+I/PRP
+would/MD
+choose/VB
+a/DT
+productivity/NN
+path/NN
+if/IN
+I/PRP
+were/VBD
+a/DT
+designer/NN
+of/IN
+Java/NNP
+language/NN
+./.
+
+C#/NNP
+language/NN
+designers/NNS
+have/VBP
+proven/VBN
+that/IN
+syntatic/JJ
+sugar/NN
+is/VBZ
+of/IN
+no/DT
+harm/NN
+in/IN
+case/NN
+you/PRP
+know/VBP
+what/WP
+exactly/RB
+stands/VBZ
+behind/IN
+it/PRP
+(/-LRB-
+and/CC
+you/PRP
+can/MD
+always/RB
+replace/VB
+it/PRP
+with/IN
+your/PRP$
+explicit/JJ
+implementation/NN
+)/-RRB-
+./.
+
+And/CC
+re-engineering/VBG
+all/PDT
+those/DT
+unspeakably/JJ
+named/VBD
+generated/VBN
+variables/NNS
+//CC
+classes/NNS
+is/VBZ
+a/DT
+pain/NN
+and/CC
+always/RB
+will/MD
+be/VB
+./.
+@Stephen/USR
+C/USR
+:/:
+do/VBP
+you/PRP
+mean/VB
+that/IN
+if/IN
+those/DT
+developers/NNS
+had/VBD
+used/VBN
+singletons/NNS
+insted/VBN
+of/IN
+static/JJ
+variables/NNS
+,/,
+the/DT
+code/NN
+would/MD
+have/VB
+been/VBN
+easier/JJR
+to/TO
+reengineer/VB
+?/.
+
+Why/WRB
+?/.
+@reinierpost/USR
+-/:
+not/RB
+exactly/RB
+./.
+
+What/WP
+I/PRP
+mean/VBP
+is/VBZ
+that/IN
+the/DT
+code/NN
+would/MD
+have/VB
+been/VBN
+easier/JJR
+to/TO
+reengineer/VB
+if/IN
+that/DT
+had/VBD
+n't/RB
+used/VBN
+either/CC
+./.
+
+Remember/VB
+,/,
+this/DT
+thread/NN
+started/VBN
+with/IN
+me/PRP
+commenting/VBG
+that/IN
+@nixau/USR
+probably/RB
+used/VBN
+statics/NNS
+too/RB
+much/RB
+./.
+
+See/VB
+also/RB
+@fjsj/USR
+'s/POS
+answer/NN
+./.
+@Sauer/USR
+sorry/JJ
+faster/JJR
+typing/NN
+given/VBN
+an/DT
+vote/NN
+./.
+;)/UH
+@CommonsWare/USR
+:/:
+Turns/VBZ
+out/IN
+once/RB
+the/DT
+user/NN
+explained/VBD
+the/DT
+crash/VBP
+in/IN
+detail/NN
+it/PRP
+was/VBD
+happening/VBG
+before/IN
+the/DT
+app/NN
+was/VBD
+even/RB
+recording/VBG
+:)/UH
+./.
+
+I/PRP
+had/VBD
+a/DT
+feeling/NN
+it/PRP
+had/VBD
+to/TO
+be/VB
+something/NN
+else/RB
+since/IN
+Media/NN
+&/CC
+Audio/NN
+recorder/NN
+were/VBD
+all/DT
+I/PRP
+'ve/VBP
+ever/RB
+seen/VBN
+in/IN
+android/NNP
+./.
+
+I/PRP
+ended/VBD
+up/RP
+going/VBG
+with/IN
+MediaRecorder/C NA
+since/IN
+i/PRP
+was/VBD
+going/VBG
+the/DT
+route/NN
+of/IN
+saving/VBG
+the/DT
+files/NNS
+to/TO
+the/DT
+SD/NN
+card/NN
+./.
+
+Thanks/NNS
+for/IN
+your/PRP$
+response/NN
+!/.
+@neildeadman/USR
+:/:
+So/IN
+the/DT
+parsing/NN
+fails/VBZ
+whenever/WRB
+the/DT
+content/JJ
+handler/NN
+reaches/VBZ
+the/DT
+</C NA
+banners/C NA
+>/C NA
+tag/NN
+?/.
+so/IN
+something/NN
+liek/JJ
+this/DT
+should/MD
+work/VB
+:/.
+
+ConsumerObject/JC NA
+consumer/JC NA
+=/JC NA
+(/JC NA
+ConsumerObject/JC NA
+)/JC NA
+intent/JC NA
+./JC NA
+getSerializableExtra/JC NA
+(/JC NA
+"CONSUMER"/JC NA
+)/JC NA
+;/JC NA
+
+ConsumerObject/C
+being/VBG
+my/PRP$
+POJO/NN
+Matthew/NNP
+where/WRB
+would/MD
+I/PRP
+put/VB
+this/DT
+?/.
+
+If/IN
+I/PRP
+remove/VBP
+the/DT
+Context/C NA
+context/C NA
+from/IN
+the/DT
+Scores/C NA
+(/C NA
+)/C NA
+constructor/NN
+./.
+
+The/DT
+app/NN
+will/MD
+build/VB
+fine/JJ
+but/CC
+once/RB
+it/PRP
+hits/NNS
+the/DT
+
+Scores/JC NA
+score/JC NA
+=/JC NA
+new/JC NA
+Scores/JC NA
+(/JC NA
+)/JC NA
+
+score/JC NA
+./JC NA
+resetScores/JC NA
+(/JC NA
+)/JC NA
+;/JC NA
+
+in/IN
+MainActivity/C NA
+the/DT
+try/Catch/C NA
+in/IN
+scores/C NA
+hits/VBZ
+for/IN
+Null/C
+Pointer/C
+for/IN
+SharedPreferences/JC NA
+pref/JC NA
+=/JC NA
+PreferenceManager/JC NA
+./JC NA
+getDefaultSharedPreferences/JC NA
+(/JC NA
+mycontext/JC NA
+)/JC NA
+;/JC NA
+@Octavian/USR
+Damiean/USR
+:/:
+I/PRP
+started/VBD
+from/IN
+scratch/NN
+using/VBG
+your/PRP$
+example/NN
+and/CC
+now/RB
+have/VB
+a/DT
+working/VBG
+prototype/NN
+./.
+
+Thanks/VBZ
+very/RB
+much/JJ
+!!/.
+
+Never/RB
+got/VBD
+to/TO
+the/DT
+bottom/NN
+of/IN
+issue/NN
+I/PRP
+mentioned/VBD
+.../.
+
+at/IN
+least/JJS
+it/PRP
+works/VBZ
+now/RB
+!!/.
+Intent/JC NA
+i/JC NA
+=/JC NA
+new/JC NA
+Intent/JC NA
+(/JC NA
+MixesActivity/JC NA
+./JC NA
+this/JC NA
+,/JC NA
+StreamController/JC NA
+./JC NA
+class/JC NA
+)/JC NA
+;/JC NA
+
+i/JC NA
+./JC NA
+setFlags/JC NA
+(/JC NA
+Intent/JC NA
+./JC NA
+FLAG_ACTIVITY_NEW_TASK/JC NA
+|/JC NA
+Intent/JC NA
+./JC NA
+FLAG_ACTIVITY_CLEAR_TOP/JC NA
+)/JC NA
+;/JC NA
+
+startActivity/JC NA
+(/JC NA
+i/JC NA
+)/JC NA
+;/JC NA
+
+Edit/VB
+>/SYM
+The/DT
+flags/NNS
+where/WRB
+there/EX
+for/IN
+testing/NN
+purposes/NNS
+./.
+No/UH
+,/,
+I/PRP
+converted/VBD
+an/DT
+Bitmap/NN
+to/TO
+String/NN
+to/TO
+do/VB
+some/DT
+work/NN
+,/,
+no/RB
+I/PRP
+want/VBP
+to/TO
+convert/VB
+it/PRP
+back/RB
+.../.
+
+it/PRP
+looks/VBZ
+like/IN
+"/C
+android.graphics.Bitmap@43fd34c0/URI
+"/C
+@Reuben/USR
+Scratton/USR
+:/:
+It/PRP
+'s/VBZ
+an/DT
+app/NN
+I/PRP
+'m/VBP
+writing/VBG
+./.
+
+Tried/VBN
+to/TO
+look/VB
+around/IN
+the/DT
+Market/NN
+for/IN
+an/DT
+application/NN
+with/IN
+the/DT
+same/JJ
+scenario/NN
+as/IN
+mine/NN
+,/,
+I/PRP
+found/VBD
+some/DT
+close/JJ
+ones/NNS
+but/CC
+they/PRP
+did/VBD
+n't/RB
+appear/VB
+to/TO
+have/VB
+this/DT
+problem/NN
+./.
+@Guilherme/USR
+MP/USR
+:/:
+Use/VB
+DDMS/NNP
+to/TO
+capture/VB
+a/DT
+screenshot/NN
+from/IN
+a/DT
+device/NN
+./.
+@CommonsWare/USR
+:/:
+I/PRP
+just/RB
+updated/VBD
+my/PRP$
+question/NN
+,/,
+it/PRP
+'s/VBZ
+now/RB
+also/RB
+stating/VBG
+how/WRB
+to/TO
+reproduce/VB
+it/PRP
+./.
+
+Thanks/VBZ
+for/IN
+the/DT
+attention/NN
+./.
+@Guilherme/USR
+MP/USR
+:/:
+Since/IN
+you/PRP
+seem/VBP
+to/TO
+be/VB
+allergic/JJ
+to/TO
+screenshots/NNS
+,/,
+and/CC
+since/IN
+I/PRP
+own/JJ
+no/DT
+Samsung/NNP
+devices/VBZ
+at/IN
+present/NN
+,/,
+I/PRP
+can/MD
+not/RB
+help/VB
+you/PRP
+further/RB
+./.
+@Rulmeq/USR
+:/:
+answer/NN
+?/.
+1/LS
+./SYM
+Done/VBP
+,/,
+2/LS
+./SYM
+Done/VBP
+,/,
+3/LS
+./SYM
+Ca/MD
+nt/RB
+do/VBP
+that/DT
+,/,
+cause/IN
+it/PRP
+still/RB
+runs/VBZ
+the/DT
+emulator/NN
+./.
+
+[/ER
+2011/ER
+-/ER
+11/ER
+-/ER
+15/ER
+22/ER
+:/ER
+55/ER
+:/ER
+23/ER
+-/ER
+ETBeta/ER
+]/ER
+Automatic/ER
+Target/ER
+Mode/ER
+:/ER
+launching/ER
+new/ER
+emulator/ER
+with/ER
+compatible/ER
+AVD/ER
+'DroidX'/ER
+
+[/ER
+2011/ER
+-/ER
+11/ER
+-/ER
+15/ER
+22/ER
+:/ER
+55/ER
+:/ER
+23/ER
+-/ER
+ETBeta/ER
+]/ER
+Launching/ER
+a/ER
+new/ER
+emulator/ER
+with/ER
+Virtual/ER
+Device/ER
+'DroidX'/ER
+
+[/ER
+2011/ER
+-/ER
+11/ER
+-/ER
+15/ER
+22/ER
+:/ER
+55/ER
+:/ER
+25/ER
+-/ER
+ETBeta/ER
+]/ER
+New/ER
+emulator/ER
+found/ER
+:/ER
+emulator/ER
+-/ER
+5554/ER
+
+[/ER
+2011/ER
+-/ER
+11/ER
+-/ER
+15/ER
+22/ER
+:/ER
+55/ER
+:/ER
+25/ER
+-/ER
+ETBeta/ER
+]/ER
+Waiting/ER
+for/ER
+HOME/ER
+(/ER
+'android/ER
+./ER
+process/ER
+./ER
+acore'/ER
+)/ER
+to/ER
+be/ER
+launched/ER
+.../F
