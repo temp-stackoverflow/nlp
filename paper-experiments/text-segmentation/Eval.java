@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
 
-public class EvalTextSegmentation {
+public class Eval {
 	
 	public static Map<Integer, Double> foldTokensTP = new HashMap<>();
 	public static Map<Integer, Double> foldTokensFP = new HashMap<>();
