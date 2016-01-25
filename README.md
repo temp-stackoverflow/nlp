@@ -1,7 +1,7 @@
 # nlp
 Temporary host site with Stack Overflow POS tagged data and 10-fold cross validation experiment files for replicating our paper's results.
 
-The directory tree structure below reflects all the data released for the paper's review phase. Included along some branches of the tree are sectional references to the paper wherein the corrresponding dataset or the evaluation experiments are discussed.
+The directory tree structure below reflects all the data released for the paper's review phase. Some branches of the tree are labeled with sectional references to the paper wherein the corrresponding dataset or the evaluation experiments are discussed.
 
 nlp<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README.md<br>
