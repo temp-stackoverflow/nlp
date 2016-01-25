@@ -1,15 +1,15 @@
 # nlp
 
-nlp
-|   README.md
-|
-|___data
-|   |___annotated-pos
-|   |   |   batch1.txt
-|   |   |   batch2.txt
-|   |   |   batch3.txt
-|   |
-|   |___annotated-java-syntax
+nlp<br>
+|    README.md<br>
+|<br>
+|___data<br>
+|    |___annotated-pos<br>
+|   |    batch1.txt<br>
+|   |    batch2.txt<br>
+|   |    batch3.txt<br>
+|   |<br>
+|   |___annotated-java-syntax<br>
 |       |   batch1.txt
 |       |   batch2.txt
 |
