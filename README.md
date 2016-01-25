@@ -1,7 +1,7 @@
 # nlp
 Temporary host site with Stack Overflow POS tagged data and 10-fold cross validation experiment files for replicating results in the paper. Our POS tagging toolset will be made available on our institution's website with the final version of the paper.
 
-The directory tree structure below reflects all the data released for the paper review phase. The tree structure also includes sectional references from the paper that discuss the dataset or the evaluation experiments.
+The directory tree structure below reflects all the data released for the paper review phase. The tree structure also includes sectional references to the paper wherein the dataset or the evaluation experiments are experiments.
 
 nlp<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README.md<br>
