@@ -14,9 +14,9 @@ nlp<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;batch2.txt<br>
 |<br>
 |___paper-experiments<br>
-    |___text-segmentation
-    |   |   Eval.java
-    |   |   result-meta1.txt
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___text-segmentation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eval.java<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result-meta1.txt<br>
     |   |   result-meta2.txt
     |   |   ...
     |
