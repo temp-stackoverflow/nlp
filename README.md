@@ -1,4 +1,7 @@
-# nlp<br>
+# nlp
+Temporary host site with Stack Overflow POS tagged data and 10-fold cross validation experiment files to replicate results in the paper.
+
+nlp<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README.md<br>
 |<br>
 |___data<br>
