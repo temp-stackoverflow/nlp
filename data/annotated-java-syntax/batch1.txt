@@ -1,0 +1,1678 @@
+screen2	SimpleName	SimpleType
+objs2	SimpleName	VariableDeclarationFragment
+=
+new
+screen2	SimpleName	SimpleType
+(
+)
+;
+
+startActivity	SimpleName	MethodInvocation
+(
+)
+
+startActivityForResulrt	SimpleName	MethodInvocation
+(
+camera	SimpleName	MethodInvocation
+.
+setdisplayorientation	SimpleName	MethodInvocation
+(
+90	NumberLiteral	MethodInvocation
+)
+Question	SimpleName	SimpleType
+q_class	SimpleName	VariableDeclarationFragment
+=
+new
+Question	SimpleName	SimpleType
+(
+questions	SimpleName	ArrayAccess
+[
+counter	SimpleName	ArrayAccess
+]
+,
+answers_correct	SimpleName	ArrayAccess
+[
+counter	SimpleName	ArrayAccess
+]
+,
+answers_wrong	SimpleName	ArrayAccess
+[
+counter	SimpleName	ArrayAccess
+]
+,
+counter	SimpleName	ClassInstanceCreation
+)
+;
+
+String	SimpleName	SimpleType
+question	SimpleName	VariableDeclarationFragment
+=
+q_class	SimpleName	MethodInvocation
+.
+getQuestion	SimpleName	MethodInvocation
+(
+)
+;
+
+question_tv	SimpleName	MethodInvocation
+.
+setText	SimpleName	MethodInvocation
+(
+question	SimpleName	MethodInvocation
+)
+;
+iso2	SimpleName	MethodInvocation
+.
+equals	SimpleName	MethodInvocation
+(
+abbr	SimpleName	MethodInvocation
+)
+String	SimpleName	QualifiedName
+.
+equals	SimpleName	QualifiedName
+if
+(
+iso2	SimpleName	MethodInvocation
+.
+equals	SimpleName	MethodInvocation
+(
+abbr	SimpleName	MethodInvocation
+)
+)
+
+if
+(
+iso2	SimpleName	MethodInvocation
+.
+equals	SimpleName	MethodInvocation
+(
+abbr	SimpleName	MethodInvocation
+)
+)
+.
+compareTo	SimpleName	MethodInvocation
+(
+)
+==
+0	NumberLiteral	InfixExpression
+)
+
+.
+equals	SimpleName	MethodInvocation
+(
+)
+if
+(
+actionId	SimpleName	InfixExpression
+==
+EditorInfo	SimpleName	QualifiedName
+.
+IME_NULL	SimpleName	QualifiedName
+)
+{
+startActivity	SimpleName	MethodInvocation
+(
+new
+Intent	SimpleName	SimpleType
+(
+"com.easyPhys.start.calculator"	StringLiteral	ClassInstanceCreation
+)
+)
+;
+}
+
+startActivity	SimpleName	MethodInvocation
+(
+new
+Intent	SimpleName	SimpleType
+(
+"com.easyPhys.start.calculator"	StringLiteral	ClassInstanceCreation
+)
+)
+;
+WebView	SimpleName	SimpleType
+webView	SimpleName	VariableDeclarationFragment
+=
+(
+WebView	SimpleName	SimpleType
+)
+findViewById	SimpleName	MethodInvocation
+(
+R	SimpleName	QualifiedName
+.
+id	SimpleName	QualifiedName
+.
+webview1	SimpleName	QualifiedName
+)
+;
+
+webView	SimpleName	MethodInvocation
+.
+getSettings	SimpleName	MethodInvocation
+(
+)
+.
+setJavaScriptEnabled	SimpleName	MethodInvocation
+(
+true	BooleanLiteral	MethodInvocation
+)
+;
+
+webView	SimpleName	MethodInvocation
+.
+loadUrl	SimpleName	MethodInvocation
+(
+"file:///android_asset/lgf.jpg"	StringLiteral	MethodInvocation
+)
+;
+
+webView	SimpleName	MethodInvocation
+.
+setWebViewClient	SimpleName	MethodInvocation
+(
+new
+HelloWebViewClient	SimpleName	SimpleType
+(
+)
+)
+;
+if
+(
+mediaFile	SimpleName	MethodInvocation
+.
+exists	SimpleName	MethodInvocation
+(
+)
+)
+{
+mediaFile	SimpleName	MethodInvocation
+.
+delete	SimpleName	MethodInvocation
+(
+)
+;
+}
+File	SimpleName	SimpleType
+sdCard	SimpleName	VariableDeclarationFragment
+=
+Environment	SimpleName	MethodInvocation
+.
+getExternalStorageDirectory	SimpleName	MethodInvocation
+(
+)
+;
+
+Toast	SimpleName	MethodInvocation
+.
+makeText	SimpleName	MethodInvocation
+(
+getApplicationContext	SimpleName	MethodInvocation
+(
+)
+,
+sdCard	SimpleName	MethodInvocation
+.
+canRead	SimpleName	MethodInvocation
+(
+)
+?
+"READ PERMISSIONS"	StringLiteral	ConditionalExpression
+:
+"NO READ PERMISSIONS"	StringLiteral	ConditionalExpression
+,
+Toast	SimpleName	QualifiedName
+.
+LENGTH_SHORT	SimpleName	QualifiedName
+)
+.
+show	SimpleName	MethodInvocation
+(
+)
+;
+android	SimpleName	QualifiedName
+.
+graphics	SimpleName	QualifiedName
+.
+Bitmap	SimpleName	QualifiedName
+
+android	SimpleName	QualifiedName
+.
+graphics	SimpleName	QualifiedName
+.
+drawable	SimpleName	QualifiedName
+.
+BitmapDrawable	SimpleName	QualifiedName
+URI	SimpleName	MethodInvocation
+.
+parse	SimpleName	MethodInvocation
+(
+)
+
+R	SimpleName	QualifiedName
+.
+raw	SimpleName	QualifiedName
+.
+song	SimpleName	QualifiedName
+Bundle	SimpleName	SimpleType
+extras	SimpleName	VariableDeclarationFragment
+=
+getIntent	SimpleName	MethodInvocation
+(
+)
+.
+getExtras	SimpleName	MethodInvocation
+(
+)
+;
+
+ArrayList	SimpleName	SimpleType
+<
+Double	SimpleName	SimpleType
+>
+final_cores	SimpleName	VariableDeclarationFragment
+=
+new
+ArrayList	SimpleName	SimpleType
+<
+Double	SimpleName	SimpleType
+>
+(
+)
+;
+String	SimpleName	SimpleType
+tempStr	SimpleName	VariableDeclarationFragment
+=
+"\nAspen Social Club\nBar Basque\nCrimson\nForum\nLexicon\n"	StringLiteral	VariableDeclarationFragment
+;
+
+String	SimpleName	SimpleType
+[
+]
+splitArr	SimpleName	VariableDeclarationFragment
+=
+tempStr	SimpleName	MethodInvocation
+.
+split	SimpleName	MethodInvocation
+(
+"\n"	StringLiteral	MethodInvocation
+)
+;
+y	SimpleName	MethodInvocation
+.
+add	SimpleName	MethodInvocation
+(
+mylab	SimpleName	ArrayAccess
+[
+i	SimpleName	ArrayAccess
+]
+)
+;
+int
+temp	SimpleName	VariableDeclarationFragment
+=
+(
+int
+)
+(
+mytime	SimpleName	ParenthesizedExpression
+)
+;
+
+for
+(
+int
+i	SimpleName	VariableDeclarationFragment
+=
+0	NumberLiteral	VariableDeclarationFragment
+;
+i	SimpleName	InfixExpression
+<=
+temp	SimpleName	InfixExpression
+;
+i	SimpleName	PostfixExpression
+++
+)
+{
+Bundle	SimpleName	SimpleType
+extras	SimpleName	VariableDeclarationFragment
+=
+getIntent	SimpleName	MethodInvocation
+(
+)
+.
+getExtras	SimpleName	MethodInvocation
+(
+)
+;
+if
+(
+str	SimpleName	MethodInvocation
+.
+replaceAll	SimpleName	MethodInvocation
+(
+""	StringLiteral	MethodInvocation
+,
+""	StringLiteral	MethodInvocation
+)
+.
+equals	SimpleName	MethodInvocation
+(
+"hello"	StringLiteral	MethodInvocation
+)
+)
+Math	SimpleName	MethodInvocation
+.
+round	SimpleName	MethodInvocation
+(
+)
+remoteViews	SimpleName	MethodInvocation
+.
+setTextViewText	SimpleName	MethodInvocation
+(
+R	SimpleName	QualifiedName
+.
+id	SimpleName	QualifiedName
+.
+Clock	SimpleName	QualifiedName
+,
+dateFormat	SimpleName	MethodInvocation
+.
+format	SimpleName	MethodInvocation
+(
+date	SimpleName	MethodInvocation
+)
+)
+;
+image1	SimpleName	MethodInvocation
+.
+setImageResource	SimpleName	MethodInvocation
+(
+cardsdeck	SimpleName	ArrayAccess
+[
+i	SimpleName	ArrayAccess
+]
+)
+;
+updateHandler	SimpleName	MethodInvocation
+.
+post	SimpleName	MethodInvocation
+(
+new
+Runnable	SimpleName	SimpleType
+(
+)
+{
+public	Modifier	MethodDeclaration
+void
+run	SimpleName	MethodDeclaration
+(
+)
+{
+listAdapter	SimpleName	MethodInvocation
+.
+changeCursor	SimpleName	MethodInvocation
+(
+cur	SimpleName	MethodInvocation
+)
+;
+}
+}
+)
+;
+canvas	SimpleName	MethodInvocation
+.
+drawColor	SimpleName	MethodInvocation
+(
+Color	SimpleName	QualifiedName
+.
+TRANSPARENT	SimpleName	QualifiedName
+,
+PorterDuff	SimpleName	QualifiedName
+.
+Mode	SimpleName	QualifiedName
+.
+CLEAR	SimpleName	QualifiedName
+)
+;
+
+this
+.
+framebuffer	SimpleName	FieldAccess
+.
+eraseColor	SimpleName	MethodInvocation
+(
+Color	SimpleName	QualifiedName
+.
+TRANSPARENT	SimpleName	QualifiedName
+)
+;
+Intent	SimpleName	SimpleType
+intent	SimpleName	VariableDeclarationFragment
+=
+new
+Intent	SimpleName	SimpleType
+(
+Intent	SimpleName	QualifiedName
+.
+ACTION_VIEW	SimpleName	QualifiedName
+,
+Uri	SimpleName	MethodInvocation
+.
+parse	SimpleName	MethodInvocation
+(
+"http://www.vogella.de"	StringLiteral	MethodInvocation
+)
+)
+;
+
+intent	SimpleName	MethodInvocation
+.
+addFlags	SimpleName	MethodInvocation
+(
+Intent	SimpleName	QualifiedName
+.
+FLAG_ACTIVITY_NEW_TASK	SimpleName	QualifiedName
+)
+;
+tr1	SimpleName	MethodInvocation
+.
+addView	SimpleName	MethodInvocation
+(
+textview	SimpleName	MethodInvocation
+)
+;
+@
+Override	SimpleName	MarkerAnnotation
+public	Modifier	MethodDeclaration
+boolean
+onLongClick	SimpleName	MethodDeclaration
+(
+View	SimpleName	SimpleType
+v	SimpleName	SingleVariableDeclaration
+)
+{
+switch
+(
+v	SimpleName	MethodInvocation
+.
+getId	SimpleName	MethodInvocation
+(
+)
+)
+{
+}
+TextView	SimpleName	SimpleType
+textview	SimpleName	VariableDeclarationFragment
+=
+(
+TextView	SimpleName	SimpleType
+)
+findViewById	SimpleName	MethodInvocation
+(
+v	SimpleName	MethodInvocation
+.
+getid	SimpleName	MethodInvocation
+(
+)
+)
+;
+someFlag	SimpleName	Assignment
+=
+false	BooleanLiteral	Assignment
+;
+
+System	SimpleName	QualifiedName
+.
+out	SimpleName	QualifiedName
+.
+println	SimpleName	MethodInvocation
+(
+"Did some stuff"	StringLiteral	MethodInvocation
+)
+;
+public	Modifier	MethodDeclaration
+void
+endElement	SimpleName	MethodDeclaration
+(
+.
+.
+String	SimpleName	SimpleType
+qName	SimpleName	SingleVariableDeclaration
+)
+throws
+SAXException	SimpleName	SimpleType
+{
+System	SimpleName	QualifiedName
+.
+out	SimpleName	QualifiedName
+.
+println	SimpleName	MethodInvocation
+(
+"qName= "	StringLiteral	InfixExpression
++
+qName	SimpleName	InfixExpression
+)
+;
+for
+(
+i	SimpleName	Assignment
+=
+0	NumberLiteral	Assignment
+;
+i	SimpleName	InfixExpression
+<
+LIST_COUN	SimpleName	InfixExpression
+;
+i	SimpleName	PostfixExpression
+++
+)
+musicLists	SimpleName	MethodInvocation
+.
+add	SimpleName	MethodInvocation
+(
+foo	SimpleName	MethodInvocation
+)
+
+musicLists	SimpleName	MethodInvocation
+.
+get	SimpleName	MethodInvocation
+(
+listNr	SimpleName	MethodInvocation
+)
+.
+add	SimpleName	MethodInvocation
+(
+new
+Mp3	SimpleName	SimpleType
+(
+id	SimpleName	ClassInstanceCreation
+,
+filename	SimpleName	ClassInstanceCreation
+,
+length	SimpleName	ClassInstanceCreation
+)
+)
+;
+if
+(
+frequency	SimpleName	InfixExpression
+==
+60	NumberLiteral	InfixExpression
+)
+{
+note	SimpleName	MethodInvocation
+.
+setText	SimpleName	MethodInvocation
+(
+"A"	StringLiteral	MethodInvocation
+)
+;
+}
+else
+if
+(
+frequency	SimpleName	InfixExpression
+==
+62	NumberLiteral	InfixExpression
+)
+{
+note	SimpleName	MethodInvocation
+.
+setText	SimpleName	MethodInvocation
+(
+"B"	StringLiteral	MethodInvocation
+)
+;
+}
+if
+(
+(
+ioio_thread_	SimpleName	MethodInvocation
+.
+isAlive	SimpleName	MethodInvocation
+(
+)
+)
+{
+ioio_thread_	SimpleName	MethodInvocation
+.
+abort	SimpleName	MethodInvocation
+(
+)
+;
+}
+for
+(
+int
+i	SimpleName	VariableDeclarationFragment
+=
+1	NumberLiteral	VariableDeclarationFragment
+;
+i	SimpleName	InfixExpression
+<
+2000	NumberLiteral	InfixExpression
+;
+i	SimpleName	PostfixExpression
+++
+)
+{
+}
+Log	SimpleName	MethodInvocation
+.
+i	SimpleName	MethodInvocation
+(
+"Date"	StringLiteral	MethodInvocation
+,
+""	StringLiteral	InfixExpression
++
+last_date_date	SimpleName	InfixExpression
+)
+;
+
+java	SimpleName	QualifiedName
+.
+util	SimpleName	QualifiedName
+.
+Date	SimpleName	QualifiedName
+public	Modifier	VariableDeclarationStatement
+Cursor	SimpleName	SimpleType
+fetchWfs	SimpleName	VariableDeclarationFragment
+(
+)
+{
+return
+mDb	SimpleName	MethodInvocation
+.
+query	SimpleName	MethodInvocation
+(
+WfMetaData	SimpleName	QualifiedName
+.
+WF_TABLE	SimpleName	QualifiedName
+,
+null	NullLiteral	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+)
+;
+}
+View	SimpleName	SimpleType
+view	SimpleName	VariableDeclarationFragment
+=
+null	NullLiteral	VariableDeclarationFragment
+;
+
+LayoutInflater	SimpleName	SimpleType
+inflator	SimpleName	VariableDeclarationFragment
+=
+this
+.
+getLayoutInflater	SimpleName	MethodInvocation
+(
+)
+;
+
+view	SimpleName	Assignment
+=
+inflator	SimpleName	MethodInvocation
+.
+inflate	SimpleName	MethodInvocation
+(
+R	SimpleName	QualifiedName
+.
+layout	SimpleName	QualifiedName
+.
+words	SimpleName	QualifiedName
+,
+null	NullLiteral	MethodInvocation
+)
+;
+theRating	SimpleName	Assignment
+=
+feedArray	SimpleName	ArrayAccess
+[
+4	NumberLiteral	ArrayAccess
+]
+;
+userFunction	SimpleName	MethodInvocation
+.
+loginUser	SimpleName	MethodInvocation
+(
+email	SimpleName	MethodInvocation
+,
+password	SimpleName	MethodInvocation
+)
+;
+Uri	SimpleName	SimpleType
+contacts	SimpleName	VariableDeclarationFragment
+=
+Uri	SimpleName	MethodInvocation
+.
+parse	SimpleName	MethodInvocation
+(
+"content://contacts/people"	StringLiteral	MethodInvocation
+)
+;
+
+Cursor	SimpleName	SimpleType
+cur	SimpleName	VariableDeclarationFragment
+=
+managedQuery	SimpleName	MethodInvocation
+(
+contacts	SimpleName	MethodInvocation
+,
+projection	SimpleName	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+,
+null	NullLiteral	MethodInvocation
+)
+;
+if
+oldNumClicks	SimpleName	InfixExpression
+==
+clickCount	SimpleName	InfixExpression
+
+else
+return
+
+handler	SimpleName	MethodInvocation
+.
+postDelayed	SimpleName	MethodInvocation
+(
+RUNNABLE	SimpleName	MethodInvocation
+,
+delay_allowed_between_clicks	SimpleName	MethodInvocation
+)
+myText	SimpleName	MethodInvocation
+.
+setText	SimpleName	MethodInvocation
+(
+lista	SimpleName	MethodInvocation
+.
+getString	SimpleName	MethodInvocation
+(
+1	NumberLiteral	MethodInvocation
+)
+)
+;
+Intent	SimpleName	SimpleType
+intent	SimpleName	VariableDeclarationFragment
+=
+new
+Intent	SimpleName	SimpleType
+(
+MainAct	SimpleName	ThisExpression
+.
+this
+,
+Howto	SimpleName	SimpleType
+.
+class
+)
+;
+if
+(
+response	SimpleName	InfixExpression
+!=
+null	NullLiteral	InfixExpression
+)
+{
+
+Log	SimpleName	MethodInvocation
+.
+d	SimpleName	MethodInvocation
+(
+"TAG"	StringLiteral	MethodInvocation
+,
+"response not null"	StringLiteral	MethodInvocation
+)
+;
+areasList	SimpleName	Assignment
+=
+mDbHelper	SimpleName	MethodInvocation
+.
+getAllAreas	SimpleName	MethodInvocation
+(
+)
+;
+String	SimpleName	SimpleType
+[
+]
+tS	SimpleName	VariableDeclarationFragment
+;
+list	SimpleName	Assignment
+=
+(
+ListView	SimpleName	SimpleType
+)
+findViewById	SimpleName	MethodInvocation
+(
+R	SimpleName	QualifiedName
+.
+id	SimpleName	QualifiedName
+.
+list	SimpleName	QualifiedName
+)
+;
+adapter	SimpleName	Assignment
+=
+new
+LazyAdapter	SimpleName	SimpleType
+(
+this
+,
+tS	SimpleName	ClassInstanceCreation
+,
+mTitles	SimpleName	ClassInstanceCreation
+)
+;
+adapter	SimpleName	Assignment
+=
+new
+LazyAdapter	SimpleName	SimpleType
+(
+this
+,
+tS	SimpleName	ClassInstanceCreation
+,
+mTitles	SimpleName	ClassInstanceCreation
+)
+;
+list	SimpleName	MethodInvocation
+.
+setAdapter	SimpleName	MethodInvocation
+(
+adapter	SimpleName	MethodInvocation
+)
+;
+
+t	SimpleName	MethodInvocation
+.
+toArray	SimpleName	MethodInvocation
+(
+tS	SimpleName	MethodInvocation
+)
+;
+list	SimpleName	Assignment
+=
+new
+ListSchedule	SimpleName	SimpleType
+(
+cookie	SimpleName	ClassInstanceCreation
+)
+;
+RelativeLayout	SimpleName	QualifiedName
+.
+LayoutParams	SimpleName	QualifiedName
+mParam	SimpleName	VariableDeclarationFragment
+=
+new
+RelativeLayout	SimpleName	QualifiedName
+.
+LayoutParams	SimpleName	QualifiedName
+(
+LayoutParams	SimpleName	QualifiedName
+.
+MATCH_PARENT	SimpleName	QualifiedName
+,
+LayoutParams	SimpleName	QualifiedName
+.
+WRAP_CONTENT	SimpleName	QualifiedName
+)
+;
+
+sucs	SimpleName	MethodInvocation
+.
+setLayoutParams	SimpleName	MethodInvocation
+(
+myListView	SimpleName	MethodInvocation
+)
+;
+String	SimpleName	SimpleType
+str	SimpleName	VariableDeclarationFragment
+=
+"one|two|three|four|five"	StringLiteral	VariableDeclarationFragment
+;
+
+String	SimpleName	SimpleType
+[
+]
+StrCheck	SimpleName	VariableDeclarationFragment
+=
+str	SimpleName	MethodInvocation
+.
+split	SimpleName	MethodInvocation
+(
+"\|"	StringLiteral	MethodInvocation
+)
+;
+public	Modifier	MethodDeclaration
+Bitmap	SimpleName	SimpleType
+urlImageToBitmap	SimpleName	MethodDeclaration
+(
+String	SimpleName	SimpleType
+urlImage	SimpleName	SingleVariableDeclaration
+)
+{
+Bitmap	SimpleName	SimpleType
+mIcon1	SimpleName	VariableDeclarationFragment
+=
+null	NullLiteral	VariableDeclarationFragment
+;
+URL	SimpleName	SimpleType
+url_value	SimpleName	VariableDeclarationFragment
+;
+try
+{
+url_value	SimpleName	Assignment
+=
+new
+URL	SimpleName	SimpleType
+(
+urlImage	SimpleName	ClassInstanceCreation
+)
+;
+mIcon1	SimpleName	Assignment
+=
+BitmapFactory	SimpleName	MethodInvocation
+.
+decodeStream	SimpleName	MethodInvocation
+(
+url_value	SimpleName	MethodInvocation
+.
+openConnection	SimpleName	MethodInvocation
+(
+)
+.
+getInputStream	SimpleName	MethodInvocation
+(
+)
+)
+;
+}
+catch
+(
+MalformedURLException	SimpleName	SimpleType
+e	SimpleName	SingleVariableDeclaration
+)
+{
+//
+private	Modifier	VariableDeclarationStatement
+ImageButton	SimpleName	SimpleType
+rstBtn	SimpleName	VariableDeclarationFragment
+;
+vibrator	SimpleName	MethodInvocation
+.
+vibrate	SimpleName	MethodInvocation
+(
+10	NumberLiteral	MethodInvocation
+)
+txt1	SimpleName	MethodInvocation
+.
+setText	SimpleName	MethodInvocation
+(
+data	SimpleName	MethodInvocation
+.
+getTournament	SimpleName	MethodInvocation
+(
+)
+.
+get	SimpleName	MethodInvocation
+(
+0	NumberLiteral	MethodInvocation
+)
+.
+get	SimpleName	MethodInvocation
+(
+0	NumberLiteral	MethodInvocation
+)
+.
+getTeam1	SimpleName	MethodInvocation
+(
+)
+.
+toString	SimpleName	MethodInvocation
+(
+)
+)
+;
+sp	SimpleName	Assignment
+=
+getSharedPreferences	SimpleName	MethodInvocation
+(
+fileName	SimpleName	MethodInvocation
+,
+0	NumberLiteral	MethodInvocation
+)
+;
+
+betaView	SimpleName	Assignment
+=
+(
+TextView	SimpleName	SimpleType
+)
+findViewById	SimpleName	MethodInvocation
+(
+R	SimpleName	QualifiedName
+.
+id	SimpleName	QualifiedName
+.
+betaTextView	SimpleName	QualifiedName
+)
+;
+Map	SimpleName	SimpleType
+<
+Integer	SimpleName	SimpleType
+,
+Item	SimpleName	SimpleType
+>
+Log	SimpleName	MethodInvocation
+.
+d	SimpleName	MethodInvocation
+(
+"int Name"	StringLiteral	MethodInvocation
+,
+Integer	SimpleName	MethodInvocation
+.
+toString	SimpleName	MethodInvocation
+(
+nameColumn	SimpleName	MethodInvocation
+)
+)
+;
+
+Log	SimpleName	MethodInvocation
+.
+d	SimpleName	MethodInvocation
+(
+"int Number"	StringLiteral	MethodInvocation
+,
+Integer	SimpleName	MethodInvocation
+.
+toString	SimpleName	MethodInvocation
+(
+phoneColumn	SimpleName	MethodInvocation
+)
+)
+;
+HttpConnectionParams	SimpleName	MethodInvocation
+.
+setConnectionTimeout	SimpleName	MethodInvocation
+(
+httpParameters	SimpleName	MethodInvocation
+,
+1000000	NumberLiteral	MethodInvocation
+)
+;
+
+HttpConnectionParams	SimpleName	MethodInvocation
+.
+setSoTimeout	SimpleName	MethodInvocation
+(
+httpParameters	SimpleName	MethodInvocation
+,
+1000000	NumberLiteral	MethodInvocation
+)
+;
+public	Modifier	TypeDeclaration
+class
+Foo	SimpleName	TypeDeclaration
+implements
+OnClickListener	SimpleName	SimpleType
+{
+
+public	Modifier	MethodDeclaration
+void
+onKey	SimpleName	MethodDeclaration
+(
+View	SimpleName	SimpleType
+arg0	SimpleName	SingleVariableDeclaration
+,
+int
+arg1	SimpleName	SingleVariableDeclaration
+,
+KeyEvent	SimpleName	SimpleType
+arg2	SimpleName	SingleVariableDeclaration
+)
+{
+if
+(
+arg0	SimpleName	InfixExpression
+==
+searchBox	SimpleName	InfixExpression
+)
+{
+}
+}
+
+}
+@
+SuppressWarnings	SimpleName	MarkerAnnotation
+switch
+(
+strReason	SimpleName	SwitchStatement
+)
+resultCon	SimpleName	Assignment
+=
+Integer	SimpleName	MethodInvocation
+.
+parseInt	SimpleName	MethodInvocation
+(
+odmEditStr	SimpleName	MethodInvocation
+)
+-
+Integer	SimpleName	MethodInvocation
+.
+parseInt	SimpleName	MethodInvocation
+(
+lastOdm	SimpleName	MethodInvocation
+)
+/
+Integer	SimpleName	MethodInvocation
+.
+parseInt	SimpleName	MethodInvocation
+(
+pumpEditStr	SimpleName	MethodInvocation
+)
+;
+@
+Override	SimpleName	MarkerAnnotation
+public	Modifier	VariableDeclarationStatement
+int
+getViewTypeCount	SimpleName	VariableDeclarationFragment
+(
+)
+{
+return
+0	NumberLiteral	ReturnStatement
+;
+}
+AudioManager	SimpleName	MethodInvocation
+.
+setMode	SimpleName	MethodInvocation
+(
+AudioManager	SimpleName	QualifiedName
+.
+MODE_IN_CALL	SimpleName	QualifiedName
+)
+;
+
+AudioManager	SimpleName	MethodInvocation
+.
+setStreamSolo	SimpleName	MethodInvocation
+(
+AudioManager	SimpleName	QualifiedName
+.
+STREAM_VOICE_CALL	SimpleName	QualifiedName
+,
+true	BooleanLiteral	MethodInvocation
+)
+;
+
+AudioManager	SimpleName	MethodInvocation
+.
+setStreamSolo	SimpleName	MethodInvocation
+(
+AudioManager	SimpleName	QualifiedName
+.
+STREAM_VOICE_CALL	SimpleName	QualifiedName
+,
+false	BooleanLiteral	MethodInvocation
+)
+;
+Log	SimpleName	MethodInvocation
+.
+d	SimpleName	MethodInvocation
+(
+tag	SimpleName	MethodInvocation
+,
+string	SimpleName	MethodInvocation
+)
+class
+X	SimpleName	TypeDeclaration
+{
+X	SimpleName	SimpleType
+other	SimpleName	VariableDeclarationFragment
+;
+public	Modifier	MethodDeclaration
+String	SimpleName	SimpleType
+toString	SimpleName	MethodDeclaration
+(
+)
+{
+if
+(
+other	SimpleName	InfixExpression
+!=
+null	NullLiteral	InfixExpression
+)
+return
+other	SimpleName	MethodInvocation
+.
+toString	SimpleName	MethodInvocation
+(
+)
+;
+else
+return
+super
+.
+toString	SimpleName	SuperMethodInvocation
+(
+)
+;
+}
+public	Modifier	MethodDeclaration
+void
+doSomething	SimpleName	MethodDeclaration
+(
+)
+{
+if
+(
+other	SimpleName	InfixExpression
+!=
+null	NullLiteral	InfixExpression
+)
+{
+other	SimpleName	MethodInvocation
+.
+doSomething	SimpleName	MethodInvocation
+(
+)
+;
+return
+;
+}
+class
+A	SimpleName	TypeDeclaration
+extends
+Activity	SimpleName	SimpleType
+{
+public	Modifier	FieldDeclaration
+boolean
+flag	SimpleName	VariableDeclarationFragment
+=
+false	BooleanLiteral	VariableDeclarationFragment
+;
+}
+
+class
+B	SimpleName	TypeDeclaration
+extends
+ListActivity	SimpleName	SimpleType
+{
+if
+(
+flag	SimpleName	IfStatement
+)
+}
+
+A	SimpleName	SimpleType
+
+B	SimpleName	SimpleType
+
+import
+org	SimpleName	QualifiedName
+.
+example	SimpleName	QualifiedName
+.
+Myapp	SimpleName	QualifiedName
+.
+A	SimpleName	QualifiedName
+class
+A	SimpleName	TypeDeclaration
+extends
+Activity	SimpleName	SimpleType
+{
+public	Modifier	FieldDeclaration
+boolean
+flag	SimpleName	VariableDeclarationFragment
+=
+false	BooleanLiteral	VariableDeclarationFragment
+;
+}
+
+class
+B	SimpleName	TypeDeclaration
+extends
+ListActivity	SimpleName	SimpleType
+{
+if
+(
+flag	SimpleName	IfStatement
+)
+}
+
+A	SimpleName	SimpleType
+
+B	SimpleName	SimpleType
+
+import
+org	SimpleName	QualifiedName
+.
+example	SimpleName	QualifiedName
+.
+Myapp	SimpleName	QualifiedName
+.
+A	SimpleName	QualifiedName
+MessageDigest	SimpleName	SimpleType
+md	SimpleName	VariableDeclarationFragment
+=
+MessageDigest	SimpleName	MethodInvocation
+.
+getInstance	SimpleName	MethodInvocation
+(
+"SHA-224"	StringLiteral	MethodInvocation
+,
+"SHA224Provider"	StringLiteral	MethodInvocation
+)
+;
+
+md	SimpleName	MethodInvocation
+.
+update	SimpleName	MethodInvocation
+(
+orig	SimpleName	MethodInvocation
+.
+getBytes	SimpleName	MethodInvocation
+(
+"UTF-8"	StringLiteral	MethodInvocation
+)
+)
+;
+
+byte
+[
+]
+result	SimpleName	VariableDeclarationFragment
+=
+md	SimpleName	MethodInvocation
+.
+digest	SimpleName	MethodInvocation
+(
+)
+;
+
+String	SimpleName	SimpleType
+hash	SimpleName	VariableDeclarationFragment
+=
+new
+String	SimpleName	SimpleType
+(
+result	SimpleName	ClassInstanceCreation
+)
+;
+View	SimpleName	SimpleType
+v	SimpleName	VariableDeclarationFragment
+=
+thumbs_layout	SimpleName	MethodInvocation
+.
+getChildAt	SimpleName	MethodInvocation
+(
+i	SimpleName	MethodInvocation
+)
+;
+
+v	SimpleName	MethodInvocation
+.
+setTag	SimpleName	MethodInvocation
+(
+)
+;
+obj	SimpleName	Assignment
+=
+new
+JSONObject	SimpleName	SimpleType
+(
+)
+;
+
+obj	SimpleName	MethodInvocation
+.
+put	SimpleName	MethodInvocation
+(
+"alert"	StringLiteral	MethodInvocation
+,
+title	SimpleName	MethodInvocation
+)
+;
+
+obj	SimpleName	MethodInvocation
+.
+put	SimpleName	MethodInvocation
+(
+"action"	StringLiteral	MethodInvocation
+,
+"com.omega.omegaplus.main.UPDATE_STATUS"	StringLiteral	MethodInvocation
+)
+;
+
+obj	SimpleName	MethodInvocation
+.
+put	SimpleName	MethodInvocation
+(
+"title"	StringLiteral	MethodInvocation
+,
+msg	SimpleName	MethodInvocation
+)
+;
+
+obj	SimpleName	MethodInvocation
+.
+put	SimpleName	MethodInvocation
+(
+"msg"	StringLiteral	MethodInvocation
+,
+title	SimpleName	MethodInvocation
+)
+;
+
+obj	SimpleName	MethodInvocation
+.
+put	SimpleName	MethodInvocation
+(
+"time"	StringLiteral	MethodInvocation
+,
+time	SimpleName	MethodInvocation
+)
+;
+
+push	SimpleName	MethodInvocation
+.
+setQuery	SimpleName	MethodInvocation
+(
+query	SimpleName	MethodInvocation
+)
+;
+requestScheduleTask	SimpleName	MethodInvocation
+.
+execute	SimpleName	MethodInvocation
+(
+ori	SimpleName	MethodInvocation
+,
+dest	SimpleName	MethodInvocation
+,
+dateString	SimpleName	MethodInvocation
+)
+;
+
+
+Log	SimpleName	MethodInvocation
+.
+d	SimpleName	MethodInvocation
+(
+"origin/destination"	StringLiteral	MethodInvocation
+,
+originCode	SimpleName	InfixExpression
++
+"/"	StringLiteral	InfixExpression
++
+estinationCode	SimpleName	InfixExpression
+)
+;
+String	SimpleName	SimpleType
+number	SimpleName	VariableDeclarationFragment
+=
+"+91 97-00-0000000"	StringLiteral	VariableDeclarationFragment
+;
+
+String	SimpleName	SimpleType
+numberValue	SimpleName	VariableDeclarationFragment
+=
+number	SimpleName	MethodInvocation
+.
+replaceAll	SimpleName	MethodInvocation
+(
+" "	StringLiteral	MethodInvocation
+,
+"%20"	StringLiteral	MethodInvocation
+)
+;
+
+numberValue	SimpleName	Assignment
+=
+URLEncoder	SimpleName	MethodInvocation
+.
+encode	SimpleName	MethodInvocation
+(
+number	SimpleName	MethodInvocation
+,
+"UTF-8"	StringLiteral	MethodInvocation
+)
+;
+
+System	SimpleName	QualifiedName
+.
+out	SimpleName	QualifiedName
+.
+println	SimpleName	MethodInvocation
+(
+numberValue	SimpleName	MethodInvocation
+)
+;
+btnLinkToRegister	SimpleName	MethodInvocation
+.
+setOnClickListener	SimpleName	MethodInvocation
+(
+new
+View	SimpleName	QualifiedName
+.
+OnClickListener	SimpleName	QualifiedName
+(
+)
+{
+this
+.
+myHandler	SimpleName	FieldAccess
+=
+new
+Handler	SimpleName	SimpleType
+(
+)
+;
+requestWindowFeature	SimpleName	MethodInvocation
+(
+Window	SimpleName	QualifiedName
+.
+FEATURE_NO_TITLE	SimpleName	QualifiedName
+)
+;
+engine	SimpleName	Assignment
+=
+new
+GameEngine	SimpleName	SimpleType
+(
+resources	SimpleName	ClassInstanceCreation
+,
+view	SimpleName	ClassInstanceCreation
+)
+Matrix	SimpleName	SimpleType
+m	SimpleName	VariableDeclarationFragment
+=
+new
+Matrix	SimpleName	SimpleType
+(
+)
+;
+string	SimpleName	SimpleType
+tag	SimpleName	VariableDeclarationFragment
+=
+tabs	SimpleName	MethodInvocation
+.
+getCurrentTabByTab	SimpleName	MethodInvocation
+(
+)
+;
+ConsumerObject	SimpleName	SimpleType
+consumer	SimpleName	VariableDeclarationFragment
+=
+(
+ConsumerObject	SimpleName	SimpleType
+)
+intent	SimpleName	MethodInvocation
+.
+getSerializableExtra	SimpleName	MethodInvocation
+(
+"CONSUMER"	StringLiteral	MethodInvocation
+)
+;
+Scores	SimpleName	SimpleType
+score	SimpleName	VariableDeclarationFragment
+=
+new
+Scores	SimpleName	SimpleType
+(
+)
+
+score	SimpleName	MethodInvocation
+.
+resetScores	SimpleName	MethodInvocation
+(
+)
+;
+Intent	SimpleName	SimpleType
+i	SimpleName	VariableDeclarationFragment
+=
+new
+Intent	SimpleName	SimpleType
+(
+MixesActivity	SimpleName	ThisExpression
+.
+this
+,
+StreamController	SimpleName	SimpleType
+.
+class
+)
+;
+
+i	SimpleName	MethodInvocation
+.
+setFlags	SimpleName	MethodInvocation
+(
+Intent	SimpleName	QualifiedName
+.
+FLAG_ACTIVITY_NEW_TASK	SimpleName	QualifiedName
+|
+Intent	SimpleName	QualifiedName
+.
+FLAG_ACTIVITY_CLEAR_TOP	SimpleName	QualifiedName
+)
+;
+
+startActivity	SimpleName	MethodInvocation
+(
+i	SimpleName	MethodInvocation
+)
+;
