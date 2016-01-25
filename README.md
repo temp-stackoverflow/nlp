@@ -4,8 +4,8 @@ nlp<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README.md<br>
 |<br>
 |___data<br>
-|    |___annotated-pos<br>
-|   |    batch1.txt<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___annotated-pos<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;batch1.txt<br>
 |   |    batch2.txt<br>
 |   |    batch3.txt<br>
 |   |<br>
