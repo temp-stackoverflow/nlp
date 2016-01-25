@@ -6,14 +6,14 @@ nlp<br>
 |___data<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___annotated-pos<br>
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;batch1.txt<br>
-|   |    batch2.txt<br>
-|   |    batch3.txt<br>
-|   |<br>
-|   |___annotated-java-syntax<br>
-|       |   batch1.txt
-|       |   batch2.txt
-|
-|___paper-experiments
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;batch2.txt<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;batch3.txt<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___annotated-java-syntax<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;batch1.txt<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;batch2.txt<br>
+|<br>
+|___paper-experiments<br>
     |___text-segmentation
     |   |   Eval.java
     |   |   result-meta1.txt
